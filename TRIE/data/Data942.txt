@@ -1,0 +1,107 @@
+*Everything It Will Take to Get Faster Wi-Fi on Planes
+
+I bring tidings from the frontier of airplane Wi-Fi. I experienced faster internet with my own two thumbs aboard a 757! I did a series of speed tests and received between 17 and 27 megabits per second while also flying through the sky. This is streaming-Netflix-while-streaming-Spotify territory—and a far cry from the measly speeds one can attain on most current flights.
+
+Airplane Wi-Fi is technically measured on a scale from makes-you-want-to-throw-your-computer-out-of-the-plane to makes-you-want-to-throw-yourself-out-of-the-plane. That’s because it is hard to direct data to a plane 30,000 feet in the air. You need an antenna pointed down at ground towers or up at a small number of bandwidth-limited satellites. And yet some internet is better than none. And so despite the speed, Wi-Fi aboard planes remains indispensable for work travelers, who might even pay $40 for the privilege of sipping bits through a tiny kinked straw for four or five hours.
+
+
+
+As you might expect, the airlines and the people who provide tech components to them are trying to make that experience better. Our sighs have made their way to research team’s ears. Our muttering has led to and starred in PowerPoints.
+
+Here’s the good news: Yes, it will get better. Even though it’s hard, no fewer than three companies are willing to challenge physics to bring you your streaming video.
+
+And now for the bad news: It’s gonna take a while before you get to use that better Wi-Fi.
+
+* * *
+
+My adventure to the future of airplane Wi-Fi began at a part of the San Francisco airport that I’d never seen: Signature Flight Support, the name bold and rich, the planes private. I’d been summoned to the place by the noted thermostat-maker Honeywell, which has been a major supplier of airplane components for decades. They had invited a group of journalists for a ride aboard their hardware-testing plane, and by the time I arrived, the presenters and audience were gathered into a small conference room at the terminal.
+
+Before we flew, Kristin Slyker, Honeywell Aerospace’s VP of “Connected Aircraft” wanted to fill us in on the current aviation industry. The pitch was familiar but compelling: They don’t make the thing you know (the airplane), but they make the thing you know better.
+
+Imagine any Boeing or Airbus: Each one is a conglomeration of parts created by all kinds of different suppliers. Honeywell, for example, does a good business with auxiliary power units, a small engine that lets the pilots turn on the air conditioning, even when the main jet engines aren’t running. Not something you probably think about everyday, but Honeywell has 36,000 of these units flying around on airplanes right now.
+
+
+They also supply wheels and electrical power infrastructure, cabin pressure control systems and LED lighting, radios, sensors, gyroscopes, accelerometers, and a bunch of other things.
+
+And this is where the Wi-Fi comes in. What is Wi-Fi, from the plane’s perspective?
+
+It’s a system with a few pieces:
+
+A big, specialized antenna
+Powerful radio transmitters to communicate with a satellite or ground towers on a particular band of the electromagnetic spectrum
+A modem for receiving information
+A distribution system for splitting that bandwidth among the people and machines on the plane.
+And those kinds of things—antennas and radios and aircraft systems—are what Honeywell makes. If airplane Wi-Fi is gonna get better, it’s gonna be through improvements in these parts and the systems that animate them.
+
+
+Honeywell’s technology testing plane (Alexis Madrigal).
+So, I boarded the Honeywell plane with the other journalists. On the outside, it looks like any other plane—tube-y, white. But inside, the wall and ceiling panels have been torn out, so all the plane’s cabling is visible. There are bundles of cords spanning the length of the craft, and most of them would be present in any commercial plane, not just this specially kitted out one.
+
+It’s a striking visual: A plane is a flying data-generating machine. Honeywell wants to tie all of these data streams together. They want to sell airlines components, the service for assessing the data that the sensors on those parts generate, apps for pilots, and a host of other services they have rolled under Slyker in a business they call the “Connected Aircraft.” And the charismatic avatar of their capabilities and the coming change is their next-gen internet technology, the Wi-Fi, which they have branded Jetwave.
+
+
+
+
+Honeywell believes that Jetwave is faster and more reliable than the current products from competitors like GoGo, the major incumbent in airplane Wi-Fi, and ViaSat, a general satellite internet company that's moved strongly into the airplane space.
+
+Those companies are also working on next-generation products, like Gogo’s 2ku and ViaSat’s Gen-2 set of equipment. Both of those companies have a stronger current presence in the commercial airplane Wi-Fi market, especially in North America, so it could be a while before you use this particular technology on your flight from Birmingham to Dallas.
+
+Nonetheless, all of the next-generation systems make use of satellite technology, so what Honeywell showed me is a good indicator of how you’ll eventually stream Netflix from a window seat.
+
+* * *
+
+On board, I couldn’t help but follow the cords towards the back of the airplane until I ran into Stéphane Klander, who is an engineer working on Jetwave. He wore a red Honeywell polo shirt and straight leg khakis. He’s blunt, funny, less media-trained than his executive colleagues.
+
+Slyker introduced him as their “communications specialist.” So, eyes twinkling, Klander announced with a light and unplaceable accent, “I know everything about communication. What do you want to know?”
+
+This was the man who could tell me what I wanted to know about how the internet works aboard airplanes, and why it could get better. He invited me back to his workstation on the plane and I strapped into the three-point harness that would keep me in the leather seat next to Klander.
+
+
+He pulled out his reading glasses and began to run through his standard checks. It was automatic; these guys spend 400 hours a year flying around in this thing.
+
+
+Stéphane Klander (Alexis Madrigal).
+Honeywell’s new system works with Inmarsat’s satellite system. Built to provide maritime communications, Inmarsat is one of the big, established satcom companies. Honeywell works with three newish Inmarsat-5 satellites in geostationary orbit. That means—with small corrections—the satellites orbit in time with the Earth’s rotation, which to an observer on the ground (or in a plane) means that they appear fixed in the same place in the sky.
+
+The satellites can only cover a slice of the Earth, so when a plane flies out of the range of one, it has to hand-off to the next satellite.
+
+On our flight out of San Francisco, Klander is excited to gather data on how their system performs on the Pacific Ocean Region (POR) satellite, which they’ve tested less than the Atlantic and Indian regions.
+
+
+Inmarsat-5 satellite coverage. Dark blue: Pacific Ocean Region (POR); light blue: Atlantic Ocean Region (AOR); and green: Indian Ocean Region (IOR).
+Inmarsat calls this particular satellite array Global Xpress. Each satellite uses dozens of beams that provide up to 50 megabytes per second of bandwidth to each commercial plane flying down on Earth.
+
+
+
+A key feature of the satellite system is that it operates in the Ka part of the spectrum—that’s roughly 30 gigahertz. That’s extremely high frequency, technically! Consider that cell phones use frequencies in the low thousands of megahertz. FM radio uses spectrum around 85 to 110 megahertz. And AM radio is measured in kilohertz.
+
+Even for satellite communication norms, the Ka band is substantially higher frequency than the Ku band used by many satellites today. And there is one of those massive and acrimonious debates that you’ve never heard of going on between Ka and Ku proponents pushing their technology for higher-throughput satellite communications.
+
+Ku is tried and true. Ka is newer, less congested, and allows for smaller, more powerful data beams.
+
+Suffice to say that the Inmarsat/Honeywell solution is the only global Ka band option. Gogo’s next-generation tech uses the Ku band and Viasat’s second-generation tech uses Ka, but with less blanket coverage.
+
+Honeywell, obviously, stands with the Ka-band proponents for one reason: bandwidth.
+
+“These high frequencies allow us to pass a lot of traffic,” Lander said.
+
+But there’s a tradeoff. Higher frequency means shorter wavelengths, and that tends to make it more difficult for the radio waves to travel long distances. (Longer waves tend to travel farther in the atmosphere: see AM versus FM radio).
+
+So, to use this Ka high-frequency spectrum, the Honeywell radio transmitter applies 25 watts of power. Your phone’s transmitter might have 1 or 2 watts of power.
+
+
+“This would fry your brain if it were used in a cell phone,” he said. “There is a safety distance we have to respect. No one can be on top of the airplane while we are transmitting. It would harm you physically if you were standing in front of it.”
+
+In fact, the Jetwave amplifier’s 25 watts of power is roughly comparable to the transmission power of a ground-based cell tower.
+
+* * *
+
+Lander pulls up a photograph of the antenna that's sitting on top of the plane under a little dome. Installing this specialized hardware and getting it approved to use with each class of aircraft is one reason why Wi-Fi took so long to roll out and why it will probably be a few years before you regularly encounter the next generation technology.
+
+The antenna itself is beautiful. It can rotate to pick up signals close to the horizon (zero degrees) and up to straight above it (90 degrees). If your hand was the antenna, a karate chop would pick up horizon signals, rotate your hand to an open palm, and now you’d be picking up signals from directly above you.
+
+
+Honeywell aircraft-mounted Jetwave antenna (Honeywell).
+The antenna needs that flexibility because it needs to be able to lock onto the data beams that the Inmarsat spacecraft are projecting onto the Earth no matter where the plane is relative to the satellite.
+
+Klander showed me the detailed map of how the beams fall on the Earth. And it’s complicated! “Right under the satellite, they are very circular, but as we go along the world,” he said, “they are more elongated because there is more room for the RF [radio frequency] to use the space.”

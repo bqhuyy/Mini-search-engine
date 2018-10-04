@@ -1,0 +1,41 @@
+Travis Kalanick Is Taking a Break From Uber
+
+Travis Kalanick, Uber’s embattled CEO, is taking a leave of absence. “It’s hard to put a timeline on this,” he told his employees in an emotional email on Tuesday. “It may be shorter or longer than we might expect.”
+
+An extraordinary string of scandals have consumed Uber for the better part of the year, including an instance when a leaked dashboard-video showed Kalanick cursing at a driver. Amid all this, Kalanick’s mother died in a boating accident last month.
+
+“For the last eight years my life has always been about Uber,” Kalanick wrote. “Recent events have brought home for me that people are more important than work, and that I need to take some time off of the day-to-day to grieve my mother, whom I buried on Friday, to reflect, to work on myself, and to focus on building out a world-class leadership team.”
+
+“But if we are going to work on Uber 2.0,” he added, “I also need to work on Travis 2.0 to become the leader that this company needs and that you deserve.”
+
+Also on Tuesday, Uber made public the recommendations put forth by a special committee hired to investigate the company’s culture. In a marathon meeting on Sunday, the Uber board unanimously voted to adopt all recommendations in the Holder Report, a representative for Uber told The Atlantic, referring to the report that came from the investigation.
+
+Uber asked Eric Holder, the former U.S. attorney general, to lead the probe after an extraordinary string of scandals at the ridesharing company. The past six months have been enough of a public-relations nightmare for Uber to have raised the question of whether the company can survive—or at least whether its $70 billion valuation will take a hit.
+
+Uber’s recent problems have included a high-profile public boycott, an explosive first-hand account of sexism at the company, revelations of how Uber used secret software to evade law enforcement, and the leaked video of Kalanick’s argument with a driver.
+
+Kalanick’s leave will begin just three months after he pledged to his employees that he would “grow up” and get the “leadership help” he needed, Kalanick may take a leave of absence from the embattled ridesharing company, according to multiple reports. Though the board was expected to discuss Kalanick’s future on Sunday, it’s not clear whether a leave of absence was one of the items formally recommended in the Holder report.
+
+The Holder report chronicles “a frequently chaotic and ‘hostile work environment’ without adequate systems in place to ensure that violations such as sexual harassment and retaliatory behavior were dealt with professionally,” according to Recode. Emil Michael, one of Kalanick’s closest confidants and the second in command at Uber, stepped down on Monday, according to an email to Uber employees obtained by The New York Times. It wasn’t clear from the email whether he resigned or was forced out.
+
+Uber has suffered several high-profile resignations and terminations in recent months. In May, Uber fired Anthony Levandowski, a star engineer and the central figure in a high-profile legal battle over self-driving cars.
+
+His termination was tied to a federal lawsuit in which Waymo—the self-driving car company that spun out of Google—is accusing Uber and Levandowski of stealing its design secrets. An Uber spokesperson told The Atlantic that Uber had been pressing Levandowski to help with its internal investigation of the matter for months, but that he did not meet a deadline set for him. Levandowski could not be reached for comment. He has exercised his Fifth Amendment right against self-incrimination, which played a role in a federal judge’s decision to deny arbitration in the Waymo case.
+
+Uber’s request for arbitration would have allowed the ride-sharing giant to defend itself behind closed doors. Instead, Uber will have to go to trial to answer Waymo’s accusations in what is sure to be an ugly showdown.
+
+The case is poised to be among the biggest legal fights over intellectual property so far this century. The technology at stake is at the center of the emerging and potentially highly lucrative self-driving car industry, and the key players are two of the world’s top tech companies. (Google rebranded its self-driving car project as Waymo in 2016.)
+
+Not only will there be a trial, but Judge William Alsup also referred the case to the U.S. Attorney for investigation of possible theft of trade secrets, a move that suggests the Uber engineer at the center of the case could face criminal charges.
+
+Waymo is accusing the former Google engineer Levandowski of secretly stealing a trove of files from the company before he quit to start his own self-driving truck startup. Uber acquired that company, Otto, for $680 million shortly after it launched last year.
+
+Self-driving cars are arguably the great technological promise of the 21st century. They are in that rare class of technology that might actually change the world. And not just in the way everyone in Silicon Valley talks about changing the world—but really, fundamentally change it. So much so that their dramatic life-saving potential is almost secondary to the other economic, cultural, and aesthetic transformations they would cause.
+
+Those who aren’t able to drive themselves today—people who are blind, for example—would be granted a new level of transportation freedom. Mass adoption of self-driving cars would create and destroy entire industries, alter the way people work and move through cities, and change the way those cities are designed and connected.
+
+To build the technology that prompts all this change is to be in an enormous position of power.
+
+That’s why the race to bring self-driving cars to the masses is so intense. It’s also what makes this particular competition echo other transformative moments in technological history—going all the way back to the Railroad Wars, at least. (Incidentally, there was a different kind of driverless car back then.) “The Wright brothers jump into my brain immediately,” John Leonard, an engineering professor at M.I.T., told me in 2015. “But maybe it’s kind of like a decentralized space race. Like Sputnik, but between the traditional car companies and their suppliers versus tech companies and their startups.”
+
+There’s a lot of money at stake. A lot a lot. We’re talking billions of dollars per year in potential profits, maybe more. All of the major players know this. For some companies, it is a fight to the death. Each one intends to come out on top.

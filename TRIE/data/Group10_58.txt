@@ -1,0 +1,34 @@
+NASA keeps a close eye on tiny stowaways
+
+Wherever you find people, you also find bacteria and other microorganisms. The International Space Station is no exception.
+
+
+That generally is not a problem. For one thing, the space station is kept cleaner than many environments on Earth. Routine cleaning activities are included on astronaut task schedules. Cargo sent to the station, and the vehicles that carry it, undergo a rigorous cleaning process and monitoring for microorganisms before launch. Crew members assigned to the space station spend 10 days in pre-flight quarantine.
+
+For another, scientists regularly monitor the interior of this and other spacecraft, a process that started with the Apollo missions.
+
+"Once every three months, we sample from two locations in each module of the U.S. segment of the station," says Mark Ott, a microbiologist at Johnson Space Center. Roscosmos, the Russian space agency, monitors its segments. Samples collected from surfaces and from the air are cultured on plates containing a growth medium, one specific for bacteria and another for fungi. Those plates return to the ground and scientists identify each organism that grows on them.
+
+Drinking water on the station is treated similarly to the water we drink on earth to kill and keep microorganisms from growing. Regular monitoring also keeps an eye on the station's drinking water system. For years, scientists conducted this monitoring once a month, but samples kept coming back so clean that the schedule changed to once every three months. The astronauts' drinking water is, microbiologically speaking, cleaner than just about anything they drink on earth, says Ott.
+
+
+This environmental monitoring is driven by the ISS medical requirements, and has consistently shown the space station contains the same types of microorganisms commonly found in most offices and homes here on Earth. Microorganisms are found everywhere, but very few types are medically significant, or capable of making someone sick under the right circumstances. The medical staff keeps a particularly sharp eye out for those, though, and when any turn up, the space station gets a more-thorough-than-usual cleaning.
+
+Ott adds that the mere presence of such microorganisms poses little risk to the health of the astronauts.
+
+"It may be something typically found in a bathroom, for example, but that you wouldn't want in an office space," he says.
+
+Finally, a microorganism found on the station may initially look like something risky, but, on closer examination, turn out to be a slightly different type. NASA scientists use DNA to identify specific microorganisms, but it can still be difficult to distinguish between closely related species.
+
+That was the case with a recent investigation that verified 11 strains of bacterium belonging to what microbiologists call the Bacillus anthracis, cereus, thuringiensis group, or Bacillus cereus group that had been previously reported in 2014. While this large family of microbes includes some bad bugs, Bacillus is extremely common on Earth and around humans, so finding this type of bacteria on the space station is not unusual. Using DNA hybridization, researchers identified individual species in the samples and, while some were a close match to Bacillus anthracis type strains, they did not have the physical characteristics or the toxin-producing plasmids required to consider them a potential risk. Continued research is being done to understand what organisms grow on the space station.
+
+
+There have been many studies of the microbial environment on the space station. These investigations often use different techniques and have different objectives from the required environmental monitoring conducted by NASA, but can support the goals of that program.
+
+"We should be investigating new and different ways of monitoring spacecraft for microorganisms," says Ott. "But we must be careful when we interpret the results. NASA has and continues to closely monitor the International Space Station to ensure it provides a safe and healthy environment for our astronauts."
+
+This study that has been ongoing since 2013, Study of the Impact of Long-Term Space Travel on the Astronauts' Microbiome, Microbiome for short, investigates how space travel affects the human immune system and an individual's microbiome, which is the collection of microbes that live in and on the human body at any given time. Researchers will take periodic samples from different parts of the astronauts' bodies and from the station for analysis back on Earth.
+
+In addition, NASA and the Sloan Foundation recently partnered on a program to support research on the microbiome of the built environment, or the microbial ecosystem of human-made environments -- in this case, the space station. In April, five post-doctoral fellowships were awarded for experiments using NASA's archive of more than a decade of microbes collected from the NASA modules of the space station. These experiments will improve understanding of how microbial communities colonize, adapt, and evolve on the space station, contributing to its ongoing use as well as to future space exploration vehicles.
+
+Because when humans go to space, microorganisms go with us.

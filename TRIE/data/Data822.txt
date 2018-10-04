@@ -1,0 +1,16 @@
+Volvo will use NVIDIA's supercomputer to power its self-driving cars in 2021
+
+Nvidia announced its third automotive partnership this year as it looks to beat competitors like Intel in the race to power self-driving cars.
+Nvidia will install its Drive PX supercomputer system in Volvo cars by 2021, Nvidia CEO and founder Jensen Huang said during Automobil Elektronik Kongress, a conference in Germany, Monday night pacific time. The company also boasts partnerships with Audi, Baidu, Tesla, and Toyota.
+The move further positions Nvidia to take on Intel, which is co-developing the autonomous drive platform for BMW. Intel bought autonomous-drive company Mobileye for $15.3 billion in March.
+Nvidia came to prominence two decades ago as a supplier of 3D graphics processing chips for the video game industry.
+But the company has slowly worked its way into the auto industry, first by powering the graphics for in-vehicle display systems, like Tesla's massive 17-inch touchscreen. Nvidia is now considered a key player developing the "brains" of self-driving cars.
+The Drive PX uses artificial intelligence to process massive amounts of data so self-driving cars can react to difficult driving scenarios in a fraction of a second.
+"The ability for our systems to now be able to sense what’s going on around car, to interpret it, to understand it, and take action in a 30th of a second is what is enabling autonomous vehicles on the road today," Danny Shapiro, Nvidia's senior director of automotive, previously told Business Insider.
+Volvo has used Nvidia's supercomputer for its Drive Me program — a 2017 trial that allows 100 people in Sweden to test self-driving, Volvo XC90 SUVs. Now Volvo will use the Drive PX in commercial vehicles in 2021.
+Volvo is also working with Autoliv, a Swedish manufacturer of auto safety systems, to develop its autonomous driving platform.
+Nvidia also announced partnerships with Audi and Toyota this year.
+Tesla currently uses the Drive PX 2, Nvidia's next-generation computing system, in its Model S and Model X vehicles.
+The Drive PX 2, which will also power Tesla's Model 3 when it launches in July, is the brain running Tesla's semi-autonomous Autopilot system. It will also power the self-driving capabilities in Tesla vehicles in the future.
+German auto supplier ZF said at CES that it will run its ProAI self-driving system on Nvidia's PX 2 platform in commercial vehicles in 2020.
+"I think what’s significant about this announcement is we see a full range of self-driving systems driven from the Nvidia drive architecture," Shapiro said on a Monday call with journalists. "The full power of Drive PX is being brought to bear across all segments of the autonomous vehicle market."

@@ -1,0 +1,27 @@
+Alphabet Inks Deal for Avis to Manage Self-Driving Car Fleet
+
+Waymo, the self-driving car unit of Alphabet Inc., has reached an agreement for Avis Budget Group Inc. to manage its fleet of autonomous vehicles. It’s the first such deal in a field that’s still fledgling but exploding with partnerships. Avis shares surged.
+
+The rental car firm will service and store Waymo’s Chrysler Pacifica minivans in Phoenix, where the parent of Google is testing a ride-hailing service with volunteer members of the public. Waymo will own the vehicles and pay Avis for its service, an arrangement that is set for multiple years but not exclusive. The companies would not share financial terms.
+
+Avis gives Waymo a potential asset that rivals like the major automakers and Uber Technologies Inc already have: a sprawling network of traditional cars and customers that could be transformed into an autonomous transport service over time. Avis owns Zipcar, the on-demand rental service with over one million members, largely in urban centers. The new deal is limited to Waymo’s vehicles in Phoenix, where it started its first pilot service in April after nearly a decade of research. 
+
+Yet Waymo could spread its self-driving systems into other cars over time. Zipcar was part of Avis’ appeal, said Waymo Chief Executive Officer John Krafcik. "One of the wonderful things about partnerships like this is that they are open," he said.
+
+This partnership is the first major one involving oversight of driverless car fleets, a business opening that could help the technology spread. It’s a symbolic win for Avis, which now has the aide of Alphabet, a pioneer in the field that is willing to heave large sums into the unproven tech. Sales at the car rental company have slipped, facing pressure from dips in used vehicle prices, with first quarter revenue falling 2.2 percent to $1.84 billion.
+
+Like others across the auto industry, operators such as Avis and Hertz Global Holdings Inc. are bracing for the upheaval autonomy could bring. “It’s coming our way. So it’s important for us to get involved now,” Avis Chief Executive Officer Larry De Shon said. “This just demonstrates that we can extend our business into fleet-management-as-a-service.”
+
+Shares of both rental car companies soared on the news. Avis rallied the most in five years, jumping 21 percent to as high as $29.32 in New York. Hertz rose as much as 13 percent to $10.76.
+
+De Shon said Avis will retrofit select facilities in the Phoenix area to accommodate Waymo’s minivans, including adding tailored tents to protect them from rain, and doesn’t plan to buy additional real estate. Avis will handle cleaning, oil changes, tire rotations and other vehicle services but will not be responsible for upkeep on Waymo’s specialized hardware, such as its lidar sensors.
+
+Cars that drive themselves will, in theory, need more care than those that don’t. Waymo expects its vehicles will be constantly driving from user to user, adding wear and tear faster than cars parked for stretches of time. Krafcik, a former car executive, estimates Waymo vehicles will log around six times more miles per year than average cars. The Alphabet company is exploring multiple commercial models, including ride-hailing, logistics and personal car sales, and Krafcik said the Avis deal can support all of them.
+
+How lucrative the contract is for Avis remains to be seen. Waymo plans to deploy a bulk of its 600 vehicles from Fiat Chrysler Automobiles NV in Phoenix. The company has revealed talks with Honda Motor Co Ltd. and Lyft Inc., but it hasn’t said if those will spell more vehicles nor has Waymo given a timeline for commercial operations. Despite recent demonstrations of progress, Waymo must pass several technical and regulatory hurdles before bringing fully driverless cars to multiple cities and climates.
+
+Waymo and Avis began formal discussions in January.
+
+“Partnerships can come together very, very quickly when both parties have something to gain,” Krafcik said. Theirs comes amid a flurry of deals as companies rush to position themselves in the unsure industry. Uber has signed some with carmakers. Rival Lyft has too, including a deal with General Motors Co., which has a self-driving program and a car-sharing service, Maven, that competes with Zipcar.
+
+Waymo and Avis said the Phoenix service arrangement will begin later this year.

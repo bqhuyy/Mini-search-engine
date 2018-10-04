@@ -1,0 +1,31 @@
+GEORGE FRIEDMAN: High tech is born in war — not Silicon Valley
+
+Technology is a major foundation of national power. Technologies that define an era usually come from a major geopolitical power. Its uses are obvious.
+For example, Roman engineering helped shape the Mediterranean world. British technology created and sustained the industrial revolution.
+These empires could absorb the cost of innovation because they had the money to do so. They also knew it would only reinforce their power. And because technologies are meant to reinforce power, even the most benign were invented for military purposes.
+The Origins of the iPhone
+Consider the iPhone, an invention of Apple, the genius of Steve Jobs, and a helpful, hip, and harmless product. Or so it would seem.
+The centerpiece of the iPhone, as is the case with so many electronics today, is the microprocessor. The microprocessor was sponsored by the US government back in the day, which needed a lightweight computer for missiles, aircraft, and other systems.
+The technology was quickly put to use in F-14 fighter aircraft, intercontinental ballistic missiles, and submarine-launched nuclear missiles.
+Fast forward to 1985.
+General Dynamics, known at the time as GTE, helped the US Army create an advanced network for a device invented some 12 years earlier. The device was the cellphone, which would face its first true test in Operation Desert Storm.
+The Army needed a reliable wireless communications system that could be easily deployed. And the cellphone fit the bill.
+Many of the iPhone’s accessories and supporting functions were developed for similar purposes. The idea of digital photography was developed by the National Reconnaissance Office, which needed a more efficient way to produce photographs taken by their satellites.
+Maps and location services likewise have military origins. GPS was originally meant to accurately guide the systems and vehicles of the armed forces, not Uber drivers. The satellites that make GPS possible, even today, are operated by the US Air Force.
+And then there is the Internet, which is available at our fingertips. It was developed by the Defense Advanced Research Projects Agency—more commonly known as DARPA.
+The more recent generations of iPhones feature voice recognition software. SIRI, as we’ve come to know her, was originally a DARPA-funded project of SRI International, an American research institute.
+When High Tech Matures
+A few points follow.
+The first and most obvious is that the iPhone, an icon of innovation, is actually a composite of older technologies; only SIRI was invented this century. To its credit, Apple updated those technologies, fused them into a single platform, and turned that platform into a brilliantly packaged and marketed product.
+Still, what is called “high tech” is often an older innovation updated for modern use. It’s evolutionary, but it isn’t revolutionary.
+Second, the military is a primary source of innovation in our society. The 50 or so years the Cold War was fought was a heyday of technological growth. The technology needed to support global war—in space, in the air, on the sea, under the sea, and on land—required unbound creativity.
+In this regard, the US, with its intellectual and financial resources, had the advantage. But the public is either unaware of or indifferent to the fact that much of the technology we now consider peaceful was designed to allow the US to wage global thermonuclear war.
+Third, we are reminded not just of the age of technologies but of their maturity. Maturity is different from obsolescence. The microprocessor cannot be considered cutting edge—it was put to practical use before 1970.
+But neither can it be considered obsolete. It is still widely used. It has become a foundation of society, even though it is no longer being radically innovated.
+The same could be said of the automobile and the internal combustion engine. It was incredibly useful and would be sold for more than a century, but the basic innovations were in place around 1970. The industry mostly became about marketing afterward.
+The microprocessor has a bright future, but its heroic days are behind it.
+The Pattern of Innovation
+The greatest innovations follow this loose pattern.
+A handful of scientists create possibilities, which are later developed for military use before being sold in consumer markets. Governments, which are responsible for national defense, typically underwrite the research.
+Private industry, which eventually benefits from it, is too risk averse to invest at that time. Instead, it takes advantage of military research and development, deploys it, and announces how much they dislike government interference in their work.
+Selling products is important, but we need to understand the role that war plays in consumer products. For the pacifists who love technology and the libertarians who love it at least as much, there is a deep irony at work.

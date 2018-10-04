@@ -1,0 +1,59 @@
+Sorting
+Introduction
+Any number of practical applications in computing require things to be in order. Even before we start computing, the importance of sorting is drilled into us. From group pictures that require the tallest people to stand in the back, to the highest grossing salesman getting the largest Christmas bonus, the need to put things smallest to largest or first to last cannot be underestimated.
+
+When we query a database, and append an ORDER BY clause, we are sorting. When we look for an entry in the phone book, we are dealing with a list that has already been sorted. (And imagine if it weren’t!) If you need to search through an array efficiently using a binary search, it is necessary to first sort the array. When a problem statement dictates that in the case of a tie we should return the lexicographically first result, well… you get the idea.
+
+General Considerations
+Imagine taking a group of people, giving them each a deck of cards that has been shuffled, and requesting that they sort the cards in ascending rank order. Some people might start making piles, others might spread the cards all over a table, and still others might juggle the cards around in their hands. For some, the exercise might take a matter of seconds, for others several minutes or longer. Some might end up with a deck of cards where spades always appear before hearts, in other cases it might be less organized. Fundamentally, these are all the big bullet points that lead algorithmists to debate the pros and cons of various sorting algorithms.
+
+When comparing various sorting algorithms, there are several things to consider. The first is usually runtime. When dealing with increasingly large sets of data, inefficient sorting algorithms can become too slow for practical use within an application.
+
+A second consideration is memory space. Faster algorithms that require recursive calls typically involve creating copies of the data to be sorted. In some environments where memory space may be at a premium (such as an embedded system) certain algorithms may be impractical. In other cases, it may be possible to modify the algorithm to work "in place", without creating copies of the data. However, this modification may also come at the cost of some of the performance advantage.
+
+A third consideration is stability. Stability, simply defined, is what happens to elements that are comparatively the same. In a stable sort, those elements whose comparison key is the same will remain in the same relative order after sorting as they were before sorting. In an unstable sort, no guarantee is made as to the relative output order of those elements whose sort key is the same.
+
+Bubble Sort
+One of the first sorting algorithms that is taught to students is bubble sort. While it is not fast enough in practice for all but the smallest data sets, it does serve the purpose of showing how a sorting algorithm works. Typically, it looks something like this:
+
+The idea is to pass through the data from one end to the other, and swap two adjacent elements whenever the first is greater than the last. Thus, the smallest elements will "bubble" to the surface. This is O(n²) runtime, and hence is very slow for large data sets. The single best advantage of a bubble sort, however, is that it is very simple to understand and code from memory. Additionally, it is a stable sort that requires no additional memory, since all swaps are made in place.
+
+Insertion Sort
+Insertion sort is an algorithm that seeks to sort a list one element at a time. With each iteration, it takes the next element waiting to be sorted, and adds it, in proper location, to those elements that have already been sorted.
+
+One of the principal advantages of the insertion sort is that it works very efficiently for lists that are nearly sorted initially. Furthermore, it can also work on data sets that are constantly being added to. For instance, if one wanted to maintain a sorted list of the highest scores achieved in a game, an insertion sort would work well, since new elements would be added to the data as the game was played.
+
+Merge Sort
+A merge sort works recursively. First it divides a data set in half, and sorts each half separately. Next, the first elements from each of the two lists are compared. The lesser element is then removed from its list and added to the final result list.
+
+Each recursive call has O(n) runtime, and a total of O(log n) recursions are required, thus the runtime of this algorithm is O(n * log n). A merge sort can also be modified for performance on lists that are nearly sorted to begin with. After sorting each half of the data, if the highest element in one list is less than the lowest element in the other half, then the merge step is unnecessary. (The Java API implements this particular optimization, for instance.) The data, as the process is called recursively, might look like this:
+
+Apart from being fairly efficient, a merge sort has the advantage that it can be used to solve other problems, such as determining how "unsorted" a given list is.
+
+Heap Sort
+In a heap sort, we create a heap data structure. A heap is a data structure that stores data in a tree such that the smallest (or largest) element is always the root node. (Heaps, also known as priority queues, were discussed in more detail in Data Structures.) To perform a heap sort, all data from a list is inserted into a heap, and then the root element is repeatedly removed and stored back into the list. Since the root element is always the smallest element, the result is a sorted list. If you already have a Heap implementation available or you utilize the Java PriorityQueue (newly available in version 1.5), performing a heap sort is fairly short to code:
+
+The runtime of a heap sort has an upper bound of O(n * log n). Additionally, its requirement for storage space is only that of storing the heap; this size is linear in proportion to the size of the list. Heap sort has the disadvantage of not being stable, and is somewhat more complicated to understand beyond just the basic implementation.
+
+Quick Sort
+A quick sort, as the name implies, is intended to be an efficient sorting algorithm. The theory behind it is to sort a list in a way very similar to how a human might do it. First, divide the data into two groups of "high" values and "low" values. Then, recursively process the two halves. Finally, reassemble the now sorted list.
+
+The challenge of a quick sort is to determine a reasonable "midpoint" value for dividing the data into two groups. The efficiency of the algorithm is entirely dependent upon how successfully an accurate midpoint value is selected. In a best case, the runtime is O(n * log n). In the worst case-where one of the two groups always has only a single element-the runtime drops to O(n²). The actual sorting of the elements might work out to look something like this:
+
+If it is known that the data to be sorted all fit within a given range, or fit a certain distribution model, this knowledge can be used to improve the efficiency of the algorithm by choosing midpoint values that are likely to divide the data in half as close to evenly as possible. A generic algorithm that is designed to work without respect to data types or value ranges may simply select a value from the unsorted list, or use some random method to determine a midpoint.
+
+Radix Sort
+The radix sort was designed originally to sort data without having to directly compare elements to each other. A radix sort first takes the least-significant digit (or several digits, or bits), and places the values into buckets. If we took 4 bits at a time, we would need 16 buckets. We then put the list back together, and have a resulting list that is sorted by the least significant radix. We then do the same process, this time using the second-least significant radix. We lather, rinse, and repeat, until we get to the most significant radix, at which point the final result is a properly sorted list.
+
+Because radix sort is qualitatively different than comparison sorting, it is able to perform at greater efficiency in many cases. The runtime is O(n * k), where k is the size of the key. (32-bit integers, taken 4 bits at a time, would have k = 8.) The primary disadvantage is that some types of data may use very long keys (strings, for instance), or may not easily lend itself to a representation that can be processed from least significant to most-significant. (Negative floating-point values are the most commonly cited example.)
+
+Sorting Libraries
+Nowadays, most programming platforms include runtime libraries that provide a number of useful and reusable functions for us. The .NET framework, Java API, and C++ STL all provide some built-in sorting capabilities. Even better, the basic premise behind how they work is similar from one language to the next.
+
+For standard data types such as scalars, floats, and strings, everything needed to sort an array is already present in the standard libraries. But what if we have custom data types that require more complicated comparison logic? Fortunately, object-oriented programming provides the ability for the standard libraries to solve this as well.
+
+In both Java and C# (and VB for that matter), there is an interface called Comparable (IComparable in .NET). By implementing the IComparable interface on a user-defined class, you add a method int CompareTo (object other), which returns a negative value if less than, 0 if equal to, or a positive value if greater than the parameter. The library sort functions will then work on arrays of your new data type.
+
+Additionally, there is another interface called Comparator (IComparer in .NET), which defines a single method int Compare (object obj1, object obj2), which returns a value indicating the results of comparing the two parameters.
+
+The greatest joy of using the sorting functions provided by the libraries is that it saves a lot of coding time, and requires a lot less thought and effort. However, even with the heavy lifting already completed, it is still nice to know how things work under the hood.

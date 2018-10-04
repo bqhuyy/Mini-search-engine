@@ -1,0 +1,68 @@
+Binary Search
+Binary search is one of the fundamental algorithms in computer science. In order to explore it, we'll first build up a theoretical backbone, then use that to implement the algorithm properly and avoid those nasty off-by-one errors everyone's been talking about.
+
+Finding a value in a sorted sequence
+In its simplest form, binary search is used to quickly find a value in a sorted sequence (consider a sequence an ordinary array for now). We'll call the sought value the target value for clarity. Binary search maintains a contiguous subsequence of the starting sequence where the target value is surely located. This is called the search space. The search space is initially the entire sequence. At each step, the algorithm compares the median value in the search space to the target value. Based on the comparison and because the sequence is sorted, it can then eliminate half of the search space. By doing this repeatedly, it will eventually be left with a search space consisting of a single element, the target value.
+
+Complexity
+Since each comparison binary search uses halves the search space, we can assert and easily prove that binary search will never use more than (in big-oh notation) O(log N) comparisons to find the target value.
+The logarithm is an awfully slowly growing function. In case you're not aware of just how efficient binary search is, consider looking up a name in a phone book containing a million names. Binary search lets you systematically find any given name using at most 21 comparisons. If you could manage a list containing all the people in the world sorted by name, you could find any person in less than 35 steps. This may not seem feasible or useful at the moment, but we'll soon fix that.
+
+Note that this assumes that we have random access to the sequence. Trying to use binary search on a container such as a linked list makes little sense and it is better use a plain linear search instead.
+
+Binary search in standard libraries
+C++'s Standard Template Library implements binary search in algorithms lower_bound, upper_bound, binary_search and equal_range, depending exactly on what you need to do. Java has a built-in Arrays.binary_search method for arrays and the .NET Framework has Array.BinarySearch.
+
+You're best off using library functions whenever possible, since, as you'll see, implementing binary search on your own can be tricky.
+
+Beyond arrays: the discrete binary search
+This is where we start to abstract binary search. A sequence (array) is really just a function which associates integers (indices) with the corresponding values. However, there is no reason to restrict our usage of binary search to tangible sequences. In fact, we can use the same algorithm described above on any monotonic function f whose domain is the set of integers. The only difference is that we replace an array lookup with a function evaluation: we are now looking for some x such that f(x) is equal to the target value. The search space is now more formally a subinterval of the domain of the function, while the target value is an element of the codomain. The power of binary search begins to show now: not only do we need at most O(log N) comparisons to find the target value, but we also do not need to evaluate the function more than that many times. Additionally, in this case we aren't restricted by practical quantities such as available memory, as was the case with arrays.
+
+Taking it further: the main theorem
+When you encounter a problem which you think could be solved by applying binary search, you need some way of proving it will work. I will now present another level of abstraction which will allow us to solve more problems, make proving binary search solutions very easy and also help implement them. This part is a tad formal, but don't get discouraged, it's not that bad.
+
+Consider a predicate p defined over some ordered set S (the search space). The search space consists of candidate solutions to the problem. In this article, a predicate is a function which returns a boolean value, true or false (we'll also use yes and no as boolean values). We use the predicate to verify if a candidate solution is legal (does not violate some constraint) according to the definition of the problem.
+
+What we can call the main theorem states that binary search can be used if and only if for all x in S, p(x) implies p(y) for all y > x. This property is what we use when we discard the second half of the search space. It is equivalent to saying that ¬p(x) implies ¬p(y) for all y < x (the symbol ¬ denotes the logical not operator), which is what we use when we discard the first half of the search space. The theorem can easily be proven, although I'll omit the proof here to reduce clutter.
+
+Behind the cryptic mathematics I am really stating that if you had a yes or no question (the predicate), getting a yes answer for some potential solution x means that you'd also get a yes answer for any element after x. Similarly, if you got a no answer, you'd get a no answer for any element before x. As a consequence, if you were to ask the question for each element in the search space (in order), you would get a series of no answers followed by a series of yes answers.
+
+Careful readers may note that binary search can also be used when a predicate yields a series of yes answers followed by a series of no answers. This is true and complementing that predicate will satisfy the original condition. For simplicity we'll deal only with predicates described in the theorem.
+
+If the condition in the main theorem is satisfied, we can use binary search to find the smallest legal solution, i.e. the smallest x for which p(x) is true. The first part of devising a solution based on binary search is designing a predicate which can be evaluated and for which it makes sense to use binary search: we need to choose what the algorithm should find. We can have it find either the first x for which p(x) is true or the last x for which p(x) is false. The difference between the two is only slight, as you will see, but it is necessary to settle on one. For starters, let us seek the first yes answer (first option).
+
+The second part is proving that binary search can be applied to the predicate. This is where we use the main theorem, verifying that the conditions laid out in the theorem are satisfied. The proof doesn't need to be overly mathematical, you just need to convince yourself that p(x) implies p(y) for all y > x or that ¬p(x) implies ¬p(y) for all y < x. This can often be done by applying common sense in a sentence or two.
+
+When the domain of the predicate are the integers, it suffices to prove that p(x) implies p(x+1) or that ¬p(x) implies ¬p(x-1), the rest then follows by induction.
+
+These two parts are most often interleaved: when we think a problem can be solved by binary search, we aim to design the predicate so that it satisfies the condition in the main theorem.
+
+One might wonder why we choose to use this abstraction rather than the simpler-looking algorithm we've used so far. This is because many problems can't be modeled as searching for a particular value, but it's possible to define and evaluate a predicate such as "Is there an assignment which costs x or less?", when we're looking for some sort of assignment with the lowest cost. For example, the usual traveling salesman problem (TSP) looks for the cheapest round-trip which visits every city exactly once. Here, the target value is not defined as such, but we can define a predicate "Is there a round-trip which costs x or less?" and then apply binary search to find the smallest x which satisfies the predicate. This is called reducing the original problem to a decision (yes/no) problem. Unfortunately, we know of no way of efficiently evaluating this particular predicate and so the TSP problem isn't easily solved by binary search, but many optimization problems are.
+
+Let us now convert the simple binary search on sorted arrays described in the introduction to this abstract definition. First, let's rephrase the problem as: "Given an array A and a target value, return the index of the first element in A equal to or greater than the target value." Incidentally, this is more or less how lower_bound behaves in C++.
+
+We want to find the index of the target value, thus any index into the array is a candidate solution. The search space S is the set of all candidate solutions, thus an interval containing all indices. Consider the predicate "Is A[x] greater than or equal to the target value?". If we were to find the first x for which the predicate says yes, we'd get exactly what decided we were looking for in the previous paragraph.
+
+The condition in the main theorem is satisfied because the array is sorted in ascending order: if A[x] is greater than or equal to the target value, all elements after it are surely also greater than or equal to the target value.
+
+Implementing the discrete algorithm
+One important thing to remember before beginning to code is to settle on what the two numbers you maintain (lower and upper bound) mean. A likely answer is a closed interval which surely contains the first x for which p(x) is true. All of your code should then be directed at maintaining this invariant: it tells you how to properly move the bounds, which is where a bug can easily find its way in your code, if you're not careful.
+
+Another thing you need to be careful with is how high to set the bounds. By "high" I really mean "wide" since there are two bounds to worry about. Every so often it happens that a coder concludes during coding that the bounds he or she set are wide enough, only to find a counterexample during intermission (when it's too late). Unfortunately, little helpful advice can be given here other than to always double- and triple-check your bounds! Also, since execution time increases logarithmically with the bounds, you can always set them higher, as long as it doesn't break the evaluation of the predicate. Keep your eye out for overflow errors all around, especially in calculating the median.
+
+The code will get stuck in a loop. It will always select the first element as mid, but then will not move the lower bound because it wants to keep the no in its search space. The solution is to change mid = lo + (hi-lo)/2 to mid = lo + (hi-lo+1)/2, i.e. so that it rounds up instead of down. There are other ways of getting around the problem, but this one is possibly the cleanest. Just remember to always test your code on a two-element set where the predicate is false for the first element and true for the second.
+
+You may also wonder as to why mid is calculated using mid = lo + (hi-lo)/2 instead of the usual mid = (lo+hi)/2. This is to avoid another potential rounding bug: in the first case, we want the division to always round down, towards the lower bound. But division truncates, so when lo+hi would be negative, it would start rounding towards the higher bound. Coding the calculation this way ensures that the number divided is always positive and hence always rounds as we want it to. Although the bug doesn't surface when the search space consists only of positive integers or real numbers, I've decided to code it this way throughout the article for consistency.
+
+Real numbers
+Binary search can also be used on monotonic functions whose domain is the set of real numbers. Implementing binary search on reals is usually easier than on integers, because you don't need to watch out for how to move bounds:
+
+Since the set of real numbers is dense, it should be clear that we usually won't be able to find the exact target value. However, we can quickly find some x such that f(x) is within some tolerance of the border between no and yes. We have two ways of deciding when to terminate: terminate when the search space gets smaller than some predetermined bound (say 10-12) or do a fixed number of iterations. On TopCoder, your best bet is to just use a few hundred iterations, this will give you the best possible precision without too much thinking. 100 iterations will reduce the search space to approximately 10-30 of its initial size, which should be enough for most (if not all) problems.
+If you need to do as few iterations as possible, you can terminate when the interval gets small, but try to do a relative comparison of the bounds, not just an absolute one. The reason for this is that doubles can never give you more than 15 decimal digits of precision so if the search space contains large numbers (say on the order of billions), you can never get an absolute difference of less than 10-7.
+
+Conclusion
+If you've gotten this far without giving up, you should be ready to solve anything that can be solved with binary search. Try to keep a few things in mind:
+-Design a predicate which can be efficiently evaluated and so that binary search can be applied
+-Decide on what you're looking for and code so that the search space always contains that (if it exists)
+-If the search space consists only of integers, test your algorithm on a two-element set to be sure it doesn't lock up
+-Verify that the lower and upper bounds are not overly constrained: it's usually better to relax them as long as it doesn't break the predicate

@@ -1,0 +1,27 @@
+A 100-year-old physics problem has been solved
+At EPFL, researchers challenge a fundamental law and discover that more electromagnetic energy can be stored in wave-guiding systems than previously thought. The discovery has implications in telecommunications. Working around the fundamental law, they conceived resonant and wave-guiding systems capable of storing energy over a prolonged period while keeping a broad bandwidth. Their trick was to create asymmetric resonant or wave-guiding systems using magnetic fields.
+
+The study, which has just been published in Science, was led by Kosmas Tsakmakidis, first at the University of Ottawa and then at EPFL's Bionanophotonic Systems Laboratory run by Hatice Altug, where the researcher is now doing post-doctoral research.
+
+This breakthrough could have a major impact on many fields in engineering and physics. The number of potential applications is close to infinite, with telecommunications, optical detection systems and broadband energy harvesting representing just a few examples.
+
+Casting aside reciprocity
+
+Resonant and wave-guiding systems are present in the vast majority of optical and electronic systems. Their role is to temporarily store energy in the form of electromagnetic waves and then release them. For more than 100 hundred years, these systems were held back by a limitation that was considered to be fundamental: the length of time a wave could be stored was inversely proportional to its bandwidth. This relationship was interpreted to mean that it was impossible to store large amounts of data in resonant or wave-guiding systems over a long period of time because increasing the bandwidth meant decreasing the storage time and quality of storage.
+
+This law was first formulated by K. S. Johnson in 1914, at Western Electric Company (the forerunner of Bell Telephone Laboratories). He introduced the concept of the Q factor, according to which a resonator can either store energy for a long time or have a broad bandwidth, but not both at the same time. Increasing the storage time meant decreasing the bandwidth, and vice versa. A small bandwidth means a limited range of frequencies (or 'colors') and therefore a limited amount of data.
+
+Until now, this concept had never been challenged. Physicists and engineers had always built resonant systems -- like those to produce lasers, make electronic circuits and conduct medical diagnoses -- with this constraint in mind.
+
+But that limitation is now a thing of the past. The researchers came up with a hybrid resonant / wave-guiding system made of a magneto-optic material that, when a magnetic field is applied, is able to stop the wave and store it for a prolonged period, thereby accumulating large amounts of energy. Then when the magnetic field is switched off, the trapped pulse is released.
+
+With such asymmetric and non-reciprocal systems, it was possible to store a wave for a very long period of time while also maintaining a large bandwidth. The conventional time-bandwidth limit was even beaten by a factor of 1,000. The scientists further showed that, theoretically, there is no upper ceiling to this limit at all in these asymmetric (non-reciprocal) systems.
+
+"It was a moment of revelation when we discovered that these new structures did not feature any time-bandwidth restriction at all. These systems are unlike what we have all been accustomed to for decades, and possibly hundreds of years," says Tsakmakidis, the study's lead author. "Their superior wave-storage capacity performance could really be an enabler for a range of exciting applications in diverse contemporary and more traditional fields of research." Hatice Altug adds.
+
+Medicine, the environment and telecommunications
+
+One possible application is in the design of extremely quick and efficient all-optical buffers in telecommunication networks. The role of the buffers is to temporarily store data arriving in the form of light through optical fibers. By slowing the mass of data, it is easier to process. Up to now, the storage quality had been limited.+
+
+With this new technique, it should be possible to improve the process and store large bandwidths of data for prolonged times. Other potential applications include on-chip spectroscopy, broadband light harvesting and energy storage, and broadband optical camouflaging ("invisibility cloaking"). "The reported breakthrough is completely fundamental -- we're giving researchers a new tool. And the number of applications is limited only by one's imagination," sums up Tsakmakidis.
+

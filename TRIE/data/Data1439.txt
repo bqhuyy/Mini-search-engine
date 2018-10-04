@@ -1,0 +1,42 @@
+Japanese scientists create an algorithm that can make any image appear as if it is FLOATING in a mesmerising optical illusion
+
+The new optical illusions are called fuyuu, which translates from Japanese to English as 'floating illusion'
+The algorithm is based on a mathematical model of visual information processing in the brain
+Researchers believe this illusion occurs because part of our brain called the visual cortex responds to striped patterns that are tilted in a way so that they appear as spirals
+By Shivali Best For Mailonline
+PUBLISHED: 17:57 BST, 21 June 2017 | UPDATED: 18:19 BST, 21 June 2017
+
+From psychedelic pinwheels to columns that shake, some of the most dramatic optical illusions trick our eyes into thinking they are moving.
+Japanese researchers have now created a new class of optical illusions that appear to move, called fuyuu, or floating illusions.
+The illusions are created by applying a specially-designed algorithm, which can make any picture appear as if it is floating.
+Scroll down for video 
+To view the illusion, look at the small disc in the centre of the picture. Then bring your head close to the picture, then away from it, and repeat this action. You should feel that the wreath moves circularly on the picture
+The floating illusions are the brainchild of Hitoshi and Shinobu Arai from the University of Tokyo, who hope to establish a new discipline in mathematical vision science.
+The husband-wife team invented an algorithm based on a mathematical model of visual information processing in the brain.
+Writing in a blog about the fuyuu illusions, Mr Hitoshi said: 'Our algorithm of making fuyuu illusions is able to produce fuyuu illusions not only from handwriting designs but also photos.'
+WHY DOES IT LOOK LIKE IT'S FLOATING?
+The researchers believe this floating illusion occurs because brain cells, known as neurons, in the visual cortex respond to striped patterns that are tilted in a way so that they appear as spirals.
+To understand how the brain processes these images, the researchers applied a mathematical technique called framelet analysis.
+This involved editing an optical illusion image in various ways. 
+Firstly, the researchers removed the spiral pattern from the image, and found that the illusion disappeared. 
+Next, they only removed the clockwise spirals, and found that the illusion looked even stronger than the original.   
+This suggests that the illusion is the product of a competition between visual cues that pull in opposite directions.
+To understand how the brain processes these images, the researchers applied a mathematical technique called framelet analysis. Pictured left is the original image. Firstly, the researchers removed the spiral pattern from the image, and found that the illusion disappeared (pictured centre). Next, they only removed the clockwise spirals, and found that the illusion looked even stronger than the original (pictured right). This suggests the illusion is the product of a competition between visual cues that pull in opposite directions
+To view the illusion, look at the small disc in the centre of the picture. Then please bring your head close to the picture, then away from it, and repeat this action. You should feel that the dragon is floating
+For example, the researchers applied the algorithm to pictures of flowers, and the resulting image appears to be floating when the page is scrolled up and down.
+In another example, two circles of pictures of rabbits appear to float and spin when you stare at the centre of the image.
+The researchers believe this floating illusion occurs because brain cells, known as neurons, in the visual cortex respond to striped patterns that are tilted in a way so that they appear as spirals. 
+To view the illusion, move the picture up and down slowly and smoothly. You should feel that flowers move to the right and to the left
+Stare at the disc in the centre of the image, and then move your head close to, and then far away from, the picture. The two circles of pictures of rabbits should appear to float and spin
+To understand how the brain processes these images, the researchers applied a mathematical technique called framelet analysis.
+This involved editing an optical illusion image in various ways. 
+Firstly, the researchers removed the spiral pattern from the image, and found that the illusion disappeared. 
+To view this illusion, move your head from diagonally above to below and then from diagonally below to above. Repeat this action. You should feel that a big heart and small harts in it slide on the picture. Then, bring your head close to the picture, and away from it, and repeat this action. You should see it like the big heart is beating
+Stare at the disc in the centre of the image, and move your head forwards and backwards. You will feel that the wreath moves circularly on the picture although it is a still image
+Next, they only removed the clockwise spirals. 
+Doing this, they found that the illusion looked even stronger than the original. 
+This suggests that the illusion is the product of a competition between visual cues that pull in opposite directions.
+
+
+Read more: http://www.dailymail.co.uk/sciencetech/article-4625722/Algorithm-make-image-appear-floating.html#ixzz4khXMOynt 
+Follow us: @MailOnline on Twitter | DailyMail on Facebook

@@ -1,0 +1,28 @@
+Personality factors are best defense against losing your job to a robot
+Worried robots will take your job? Researchers say people who are more intelligent and who showed an interest in the arts and sciences during high school are less likely to fall victim to automation.
+
+Later educational attainment mattered, but researchers said the findings highlight the importance of personality traits, intelligence and vocational interests in determining how well people fare in a changing labor market. The work was published this week in the European Journal of Personality.
+
+"Robots can't perform as well as humans when it comes to complex social interactions," said Rodica Damian, assistant professor of social and personality psychology at the University of Houston and lead author of the study. "Humans also outperform machines when it comes to tasks that require creativity and a high degree of complexity that is not routine. As soon as you require flexibility, the human does better."
+
+Researchers used a dataset of 346,660 people from the American Institutes of Research, which tracked a representative sample of Americans over 50 years, looking at personality traits and vocational interests in adolescence, along with intelligence and socioeconomic status. It is the first study to look at how a variety of personality and background factors predict whether a person will select jobs that are more (or less) likely to be automated in the future.
+
+"We found that regardless of social background, people with higher levels of intelligence, higher levels of maturity and extraversion, higher interests in arts and sciences ... tended to select (or be selected) into less computerizable jobs 11 and 50 years later," they wrote.
+
+In addition to Damian, the researchers included Marion Spengler of the University of Tuebingen and Brent W. Roberts of the University of Illinois at Urbana-Champaign.
+
+Damian said the findings suggest traditional education may not be fully equipped to address upcoming changes in the labor market, although she acknowledged the educational system has changed since the research subjects were in school in the 1960s.
+
+"Perhaps we should consider training personality characteristics that will help prepare people for future jobs," she said.
+
+The researchers found that every 15-point increase in IQ predicted a 7 percent drop in the probability of one's job being computerized, the equivalent of saving 10.19 million people from losing their future careers to computerization if it were extrapolated across the entire U.S. population. Similarly, an increase of one standard deviation in maturity or in scientific interests -- equal to an increase of 1 point on a 5-point scale, such as moving from being indifferent to scientific activities to liking them fairly well -- across the U.S. population would each be equivalent to 2.9 million people avoiding a job loss to computerization.
+
+While IQ is not easily changed, a solution could be to find effective interventions to increase some personality traits -- doing well in social interactions, for example, or being industrious -- or interest in activities related to the arts and sciences, Damian said.
+
+Machine learning and big data will allow the number of tasks that machines can perform better than humans to increase so rapidly that merely increasing educational levels won't be enough to keep up with job automation, she said. "The edge is in unique human skills."
+
+Still, that can correlate with more education, and the researchers say an across-the-board increase in U.S. education levels could mean millions fewer jobs at risk. Targeting at-risk groups would yield significant benefits, she said.
+
+And while skeptics question whether the labor market will be able to absorb millions of higher skilled workers, Damian looks at it differently.
+
+"By preparing more people, at least more people will have a fighting chance," she said.

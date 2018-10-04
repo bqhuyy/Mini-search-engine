@@ -1,0 +1,74 @@
+How Soon Until the Next Ransomware Catastrophe?
+WannaCry is the first global crisis to come from NSA exploits. It will not be the last.
+A little over a week ago, a Cumbrian woman named Joyce broke her foot. What happened next to Joyce’s foot involves the National Security Agency, decades of deferred maintenance on broken software, a hacking group that communicates exclusively in broken English, and an unsophisticated piece of ransomware, all interacting with the global network that almost everyone depends on now.
+
+The success of the WannaCry ransomware that tore through Eurasia over the weekend required a chain of failures. Stopping any one of these failures could have stopped the crisis, and could still stop some of the crises that might otherwise occur. This makes a difference the in lives of normal people who have nothing to do with any of these global players in the computer security game, and it frustrates them.
+
+“Embarrassing that my home PC [is] vastly better tech than the vastly more important health service,” Leslie, a retired electrician in South Cumbria, tweeted on Sunday.
+Leslie’s wife, Joyce, is a home-care worker. As she left a client’s house earlier this month, she tripped over the threshold of the door. Joyce knew something was wrong with her foot, and drove herself to the emergency room at Furness General, in Barrow-in-Furness, Cumbria, England. She was X-Rayed, fitted with a plaster cast, and instructed to return for a follow-up appointment. By then, the swelling had improved.
+
+Before she left, she was given another appointment for Friday, May 12. It turned out to be the day the NHS fell victim to the largest ransomware attack in history.
+
+When Joyce and Leslie arrived for the afternoon appointment, “the receptionist was rushing backwards and forwards, I gathered something was wrong with PCs,” Leslie told me. “Reception filled up, all ages, arms, legs in plaster.” (I’m using only first names for Leslie and Joyce, out of concern that talking about their experience could make them targets for online abuse.)
+
+The IT team told staffers to turn off the PCs, but the situation was confused. Soon more senior staff appeared. That’s when Leslie heard someone saying “cyberattack.”
+
+“A smartly dressed woman arrived, and they went round to everyone explaining that the system was down, they couldn’t access X-Rays or patient records. If we had time, we could wait to see if they could clear it, or reschedule the appointment,” Leslie said. “We all thought it was just a local issue, then it became an issue for the local Trust of several hospitals.” By the time the couple got home, the issue was national, and then soon after, international.
+The story of WannaCry (also called Wcry and WannaCrypt) begins somewhere before 2013, in the hallways of the National Security Agency, but we can only be sure of a few details from that era. The NSA found or purchased the knowledge of a flaw of MicroSoft’s SMB V.1 code, an old bit of network software that lets people share files and resources, like printers. While SMB V.1 has long been superseded by better and safer software, it is still widely used by organizations that can’t, or simply don’t, install the newer software.
+
+
+The flaw, or bug, is what what people call a vulnerability, but on its own it’s not particularly interesting. Based on this vulnerability, though, the NSA wrote another program—called an exploit—which let them take advantage of the flaw anywhere it existed. The program the NSA wrote was called ETERNALBLUE, and what they used it to do was remarkable.
+
+The NSA gave themselves secret and powerful access to a European banking transaction system called SWIFT, and, in particular, SWIFT’s Middle Eastern transactions, as a subsequent data-dump by a mysterious hacker group demonstrated. Most people know SWIFT as a payment system, part of how they use credit cards and move money. But its anatomy, the guts of the thing, is a series of old Windows computers quietly humming along in offices around the world, constantly talking to each other across the internet in the languages computers only speak to computers.
+
+The NSA used ETERNALBLUE to take over these machines. Security analysts, such as Matthieu Suiche, the founder of Comae Technologies, believe the NSA could see, and as far as we know, even change, the financial data that flowed through much of the Middle East—for years. Many people have speculated on why the NSA did this, speculation that has never been confirmed or denied. A spokesperson for the agency did not immediately reply to The Atlantic’s request for an interview.
+
+But the knowledge of a flaw is simply knowledge. The NSA could not know if anyone else had found this vulnerability, or bought it. They couldn’t know if anyone else was using it, unless that someone else was caught using it. This is the nature of all computer flaws.
+
+
+In 2013 a group the world would know later as The Shadow Brokers somehow obtained not only ETERNALBLUE, but a large collection of NSA programs and documents. The NSA and the United States government hasn’t indicated whether they know how this happened, or if they know who The Shadow Brokers are. The Shadow Brokers communicate publicly using a form of broken English so unlikely that many people assume they are native English speakers attempting to masquerade themselves as non-native—but that remains speculative. Wherever they are from, the trove they stole and eventually posted for all the world to see on the net contained powerful tools, and the knowledge of many flaws in software used around the world. WannaCry is the first known global crisis to come from these NSA tools. Almost without a doubt, it will not be the last.
+
+A few months ago, someone told Microsoft about the vulnerabilities in the NSA tools before The Shadow Brokers released their documents. There is much speculation about who did this, but, as with so many parts of this story, it is still only that—speculation. Microsoft may or may not even know for sure who told them. Regardless, Microsoft got the chance to release a program that fixed the flaw in SMB V.1 before the flaw became public knowledge. But they couldn't make anyone use their fix, because using any fix—better known as patching or updating—is always at the discretion of the user. They also didn't release it for very old versions of Windows. Those old versions are so flawed that Microsoft has every reason to hope people stop using them—and not just because it allows the company to profit from new software purchases.
+
+
+There is another wrinkle in this already convoluted landscape: Microsoft knew SMB V.1, which was decades old, wasn’t very good software. They’d been trying to abandon it for 10 years, and had replaced it with a stronger and more efficient version. But they couldn’t throw out SMB V.1 completely because so many people were using it. After WannaCry had started its run around the world, the head of SMB for Microsoft tweeted this as part of a long and frustrated thread:
+
+The more new and outdated systems connect, the more chance there is to break everything with a single small change.
+
+We live in an interconnected world, and in a strange twist of irony, that interconnectedness can make it difficult to change anything at all. This is why so many systems remain insecure for years: global banking systems, and Spanish telecoms, and German trains, and the National Health Service of the United Kingdom.
+
+Furness General Hospital was thrown into chaos by the first (and doubtless not last) ransomware computer worm, WannaCry. Ransomware works by taking all the data on your computer hostage until you pay for the key to get it back. A worm works by scanning the network and replicating itself in other computers without human assistance. Nasty stuff, and a nasty combination.
+
+
+Scanning is how computers find out what's available at different addresses on the internet. A computer can send data to a port, and wait for a reply. It would be as if someone came to your front door and tried saying, “Hello!” in every language, until you said, “¡Hola!” back, and then they noted down that you spoke Spanish.
+
+The attackers behind WannaCry sent these Hellos, and waited for something speaking SMB V.1 to reply. When that happened, they sent the NSA’s exploit, which allowed them to send a new program to the computer that spoke SMB V.1. The computer, once exploited, then ran the program sent by the attackers. That program was WannaCry.
+
+When WannaCry runs, it does a few things in a specific order. First it looks in the memory of the computer it’s on to see if another WannaCry is already running on the machine, and stops if it finds anything there. Then—and this is a strange step for it to take—WannaCry looks for an address on the net, and if it finds that address, it again shuts down and does nothing. If neither the memory shows other WannaCry, and it can’t see that mysterious domain, it starts to scan for other computers that talk SMB V.1, both on the net, and local computers that were never supposed to touch the net. If it finds more computers talking SMB V.1, the cycle repeats over again.
+
+At the same time, WannaCry starts to encrypt all the files on the computer it’s running on. It doesn’t move the files or even read them, it just puts them into an indecipherable state. After that, WannaCry’s last stop is to show a message on the screen: the infamous request for $300 in Bitcoin upfront, $600 if you wait, and no decryption key forever if you wait a week. All you have after a week is indecipherable text where your files used to be.
+
+
+There are clues to suggest that WannaCry wasn’t written by sophisticated attackers. The domain that it checks when it’s first installed acts as a kill switch on further infection. (It was caught early by a researcher who goes by @MalwareTech while examining WannaCry. He registered the domain, and pointed it to a server he controlled to see what it did, and what it did was stop the first wave of infection.)
+
+Later, someone or someones, possibly even the original attacker, edited WannaCry to check another domain. This time Suiche found the new domain while following and analyzing WannaCry. Suiche registered it and pointed it at his server—stopping the infection again. This game of whack-a-mole with domains has gone through a few more iterations since then, but no one is sure why the domain kill switch is even there. There’s speculation, of course. If there’s one thing surrounding WannaCry, it’s an abundance of speculation.
+
+Besides the kill switch, the payment system was amateurish as well. Most ransomware payment systems are automated, but despite designing something that would burn its way through the internet in record time, the purveyors of WannaCry set it up so that they’d have to deal with ransom payments and decryption individually. This does not scale to attacking the whole world.
+
+Like most people in security, Suiche puts most of the blame on not patching and upgrading software. “Companies need to be better prepared with backup strategies and up to date systems!” he said. “We got lucky today because this variant was caught early enough that no further damages had been done, but we need to be prepared for tomorrow!”
+
+“We need governments to consider the damage to civilians that comes from hoarding these vulnerabilities and the use of these exploits.”
+But the sprawling companies that are vulnerable to attacks like this one have a fragile network not just of computers, but of contracts, vendors, service agreements, and customers who are deeply impacted by any downtime. No middle manager is eager to be scolded for systems downtime that may avert some abstract hacker threat in the future, and no one gets called into their boss’ office and patted on the back when WannaCry doesn’t hit their servers. Suiche says he understands that patching and upgrading is not easy on these complex systems, but “neither is trying to recover data on a quarter million systems. No solution is easy, people need to pick their battles.”
+
+He’s not wrong. But when it comes to the real world of global operations, many security professionals—even the very good ones—suffer from being right, but not always useful.
+
+
+The global network may be easy prey, but the creators of WannaCry weren’t the predators. They were just the scavengers that came years after the NSA had developed the exploit in the first place.
+
+Back in 2013, when the NSA was using its suite of tools to quietly attack Windows-based servers, the Snowden documents showed that Microsoft had been cooperating with the spy agency to decrypt messages as part of their unrelated Prism program. If the NSA had told the company about the flaw back then, the patch could have been in place years ago, and The Shadow Brokers’ theft and subsequent release of the NSA’s exploit wouldn't have sent British patients home, waiting for a phone call telling them when they could see doctors again. Spanish telecommunications and German trains would have run normally on Friday. Systems all over the world would not have been broadcasting the now-iconic, “Oops your files have been encrypted” on billboards and kiosks and sale terminals.
+
+The NSA played both sides against the middle, and got caught.
+
+On the Sunday after WannaCry, Microsoft's Chief Legal Officer, Brad Smith, posted a statement: “We need governments to consider the damage to civilians that comes from hoarding these vulnerabilities and the use of these exploits,” Microsoft’s chief legal officer, Brad Smith, wrote in a blog post on Sunday. “This is one reason we called in February for a new ‘Digital Geneva Convention’ to govern these issues, including a new requirement for governments to report vulnerabilities to vendors, rather than stockpile, sell, or exploit them.”
+
+WannaCry wasn’t a disaster, but it could have been. Right now, it’s a cautionary tale of what can happen when spy agencies collide with technical debt and computer illiteracy. It’s an ecological disaster waiting to happen, no less complex for being an artificial ecology. In its way, this is no less vital than dealing with disease or pollution or environmental destruction, but it’s harder to see, because we did it to ourselves.

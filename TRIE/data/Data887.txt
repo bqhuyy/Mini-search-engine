@@ -1,0 +1,55 @@
+Understanding Probabilities
+It has been said that life is a school of probability. A major effect of probability theory on everyday life is in risk assessment. Let's suppose you have an exam and you are not so well prepared. There are 20 possible subjects, but you only had time to prepare for 15. If two subjects are given, what chances do you have to be familiar with both? This is an example of a simple question inspired by the world in which we live today. Life is a very complex chain of events and almost everything can be imagined in terms of probabilities.
+
+As far as topcoder problems are concerned, they're inspired by reality. You are presented with many situations, and you are explained the rules of many games. While it's easy to recognize a problem that deals with probability computations, the solution may not be obvious at all. This is partly because probabilities are often overlooked for not being a common theme in programming challenges. But it is not true and topcoder has plenty of them! Knowing how to approach such problems is a big advantage in topcoder competitions and this article is to help you prepare for this topic.
+
+Before applying the necessary algorithms to solve these problems, you first need some mathematical understanding. The next chapter presents the basic principles of probability. If you already have some experience in this area, you might want to skip this part and go to the following chapter: Step by Step Probability Computation. After that it follows a short discussion on Randomized Algorithms and in the end there is a list with the available problems on topcoder. This last part is probably the most important. Practice is the key!
+
+Basics
+Working with probabilities is much like conducting an experiment. An outcome is the result of an experiment or other situation involving uncertainty. The set of all possible outcomes of a probability experiment is called a sample space. Each possible result of such a study is represented by one and only one point in the sample space, which is usually denoted by S. Let's consider the following experiments:
+
+We define an event as any collection of outcomes of an experiment. Thus, an event is a subset of the sample space S. If we denote an event by E. If an event consists of a single outcome in the sample space, it is called a simple event. Events which consist of more than one outcome are called compound events.
+
+What we are actually interested in is the probability of a certain event to occur, or P(E). By definition, P(E) is a real number between 0 and 1, where 0 denotes the impossible event and 1 denotes the certain event (or the whole sample space).
+
+That is, the probability of an event to occur is calculated by dividing the number of favorable outcomes (according to the event E) by the total number of outcomes (according to the sample space S). In order to represent the relationships among events, you can apply the known principles of set theory. Consider the experiment of rolling a die once. As we have seen previously, the sample space is S = {1, 2, 3, 4, 5, 6}. Let's now consider the following events:
+
+The first step when trying to solve a probability problem is to be able to recognize the sample space. After that, you basically have to determine the number of favorable outcomes. This is the classical approach, but the way we implement it may vary from problem to problem. Let's take a look at QuizShow (SRM 223, Div 1 – Easy). The key to solving this problem is to take into account all the possibilities, which are not too many. After a short analysis, we determine the sample space to be the following:
+
+The problem asks you to find a wager that maximizes the number of favorable outcomes. In order to compute the number of favorable outcomes for a certain wager, we need to determine how many points the three players end with for each of the 8 possible outcomes. The idea is illustrated in the following program:
+
+Another good problem to start with is PipeCuts (SRM 233, Div 1 – Easy). This can be solved in a similar manner. There is a finite number of outcomes and all you need to do is to consider them one by one.
+
+Let's now consider a series of n independent events: E1, E2, … , En. Two surprisingly common questions that may appear (and many of you have already encountered) are the following:
+
+What is the probability that all events will occur?
+What is the probability that at least one event will occur?
+To answer the first question, we relate to the occurrence of the first event (call it E1). If E1 does not occur, the hypothesis can no longer be fulfilled. Thus, it must be inferred that E1 occurs with a probability of P(E1). This means there is a P(E1) chance we need to check for the occurrence of the next event (call it E2). The event E2 occurs with a probability of P(E2) and we can continue this process in the same manner. Because probability is by definition a real number between 0 and 1, we can synthesize the probability that all events will occur in the following formula:
+
+The best way to answer the second question is to first determine the probability that no event will occur and then, take the complement. We have:
+
+These formulae are very useful and you should try to understand them well before you move.
+
+Randomized Algorithms
+We call randomized algorithms those algorithms that use random numbers to make decisions during their execution. Unlike deterministic algorithms that for a fixed input always give the same output and the same running-time, a randomized algorithm behaves differently from execution to execution. Basically, we distinguish two kind of randomized algorithms:
+
+Monte Carlo algorithms: may sometimes produce an incorrect solution – we bound the probability of failure.
+Las Vegas algorithms: always give the correct solution, the only variation is the running time – we study the distribution of the running time.
+Read these lecture notes from the College of Engineering at UIUC for an example of how these algorithms work.
+
+The main goal of randomized algorithms is to build faster, and perhaps simpler solutions. Being able to tackle "harder" problems is also a benefit of randomized algorithms. As a result, these algorithms have become a research topic of major interest and have already been utilized to more easily solve many different problems.
+
+An interesting question is whether such an algorithm may become useful in topcoder competitions. Some problems have many possible solutions, where a number of which are also optimal. The classical approach is to check them one by one, in an established order. But it cannot be guaranteed that the optima are uniformly distributed in the solution domain. Thus, a deterministic algorithm may not find you an optimum quickly enough. The advantage of a randomized algorithm is that there are actually no rules to set about the order in which the solutions are checked and for the cases when the optima are clustered together, it usually performs much better. See QueenInterference for a topcoder example.
+
+Randomized algorithms are particularly useful when faced with malicious attackers who deliberately try to feed a bad input to the algorithm. Such algorithms are widely used in cryptography, but it sometimes makes sense to also use them in topcoder competitions. It may happen that you have an efficient algorithm, but there are a few degenerate cases for which its running time is significantly slower. Assuming the algorithm is correct, it has to run fast enough for all inputs. Otherwise, all the points you earned for submitting that particular problem are lost. This is why here, on topcoder, we are interested in worst case execution time.
+
+To challenge or not to challenge?
+Another fierce coding challenge is now over and you have 15 minutes to look for other coders' bugs. The random call in a competitor's submission is likely to draw your attention. This will most likely fall into one of two scenarios:
+
+the submission was just a desperate attempt and will most likely fail on many inputs.
+the algorithm was tested rather thoroughly and the probability to fail (or time out) is virtually null.
+The first thing you have to do is to ensure it was not already unsuccessfully challenged (check the coder's history). If it wasn't, it may deserve a closer look. Otherwise, you should ensure that you understand what's going on before even considering a challenge. Also take into account other factors such as coder rating, coder submission accuracy, submission time, number of resubmissions or impact on your ranking.
+
+Will "random" really work?
+In most optimizing problems, the ratio between the number of optimal solutions and the total number of solutions is not so obvious. An easy, but not so clever solution, is to simply try generating different samples and see how the algorithm behaves. Running such a simulation is usually pretty quick and may also give you some extra clues in how to actually solve the problem.
+

@@ -1,0 +1,31 @@
+We're now one step closer to recharging electric cars while they're driving
+
+Researchers have overcome a massive hurdle in beaming power wirelessly into a moving object.
+The advance in technology could have applications in improving the driving range of electric vehicles while they motor down the highway, as well as making robots used in manufacturing more mobile.
+Scientists from Stanford University built on previous research by MIT to transmit enough power over a metre (several feet) to make a tiny LED glow as it moved.
+While the research has a long way to go before it can power even a small car, the experiment demonstrates it's at least possible to transfer power to a moving object, overcoming a practical hurdle on our way to recharging electric cars on the fly.
+Transferring electricity over a long distance dates back to the dawn of electrical power itself.
+In fact, it was a life-long dream of the famous 19th century inventor Nikola Tesla, who experimented with boosting voltage using capacitors and eventually produce what we call Tesla coils.
+This high voltage generation of electricity could effectively cause electricity to flow through a conductor a short distance away through a process called inductive coupling.
+In simple terms, induction describes how a moving magnetic field can produce an electric current in a conductor.
+Since an electric current produces a magnetic field of its own, a change in a conductor's current can produce a voltage in a conductive material that isn't physically connected to it, all through changes in its electromagnetic field.
+This way, it's theoretically possible to send power between two circuits without needing to plug them together with wires.
+Tesla never got to see his wireless world, unfortunately, but he'd be happy to know we can now charge our electric toothbrushes by placing them on little plastic stands.
+We've seen progress over recent years in the distance power can be transmitted, with even the entertainment giant Disney recently investigating the possibility of having an entire room that can charge devices within it.
+In this particular case, the researchers started with technology developed by engineers from MIT a decade ago, who managed to transmit around 60 watts of power with around 40 percent efficiency to a stationary object over 2 metres away.
+The problem is the frequency of the moving magnetic field is what causes the current to flow, and if an object is moving or is at the wrong angle, it won't create the highest current.
+This can be overcome if the circuit is "tuned" as it moves — a complex process that itself would require powering.
+To solve this problem, the researchers used a simpler system of a voltage amplifier and a feedback resistor that automatically adjusted the voltage based on the response it gets from the receiving circuit.
+"Adding the amplifier and resistor allows power to be very efficiently transferred across most of the three-foot (1 metre) range and despite the changing orientation of the receiving coil," said lead researcher Sid Assawaworrarit.
+"This eliminates the need for automatic and continuous tuning of any aspect of the circuits."
+Without using any form of tuning or feedback mechanisms, a moving LED would drop in brightness as moved away.
+In the experiment using an amplifier and feedback resistor, the light remained consistent for the entire short distance, which would be good news if we ever wanted to efficiently power electric cars wirelessly as they moved past a recharging station.
+The upcoming Tesla Model 3 is expected to have a range of about 345 kilometres (about 215 miles) per charge, while the Chevrolet Bolt can manage a little further at 383 kilometres (238 miles).
+These distances are comparable to a lot of small cars, and no doubt will continue to improve, but for the foreseeable future recharging electric cars won't be a quick five minute stop at the service station, as we have with most petrol-based vehicles.
+Anything to increase the range, such as a bit of a top-up on a solar-powered section of highway, will help avoid long delays in repowering.
+If all of that still sounds too much like a science fiction fantasy, there are plenty of other applications for mobile wireless charging.
+"We can rethink how to deliver electricity not only to our cars, but to smaller devices on or in our bodies," said researcher Shanhui Fan.
+"For anything that could benefit from dynamic, wireless charging, this is potentially very important."
+This includes powering robots around a factory floor, or your phone as you walk through a room.
+The researchers believe it will be possible to boost the amount of power received by the moving circuit, especially since they used off-the-shelf equipment with a relatively low efficiency of around 10 percent.
+Tesla would certainly be pleased.

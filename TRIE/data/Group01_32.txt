@@ -1,0 +1,49 @@
+With Alphabet, Google faces a daunting challenge: organizing itself
+By Julia Love 
+SAN FRANCISCO (Reuters) - Google’s self-professed mission is to organize the world’s information. But a company known for engineering excellence is still trying to solve the very human problem of how to organize itself. 
+Nearly two years ago, Google co-founder Larry Page announced the tech giant would be remade as Alphabet, a holding company whose units would include Google and an array of unrelated pursuits in areas such as healthcare, self-driving cars and urban planning. 
+Wall Street cheered. Previously those riskier ventures had been lumped into Google's overall financial results. Investors would now see Google’s performance independent of its so-called “Other Bets,” an eclectic collection of 11 ventures. They include Nest, a maker of Wi-Fi enabled thermostats; Calico, which seeks to prolong the human lifespan; and X, the company's secretive research lab. 
+Alphabet's top management also aimed to boost accountability by appointing chief executives to head each of the Other Bets. Few people in Google's constellation of ventures had ever held the title prior to that. 
+
+
+But so far Alphabet has failed to show it can convert its Other Bets from experiments to businesses with the reach, impact and money-making potential of Google’s core search and advertising operations. Interviews with two dozen former Alphabet executives and employees reveal an organization grappling with how much time and resources Other Bets deserve in the pursuit of profitability. 
+In the first quarter, which ended March 31, the ventures lost a combined $855 million; that's on top of a collective $3.6 billion loss for 2016. As a whole, Alphabet generated $90.3 billion in revenue in 2016. Google's share of that revenue was $89.5 billion, while its 2016 operating income was $27.9 billion. 
+Alphabet's early days have seen more pruning than expansion of its holdings. 
+The company has skinned back plans for Google Fiber, which delivers rapid Internet service in 10 metro areas. This month, Alphabet agreed to sell robotics company Boston Dynamics to Japanese multinational SoftBank Group Corp . It unloaded its Terra Bella satellite imaging business in February. 
+At one point last year, it was even looking to sell Nest, the largest of the Other Bets, three people familiar with the matter told Reuters. Google paid an eye-popping $3.2 billion for the start-up in 2014. 
+(For a graphic showing Alphabet's holdings, see: http://tmsnrt.rs/2rNgdKN) 
+Meanwhile, a series of executives have departed since the reorganization, including the heads of Nest, an Internet operation called Access and a venture capital firm known as GV. 
+An Alphabet spokeswoman declined repeated requests for comment or to make executives available for interviews. Supporters of the restructuring frame the early struggles as typical growing pains. 
+For now, Wall Street isn't worried: Alphabet's stock is near an all-time high, having reached $1,000 per share in June. Ruth Porat, the no-nonsense chief financial officer who has steered the restructuring, has won rave reviews from investors for enforcing financial accountability across Alphabet. 
+Some Other Bets have made notable strides. Life sciences initiative Verily recently attracted $800 million in outside investment. Self-driving car project Waymo is considered among the leaders in the burgeoning industry. 
+Still, it's not yet clear the structure will enable Alphabet to do what most companies cannot: conceive the next wave of innovation in-house or through the development of key acquisitions. That goal is central to both the company's mission and investor expectations, analysts say. 
+“The reason Google gets to trade at a decent multiple… is because there's a growth story beyond advertising,” said analyst James Wang of ARK Investment Management. 
+CEO or COO? 
+The Alphabet structure is Google’s stab at an age-old corporate conundrum: sustaining innovation within a giant enterprise. 
+Alphabet's strategy is to give entrepreneurs the autonomy of a startup, coupled with the discipline of a traditional corporate structure. 
+Roughly once a quarter, Other Bets leaders meet with the Alphabet board – comprised of Porat, Page, Google co-founder Sergey Brin and David Drummond, Alphabet's senior vice president of corporate development – to discuss funding and performance, according to two former employees. 
+At the same time, Alphabet is establishing separate compensation plans for the Other Bets to reward employees if their ventures succeed, mirroring startup incentives. 
+The formula has primed Alphabet's emerging businesses for "global impact," Alphabet Executive Chairman Eric Schmidt said this month at the annual stockholders meeting at the Mountain View headquarters. 
+"There is one solution that we know works well in capitalism, which is boards, shareholders, CEOs," Schmidt said. "My bet is that the traditional lessons of business organization will in fact result in success at Alphabet." 
+Still, Alphabet top brass continue to hold sway over key strategy and financing decisions, a dynamic that has chafed Other Bets chief executives who've complained they are treated more like chief operating officers than shot callers, according to people familiar with the situation. 
+In addition, scrutiny from Wall Street limits how generous Alphabet can be in extending Google's resources to Other Bets, said Brian McClendon, a former vice president of engineering at Google. 
+"As of yet, the restructuring hasn’t provided what I think is one of the immediate benefits, which is risk-taking investment," he said. 
+NICKELED AND DIMED 
+Some companies acquired by Google found that being part of Alphabet wasn't what they'd bargained for. 
+Two former Nest employees said they were promised generous funding and time to achieve profitability following the company's acquisition by Google in 2014. But after the restructuring, Alphabet executives were keenly focused on revenue, one former employee said. 
+Pricey overhead has made the path to profitability tougher. After the restructuring, Alphabet began charging Other Bets for their portion of shared services such as security and facilities, ending what had previously amounted to a subsidy, people familiar with the situation said. The units also felt pressure to maintain Google perks such as free employee meals. 
+“One of the pitfalls (of Alphabet) is that those companies are asked to stand on their own two feet, but they may inherit the cost structure of Google," said Nest investor Peter Nieh, a partner at Lightspeed Venture Partners. 
+In early 2016, Alphabet explored selling Nest in an effort code-named Project Amalfi, according to three people familiar with the matter. No deal materialized, and Nest co-founder Tony Fadell departed last year. Fadell declined to comment. 
+Boston Dynamics, acquired in 2013 during a robotics shopping spree led by Android creator Andy Rubin, enjoyed generous funding at first. But it was adrift after Rubin's departure, two former employees said. Rubin did not respond to requests for comment. 
+GRUMPY GOOGLERS 
+The creation of the Other Bets has also changed what it means to work for Google. 
+Some grumble that their role now is to subsidize innovation at their sister companies, rather than to innovate themselves. 
+“It did sort of send the message to people who stayed back at Google, whether in search or in ads: Your job isn’t to push the envelope,” one former Googler said. 
+Employee transfers to X, the illustrious “moonshot factory,” are more complicated now that it's a separate entity, former employees say. 
+That’s a striking shift, especially for high-performing employees accustomed to moving about the company almost at will, said Punit Soni, a former Google employee who is now chief executive of Learning Motors, an artificial intelligence startup. 
+“A basic premise of Google was people could do whatever they wanted,” Soni said. “I can see why people will feel like it’s no longer the old Google." 
+In the meantime, co-founder Page is pursuing yet another "moonshot": flying cars. 
+He is the primary investor in Kitty Hawk, a startup in the field that is entirely outside the Alphabet umbrella. 
+(Editing by Marla Dickerson) 
+Read the original article on Reuters. Copyright 2017. Follow Reuters on Twitter.
+More: Reuters 

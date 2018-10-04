@@ -1,0 +1,15 @@
+*An Artificial Intelligence Developed Its Own Non-Human Language
+
+A buried line in a new Facebook report about chatbots’ conversations with one another offers a remarkable glimpse at the future of language.
+
+In the report, researchers at the Facebook Artificial Intelligence Research lab describe using machine learning to train their “dialog agents” to negotiate. (And it turns out bots are actually quite good at dealmaking.) At one point, the researchers write, they had to tweak one of their models because otherwise the bot-to-bot conversation “led to divergence from human language as the agents developed their own language for negotiating.” They had to use what’s called a fixed supervised model instead.
+
+In other words, the model that allowed two bots to have a conversation—and use machine learning to constantly iterate strategies for that conversation along the way—led to those bots communicating in their own non-human language. If this doesn’t fill you with a sense of wonder and awe about the future of machines and humanity then, I don’t know, go watch Blade Runner or something.
+
+The larger point of the report is that bots can be pretty decent negotiators—they even use strategies like feigning interest in something valueless, so that it can later appear to “compromise” by conceding it. But the detail about language is, as one tech entrepreneur put it, a mind-boggling “sign of what’s to come.”
+
+To be clear, Facebook’s chatty bots aren’t evidence of the singularity’s arrival. Not even close. But they do demonstrate how machines are redefining people’s understanding of so many realms once believed to be exclusively human—like language.
+
+Already, there’s a good deal of guesswork involved in machine learning research, which often involves feeding a neural net a huge pile of data then examining the output to try to understand how the machine thinks. But the fact that machines will make up their own non-human ways of conversing is an astonishing reminder of just how little we know, even when people are the ones designing these systems.
+
+“There remains much potential for future work,” Facebook’s researchers wrote in their  paper, “particularly in exploring other reasoning strategies, and in improving the diversity of utterances without diverging from human language.”

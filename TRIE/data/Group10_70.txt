@@ -1,0 +1,24 @@
+Deep learning helps scientists keep track of cell's inner parts.
+Donnelly Centre researchers have developed a deep learning algorithm that can track proteins, to help reveal what makes cells healthy and what goes wrong in disease.
+
+"We can learn so much by looking at images of cells: how does the protein look under normal conditions and do they look different in cells that carry genetic mutations or when we expose cells to drugs or other chemical reagents? People have tried to manually assess what's going on with their data but that takes a lot of time," says Benjamin Grys, a graduate student in molecular genetics and a co-author on the study.
+
+Dubbed DeepLoc, the algorithm can recognize patterns in the cell made by proteins better and much faster than the human eye or previous computer vision-based approaches. In the cover story of the latest issue of Molecular Systems Biology , teams led by Professors Brenda Andrews and Charles Boone of the Donnelly Centre and the Department of Molecular Genetics, also describe DeepLoc's ability to process images from other labs, illustrating its potential for wider use.
+
+From self-driving cars to computers that can diagnose cancer, artificial intelligence (AI) is shaping the world in ways that are hard to predict, but for cell biologists, the change could not come soon enough. Thanks to new and fully automated microscopes, scientists can collect reams of data faster than they can analyze it.
+
+"Right now, it only takes days to weeks to acquire images of cells and months to years to analyze them. Deep learning will ultimately bring the timescale of this analysis down to the same timescale as the experiments," says Oren Kraus, a lead co-author on the paper and a graduate student co-supervised by Andrews and Professor Brendan Frey of the Donnelly Centre and the Department of Electrical and Computer Engineering. Andrews, Boone and Frey are also Senior Fellows at the Canadian Institute for Advanced Research.
+
+Similar to other types of AI, in which computers learn to recognize patterns in data, DeepLoc was trained to recognize diverse shapes made by glowing proteins -- labeled a fluorescent tag that makes them visible -- in cells. But unlike computer vision that requires detailed instructions, DeepLoc learns directly from image pixel data, making it more accurate and faster.
+
+Grys and Kraus trained DeepLoc on the teams' previously published data that shows an area in the cell occupied by more than 4,000 yeast proteins -- three quarters of all proteins in yeast. This dataset remains the most complete map showing exact position for a vast majority of proteins in any cell. When it was first released in 2015, the analysis was done with a complex computer vision and machine learning pipeline that took months to complete. DeepLoc crunched the data in a matter of hours.
+
+DeepLoc was able to spot subtle differences between similar images. The initial analysis identified 15 different classes of proteins, each representing distinct neighbourhoods in the cell; DeepLoc identified 22 classes. It was also able to sort cells whose shape changed due to a hormone treatment, a task that the previous pipeline couldn't complete.
+
+Grys and Kraus were able to quickly retrain DeepLoc with images that differed from the original training set, showing that it can be used to process data from other labs. They hope that others in the field, where looking at images by eye is still the norm, will adopt their method.
+
+"Someone with some coding experience could implement our method. All they would have to do is feed in the image training set that we've provided and supplement this with their own data. It takes only an hour or less to retrain DeepLoc and then begin your analysis," says Grys.
+
+In addition to sharing DeepLoc with the research community, Kraus is working with Jimmy Ba to commercialize the method through a new start-up, Phenomic AI. Ba is a graduate student of AI pioneer Geoffrey Hinton, a retired U of T professor and Chief Scientific Adviser of the newly established Vector Institute. Their goal is to analyse cell image-based data for pharmaceutical companies.
+
+"In an image based drug screen, you can actually figure out how the drugs are affecting different cells based on how they look rather than some simplified parameters such as live/dead or cell size. This way you can extract a lot more information about cell state form these screens. We hope to make the early drug discovery process all the more accurate by finding more subtle effects of chemical compounds," says Kraus.

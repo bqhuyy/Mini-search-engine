@@ -1,0 +1,38 @@
+The Top Five Tech Rivals Join Forces to Shape Policy—and Fight the Government
+
+Here’s how Apple, Google, Facebook, Amazon, and Microsoft strategically push back against the U.S. on data privacy and other big issues while slugging it out in the marketplace.
+
+On Sunday, Jan. 29, Microsoft Corp. President Brad Smith convened a conference call with top lawyers and policy staffers of Apple Inc., Amazon.com Inc., Facebook Inc., Alphabet Inc.’s Google and other technology companies, according to people familiar with the meeting. U.S. President Donald Trump’s executive order halting travel from seven majority Muslim nations had stranded employees and threatened their workforces. Now the companies were huddling over how to proceed.
+
+A week later, the ideas generated during that call became the basis of an impassioned legal brief signed by more than 120 companies opposing the ban. Yesterday the Supreme Court reinstated parts of the ban and said it will hear arguments in the case in the fall. 
+
+It’s one way in which the five biggest technology companies—which are also the five largest U.S. companies of any kind by market capitalization—are putting aside sometimes bitter product battles and business differences to cooperate at a deeper level than before on topics such as immigration, data privacy, cybersecurity and lesbian, gay, bisexual and transgender rights.
+
+
+“Some important policy issues, like surveillance reform and immigration, transcend business rivalries,” said Kent Walker, senior vice president and general counsel at Google. “On those issues, we make a stronger and more informed case when we speak with one voice.”
+
+The seeds of collaboration predate Trump. They were sown in the wake of Edward Snowden’s June 2013 claim that the U.S. National Security Agency had gained access to data from companies including Apple, Google, Microsoft and Facebook. That month, Google and Microsoft filed motions in the same week asking to be allowed to disclose how many times they had been ordered to share data with the U.S. government under the Foreign Intelligence Surveillance Act. That left the two arch-rivals negotiating together on the same side, against the U.S. Justice Department. Later, Facebook joined the fight.
+
+In 2014, Amazon and Apple backed Microsoft in a different fight with the Justice Department over the privacy of data stored overseas. Amazon’s rapidly growing cloud business pushed the company farther into issues involving customer-data privacy, while Apple was thrust into the spotlight on encryption policy last year, when the FBI demanded the iPhone maker hack into the device belonging to one of the shooters in the December 2015 terrorist attack in San Bernardino, California.
+
+Ten years ago, some of these companies left many policy issues to trade groups. Sometimes, rivals joined different groups and used them to score points against each other. Occasionally, they tried to use regulators as a weapon—Microsoft encouraged European antitrust officials to target Google, and Google chairman Eric Schmidt had drummed up support for the U.S. government’s case against Microsoft in the late 1990s before he joined the internet search giant. In the past several years, Microsoft and Google have made peace, settling outstanding legal issues in 2015, and all five of the companies realized it made sense sometimes to put aside business differences in the name of shared policy goals. Some of the changes have occurred as Facebook, Google and Amazon aged and grew more active in public advocacy.
+
+“All five of our companies compete vigorously with each other the marketplace but have common ground on policy and regulatory issues,” said Microsoft’s Smith. “In prior years, the market competition bled into more regulatory tension—in more recent years, we have recognized that we have common interests on a global basis on important regulatory and policy issues.”
+
+The increased cooperation can be seen in the speed at which companies jump on issues and how they now plan ahead, said Chris Calabrese, vice president for policy at the Center for Democracy & Technology. He cited the fact that last month, four of the five wrote to Congress about a key surveillance law up for renewal later this year.
+
+“That’s a strong, smart letter that came six months before re-authorization is up—it wasn’t a last-ditch effort,” Calabrese said. “That comes from the sophistication that this isn’t their first round.”
+
+
+The companies do weigh some issues differently, and some still rely on trade group membership for certain policy work. While Microsoft has retained several firms to lobby on tax issues and has a huge cash pile outside the U.S., the software maker is more focused on immigration issues than tax policy, Smith said. As he puts it: Microsoft can employ financial strategies to mitigate the impact of taxes on overseas income; it hasn’t figured out how to make software without the skilled immigrants in its workforce.
+
+Apple Chief Executive Officer Tim Cook has spoken out on both immigration and tax issues. In a June 5 interview with Bloomberg News, he said he’s disagreed with Trump on immigration and pushed for a tax plan for repatriating billions of dollars that U.S. companies keep overseas, while advocating charging a tax on international earnings. Last year, Apple filed 20 lobbying disclosure reports addressing taxation, covering the company’s own work on that issue and that of firms it hired. Apple has nearly $240 billion in cash overseas and would like to bring some of it back to the U.S. at a lower tax rate than the current 35 percent. “It’s a lot of money. There are other things they could be doing with that money,” said Annette Nellen, a professor of accounting and finance at San Jose State University.
+
+Amazon has a cloud software business , as Microsoft and Google do, and a hardware business like Apple's, but also a massive retail operation, which means it worries about such things as taxes and consumer safety and sometimes has a broader set of policy partners that extend outside its tech rivals. Overall, Amazon is getting far more active in lobbying—spending $11.4 billion in 2016, more than quadruple the figure for 2012 and second only to Google in size among the Big Five. Taxes and consumer product safety were among its biggest lobbying issues last year. Amazon declined to comment, and Apple had no comment beyond Cook’s interview.
+
+Facebook “participates in a number of industry coalitions that represent our common interests before policymakers around the world,’’ the company said in a statement. “These coalitions allow tech companies to speak in one voice on important issues like patent reform, net neutrality, and immigration.”
+
+Besides the Big Five, other technology firms frequently play key roles. Salesforce.com Inc. has been a leader on diversity issues, threatening to withhold investments in states such as Georgia and North Carolina over bills that might have led to restriction of LGBT rights. Yahoo! and Twitter Inc. have been active on data-privacy issues, and Cisco Systems Inc. has been outspoken on cybersecurity. Issues such as marriage equality and immigration have also drawn advocates from companies in a wide array of industries, from media to telecommunications to consumer goods.
+
+One other major factor influencing company advocacy: the workforce. “A lot of employees are becoming very vocal in supporting these policies,” said Suresh Kotha, a management professor at the University of Washington’s Foster School of Business. “In a sense, the companies are reflecting some of the values the employees have.”
+

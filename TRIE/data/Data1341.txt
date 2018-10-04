@@ -1,0 +1,30 @@
+Technology which makes electricity from urine also kills pathogens, researchers find
+A scientific breakthrough has taken an emerging biotechnology a step closer to being used to treat wastewater in the Developing World.
+
+Researchers at the University of the West of England (UWE Bristol) (Ieropoulos & Greenman) have discovered that technology they have developed which has already been proven to generate electricity through the process of cleaning organic waste, such as urine, also kills bacteria harmful to humans.
+
+Experts have shown that a special process they have developed in which wastewater flows through a series of cells filled with electroactive microbes can be used to attack and destroy a pathogen -- the potentially deadly Salmonella.
+
+It is envisaged that the microbial fuel cell (MFC) technology could one day be used in the Developing World in areas lacking sanitation and installed in homes in the Developed World to help clean waste before it flows into the municipal sewerage network, reducing the burden on water companies to treat effluent.
+
+Professor Ioannis Ieropoulos, who is leading the research, said it was necessary to establish the technology could tackle pathogens in order for it to be considered for use in the Developing World.
+
+The findings of the research have been published in leading scientific journal PLOS ONE. Professor Ieropoulos, Director of the Bristol BioEnergy Centre, based in the Bristol Robotics Laboratory at UWE Bristol, said it was the first time globally it had been reported that pathogens could be destroyed using this method.
+
+He said: "We were really excited with the results -- it shows we have a stable biological system in which we can treat waste, generate electricity and stop harmful organisms making it through to the sewerage network."
+
+It had already been established that the MFC technology created by Dr Ieropoulos' team could successfully clean organic waste, including urine, to the extent that it could be safely released into the environment. Through the same process, electricity is generated -- enough to charge a mobile phone or power lighting in earlier trials.
+
+In the unique system, being developed with funding from the Bill & Melinda Gates Foundation, the organic content of the urine is consumed by microbes inside the fuel cells, breaking it down and creating energy.
+
+For the pathogen experiment, Salmonella enteritidis was added to urine flowing through the system, then checked at the end of the process to identify if bacteria numbers had been reduced. Results revealed pathogen numbers had dropped significantly, beyond minimum requirements used by the sanitation sector.
+
+Other pathogens, including viruses, are now being tested and there are plans for experiments which will establish if the MFC system can eliminate pathogens completely.
+
+John Greenman, Emeritus Professor of Microbiology, said: "The wonderful outcome in this study was that tests showed a reduction in the number of pathogens beyond the minimum expectations in the sanitation world.
+
+"We have reduced the number of pathogenic organisms significantly but we haven't shown we can bring them down to zero -- we will continue the work to test if we can completely eliminate them."
+
+Professor Ieropoulos said his system could be beneficial to the wastewater industry because MFC systems fitted in homes could result in wastewater being cleaner when it reaches the sewerage system.
+
+He said: "Water companies are under pressure to improve treatment and produce cleaner and cleaner water at the end of the process. This means costs are rising, energy consumption levels are high and chemicals that are not good for the environment are being used."

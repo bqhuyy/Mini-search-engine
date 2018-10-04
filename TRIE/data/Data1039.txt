@@ -1,0 +1,13 @@
+Sony Joins Google, Facebook, Amazon in Chase for AI Developers
+
+Sony Corp. opened up access to its deep-learning software tools, joining Google, Facebook Inc. and Amazon.com Inc. in a push to attract artificial-intelligence developers.
+
+The Japanese company made its Neural Network Libraries available under a free license that lets programmers distribute, modify and use the software for any purpose without paying royalties. The shift to open source aims to “enable the development community to further build on the core libraries’ programs,” Sony said in a statement Tuesday.
+
+Google has led the way in opening up AI development tools with the 2016 release of its TensorFlow platform. That set off a rush of companies giving away software in hopes of getting more AI experts trained on the same tools and seeking their input to improve and expand the code. Since then, Facebook has backed Caffe and Torch, Amazon chose MXNet, while Microsoft Corp. released its Cognitive Toolkit.
+
+Sony, a name not typically associated with machine learning, has previously hinted at its AI ambitions. Last year, the Tokyo-based company made a rare investment into a brand new U.S.-based startup called Cogitai, which is focused on a cutting-edge AI technology known as reinforcement learning. That same year, Sony Chief Executive Officer Kazuo Hirai told investors the company needs to be more open to cooperating with outside talent in order to keep up with developments in robotics and AI.
+
+Sony’s software release checks all the right boxes: it uses Python programming language popular with data researchers, is compatible with Nvidia Corp.’s graphics cards that can speed up model training and can be ported to smartphones and other connected devices. But the company has a long way to go in winning over developers in an already crowded field. Its listing on GitHub, an online software repository popular with open source projects, was bookmarked by 64 people, compared with more than 60,000 for TensorFlow.
+
+Before it's here, it's on the Bloomberg Terminal.  LEARN MORE

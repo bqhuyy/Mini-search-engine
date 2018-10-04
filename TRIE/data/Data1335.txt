@@ -1,0 +1,33 @@
+Boaty McBoatface returns home from abyss
+Researchers at the University of Southampton have captured unprecedented data about some of the coldest abyssal ocean waters on earth -- known as Antarctic Bottom Water (AABW) -- during first voyage of the yellow robotic submersible known as Boaty McBoatface, which arrived back in the UK last week.
+
+The team, which also involved scientists from British Antarctic Survey and engineers from the National Oceanography Centre, captured data on temperature, speed of water flow and underwater turbulence rates of the Orkney Passage, a region of the Southern Ocean which is around 4,000m deep and roughly 500 miles from the Antarctic Peninsula.
+
+In order to visualise the progress of Boaty and place the data in the context of the complicated terrain in the region, the team have created an animated fly-through of the Orkney Passage. The information collected will now be analysed to understand the complex process of ocean mixing and how it affects climate change.
+
+The information was gathered as part of the DynOPO (Dynamics of the Orkney Passage Outflow) seven-week expedition, with the RRS James Clark Ross returning to Southampton last week. The DynOPO programme is funded by a grant from the Natural Environment Research Council (NERC).
+
+It was the first Antarctic voyage of Boaty McBoatface, one of the Autosub Long Range (ALR) class of unmanned submersibles, the latest type of autonomous underwater vehicle (AUV) developed by the National Oceanography Centre. The Autosub was named following last year's campaign by the NERC to name the UK's new polar research ship. While the ship will be named after famous naturalist and broadcaster Sir David Attenborough, the popular suggestion of the contest -- Boaty McBoatface -- lives on in the form of an unmanned submersible that will support the research ship to explore parts of the polar regions inaccessible to humans.
+
+Welcoming Boaty McBoatface back from its first mission, Universities and Science Minister Jo Johnson, said: "Fresh from its maiden voyage, Boaty is already delivering new insight into some of the coldest ocean waters on earth, giving scientists a greater understanding of changes in the Antarctic region and shaping a global effort to tackle climate change.
+
+"Future Boaty missions and the new RRS Sir David Attenborough research vessel will ensure the UK continues to punch above its weight and lead the way in polar science, engineering and technology as part of our Industrial Strategy."
+
+Researchers used a combination of specialised instruments including those deployed from the ship as well as instruments moored to the seafloor and measurements made by Boaty.
+
+The submersible completed three missions during the expedition, the longest lasting three days, travelling more than 180km and reaching depths of nearly 4,000m. It travelled back and forth through an abyssal current of Antarctic Bottom Water along the Orkney Passage, sometimes in water colder than 0°C and in currents up to 1 knot, while measuring the intensity of the turbulence.
+
+This current forms off the coast of Antarctica as cold winds off the ice sheet cool the sea surface. The resulting cold, dense water sinks and moves northwards, forming an important part of the global circulation of ocean water. The Orkney Passage is a key chokepoint that AABW has to navigate on its way from Antarctica's Weddell Sea to the Atlantic Ocean.
+
+Current evidence suggests that changing winds over the Southern Ocean affect the speed of seafloor currents carrying AABW. The speed of these currents determines how turbulent their flow around underwater mountain ranges (submarine topography) is. Faster flow is more turbulent, and in this turbulence more heat is mixed into AABW from shallower, warmer ocean layers -- thus warming the abyssal waters on their way to the Equator, affecting global climate change.
+
+Professor Alberto Naveira Garabato from the University of Southampton, the lead scientist of DynOPO, said: "The Orkney Passage is a key chokepoint to the flow of abyssal waters in which we expect the mechanism linking changing winds to abyssal water warming to operate. Our goal is to learn enough about these convoluted processes to represent them (for the first time) in the models that scientists use to predict how our climate will evolve over the 21st century and beyond.
+
+"We have been able to collect massive amounts of data that we have never been able to capture before due to the way Boaty (Autosub Long Range) is able to move underwater. Up until now we have only been able to take measurements from a fixed point, but now, we are able to obtain a much more detailed picture of what is happening in this very important underwater landscape. The challenge for us now, is to analyse it all."
+
+But the expedition was not without its challenges. Povl Abrahamsen, Physical Oceanographer at the British Antarctic Survey, explained: "At the start of one mission, whilst diving, Boaty encountered a swarm of krill so dense that the sub's echo sounders thought it was approaching the seabed although it was only at 80m depth, and returned to the surface. However, the upside was that we did see lots of whales near the ship! In spite of the occasional hiccup, and in increasingly cold and dark conditions, Boaty has gathered a unique and exciting dataset that we look forward to studying in more detail in months and years to come."
+
+Steve McPhail, Head of the AUV Development at the National Oceanography Centre, added: "Although these recent deployments tested the technological capabilities of Autosub Long Range, we are extremely pleased with the results and the data that we have been able to provide to the scientific community. In the near future, we are looking forward to expanding and developing the fleet on the success of this last mission."
+
+Video: https://vimeo.com/217386697
+

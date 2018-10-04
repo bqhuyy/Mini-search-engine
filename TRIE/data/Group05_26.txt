@@ -1,0 +1,46 @@
+
+Hedge Fund Bosses Make the Case for Humans
+
+Humans won’t be obsolete in this lifetime.
+
+That’s what a quartet of money managers have posited in recent weeks as new technologies rewire finance, threatening to supplant the industry’s rank and file.
+
+Winton, a $30.6 billion hedge fund that’s used algorithms to trade for two decades, told clients that people must still make the big decisions. Michael Hintze, who runs another major fund, said computer models can spot market anomalies but rarely provide answers. Jordi Visser, investment chief at a third firm, said humans still have the upper hand when it comes to recognizing patterns. Billionaire bond manager Jeffrey Gundlach said he’s betting people will prevail.
+
+“Despite the immense power of modern computing, it is neither advisable -- nor even possible -- to dispense with humans entirely,” Winton, founded by David Harding, who earned a degree in theoretical physics before going into finance, wrote in its letter to clients this month.
+
+Legions of finance workers are wondering how many years they’ll last as banks and money managers experiment with tech, looking to someday automate everything from securities underwriting to portfolio management. It comes amid a crescendo of warnings from the likes of Federal Reserve Chair Janet Yellen and software billionaire Bill Gates that big data and machine learning may unleash a wave of automation on the U.S. (To be sure, Treasury Secretary Steven Mnuchin has said automation isn’t on the administration’s radar.)
+
+Read more: JPMorgan’s moonshot man wants to help Wall Street fire traders
+
+Wading into the debate last week, DoubleLine Capital Chief Executive Officer Gundlach said he doesn’t believe in machines taking over finance. His advice for beating them is simple: “Work hard.”
+
+Indeed, Winton wrote in its letter, there are big tasks at hedge funds ripe for automation, such as performing large-scale, recurring calculations for assessing risk across portfolios. But according to the firm, whose 450 employees include astrophysicists and other scientists, computers are far from ready to make investing decisions independently. Instead, people will be running software at every stage of the process.
+
+Winton managers design and choose algorithms that are ultimately approved or rejected by its investment board. And while computers are better suited to handle early stages of checking data, once anomalies are flagged, humans are better at cross-referencing the irregularities against other sources to draw conclusions, the London-based firm said.
+
+“The notion that human involvement in investment management should, or even could, be fully automated is wide of the mark,” Winton, which returned 1.3 percent this year through May on its main fund, wrote in the letter.
+
+Cohen’s Experiment
+
+There’s lots of news troubling financial professionals. Billionaire trader Steven Cohen is experimenting with ways to automate his best money managers. Goldman Sachs Group Inc. is developing systems to eliminate hundreds of hours of human labor in initial public offerings. JPMorgan Chase & Co. is using machine-learning techniques to take over work from lawyers. (Its CEO, Jamie Dimon, said in an interview published Monday that people are massively overreacting to the threat of technology.)
+
+For investing professionals, the fear isn’t just that firms may need fewer of them to perform tasks -- it’s that they’ll be competing against low-cost rivals. Hedge fund managers, for example, traditionally charged clients 2 percent of assets and 20 percent of profits. It’s harder to justify if automated platforms can achieve decent results without a big bite. Such has been the case with index funds.
+
+Read more: Ex-Two Sigma manager finds refuge from robots in hidden markets
+
+But according to Visser at Weiss Multi-Strategy Advisers, a $1.7 billion hedge fund in New York, human investors still have a big advantage when it comes to recognizing patterns and connecting the dots: intuition.
+
+“The good thing about computers is that they don’t have emotions,” Visser said in a phone interview. “The bad thing about computers is that they don’t have emotions. Computers can’t detect human sentiment. They can’t identify the usual suspects who typically attend crowded conferences when markets are at a top.”
+
+Visser is particularly skeptical about all the money being spent on finding profitable trading strategies by testing them on historical data, or so-called backtesting. While that helps reveal how portfolios will likely perform under various market conditions, computers aren’t yet adept at forecasting what people will do in the future, he wrote in a June paper.
+
+The industry’s survivors will be the ones who imbibe technology into their processes, Visser said. The trick is to use a combination of human judgment and models, “while artificial intelligence tries to catch up to the power of the brain,” he said. His hedge fund also returned 1.3 percent this year through May.
+
+‘Team Effort’
+
+Hintze at CQS, a $14 billion hedge fund based in London, concedes that quant-driven strategies are here to stay, and that they’re good at taking advantage of anomalies in markets. While engineering and mathematics are intriguing, successful investing is based on an understanding of fundamentals, technicals and investor sentiment, he said.
+
+It’s better to pair technology with human insight and imagination to generate alpha, he said, referring to the profit made over a benchmark. His hedge fund returned 3.2 percent this year through May.
+
+“Models are a great place to begin, but not necessarily a good place to finish,” he said. “It is a team effort and you need the analysts, traders and portfolio managers with the skills, experience and judgment to use and understand sophisticated financial models.”

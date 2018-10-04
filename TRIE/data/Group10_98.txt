@@ -1,0 +1,20 @@
+Amazon basin deforestation could disrupt distant rainforest by remote climate connection
+The ongoing deforestation around the fringes of the Amazon may have serious consequences for the untouched deeper parts of the rainforest. A new research study shows that it is not only the climate that is adversely affected by deforestation. In fact, the very stability of the ecosystem in the entire Amazon region is altered when deforestation takes place in the outermost regions.
+
+It was previously known that, in the long term, the deforestation of the Amazon rainforest has a negative impact on the global climate due to greater carbon dioxide emissions released into the atmosphere. However, researchers from Lund University in Sweden and other institutions have now shown that deforestation could also disrupt the entire rainforest's resilience, that is, its long-term ability to recover from environmental changes, and the ability to absorb carbon dioxide from the atmosphere.
+
+"Unlike most previous studies on land use that have focused solely on climate change impacts, the current study also accessed the land use impacts on the ecosystem," says Minchao Wu, doctoral student in physical geography at Lund University.
+
+In their study, the researchers used a high-resolution regional earth system model developed at Lund University. Previous studies in the field have used a relatively coarse resolution in their computer simulations, without the possibility of incorporating a detailed level of vegetation dynamics. Therefore, according to the researchers, it has so far been difficult to pinpoint the effects, but the new-generation regional earth system models now enable such an impact study to be performed.
+
+"Our study shows that the ongoing deforestation of the Amazon outskirts may have a negative impact on the entire rainforest," says Minchao Wu.
+
+The explanation is that deforestation affects the climate both locally and regionally, creating a vicious circle. When the trees disappear from the outskirts of the forest, it creates significant local warming. Furthermore, it changes the air circulation patterns throughout the Amazon area during the dry season.
+
+This chain of events is self-perpetuating and creates a vicious circle with an increasingly higher risk of disrupting the balance of the entire ecosystem. The untouched inner parts of the Amazon rainforest are thus also at risk of adverse effects, even though the actual felling of trees takes place far away in the outermost areas.
+
+"Our results indicate that this has already started to happen in the Amazon rainforest. Previous studies tend to underestimate such connections as simulated land-atmosphere interaction is also resolution-dependent, which means that the signals for changes in small-scale land use are likely to be much weaker in a coarse resolution model," says Minchao Wu.
+
+According to Minchao Wu, regional earth system models are an important tool for assessing the impact of regional environmental changes. Therefore, he and his colleagues hope that decision-makers and other actors involved in land use planning in the Amazon region will take the implications of the study into account.
+
+The researchers now want to continue developing a more advanced regional earth system model to improve the regional environmental impact assessment, and apply this not only to the Amazon region but also to other parts of the world. The aim is to provide useful information for decision-makers and stakeholders in assessing the environmental impact of future climate change.

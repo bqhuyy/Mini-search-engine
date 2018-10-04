@@ -1,0 +1,16 @@
+To the Rescue: Cockroach-like Robots May Help in Disasters
+When buildings collapse in future disasters, the hero helping rescue trapped people may be a robotic cockroach. 
+Repulsive as they may be, roaches have the remarkable ability to squish their bodies down to one quarter their normal size, yet still scamper at lightning speed. Also, they can withstand 900 times their body weight without being hurt. That's equivalent to a 200-pound man who wouldn't be crushed by 90 tons on his head. 
+The amazing cockroach inspired scientists to create a mini-robot that can mimic those feats of strength and agility. 
+The researchers hope swarms of future roach-like robots could be fitted with cameras, microphones and other sensors and then used in earthquakes and other disasters to help search for victims by squeezing through small cracks. The skittering robots could also let rescuers know if the rubble pile is stable. 
+Cockroaches "seem to be able to go anywhere," said University of California at Berkeley biology professor Robert Full, co-author of a study about the prototype cockroach robot. "I think they're really disgusting and really revolting, but they always tell us something new." 
+The study was being published this week in the online edition of the journal Proceedings of the National Academy of Sciences. 
+The palm-size prototype, called the Compressible Robot with Articulated Mechanisms, or CRAM, looks more like an armadillo and walks sort of like Charlie Chaplin when it's compressed. It's about 20 times the size of the roach that inspired it. And it's simple and cheap. 
+Co-author Kaushik Jayaram, a Harvard robotics researcher, said the most difficult part was the design, but after that he used off-the-shelf electronics and motors, cardboard, polyester and some knowledge of origami. He could probably put one together in about half an hour, he estimated.
+All told, the prototype probably cost less than $100, Jayaram said. He figures if mass-produced, with sensors and other equipment added on, the robots could eventually cost less than $10 apiece. 
+In the past, when engineers looked at trying to create robots that could get into tight places, they thought about shape-changing soft animals like worms, slugs or octopuses, Full said. But the cockroach, which already is studied by roboticists for other abilities, has certain advantages, including crush-resistance and speed. 
+With nothing in its way, the American cockroach can travel 50 body lengths in a second, which would be the equivalent of a human running more than 140 mph, Full said. When compressed, the cockroach slows to 20 body lengths per second, which is still pretty fast. 
+Full and colleagues found roaches used a newly identified type of locomotion to ooze through cracks and crevices based on the ideal amount of belly friction. 
+Cockroaches have inspired other robots, including ones that travel on six legs to get over debris more easily, said Johns Hopkins University mechanical engineering professor Noah Cowan, who wasn't part of the study. He said cockroaches and insects in general are great design guides for roboticists to borrow from. 
+"There's definitely a case for machines that can go into environments that are not safe for humans to go into," Cowan said. 
+

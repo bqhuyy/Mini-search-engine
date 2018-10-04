@@ -1,0 +1,54 @@
+Prime Numbers, Factorization and Euler Function
+Prime numbers and their properties were extensively studied by the ancient Greek mathematicians. Thousands of years later, we commonly use the different properties of integers that they discovered to solve problems. In this article we'll review some definitions, well-known theorems, and number properties, and look at some problems associated with them.
+
+A prime number is a positive integer, which is divisible on 1 and itself. The other integers, greater than 1, are composite. Coprime integers are a set of integers that have no common divisor other than 1 or -1.
+
+The fundamental theorem of arithmetic:
+Any positive integer can be divided in primes in essentially only one way. The phrase "essentially one way" means that we do not consider the order of the factors important.
+
+One is neither a prime nor composite number. One is not composite because it doesn't have two distinct divisors. If one is prime, then number 6, for example, has two different representations as a product of prime numbers: 6 = 2 * 3 and 6 = 1 * 2 * 3. This would contradict the fundamental theorem of arithmetic.
+
+Euclid's theorem:
+There is no largest prime number.
+
+To prove this, let's consider only n prime numbers: p1, p2, …, pn. But no prime pi divides the number
+
+N = p1 * p2 * … * pn + 1,
+
+so N cannot be composite. This contradicts the fact that the set of primes is finite.
+
+Dirichlet's theorem about arithmetic progressions:
+For any two positive coprime integers a and b there are infinitely many primes of the form a + n*b, where n > 0.
+
+Trial division: 
+Trial division is the simplest of all factorization techniques. It represents a brute-force method, in which we are trying to divide n by every number i not greater than the square root of n. (Why don't we need to test values larger than the square root of n?) The procedure factor prints the factorization of number n. The factors will be printed in a line, separated with one space. The number n can contain no more than one factor, greater than n.
+
+Consider a problem that asks you to find the factorization of integer g(-231 < g <231) in the form
+
+g = f1 x f2 x … x fn or g = -1 x f1 x f2 x … x fn
+
+where fi is a prime greater than 1 and fi <= fj for i < j.
+
+For example, for g = -192 the answer is -192 = -1 x 2 x 2 x 2 x 2 x 2 x 2 x 3.
+
+To solve the problem, it is enough to use trial division as shown in function factor.
+
+Sieve of Eratosthenes:
+The most efficient way to find all small primes was proposed by the Greek mathematician Eratosthenes. His idea was to make a list of positive integers not greater than n and sequentially strike out the multiples of primes less than or equal to the square root of n. After this procedure only primes are left in the list.
+
+The procedure of finding prime numbers gen_primes will use an array primes[MAX] as a list of integers. The elements of this array will be filled so that
+
+At the beginning we mark all numbers as prime. Then for each prime number i (i >= 2), not greater than sqrt(MAX), we mark all numbers i*i, i*(i + 1), … as composite.
+
+For example, if MAX = 16, then after calling gen_primes, the array "primes" will contain next values:
+
+i	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+primes[i]	1	1	1	1	0	1	0	1	0	0	0	1	0	1	0	0
+Goldbach's Conjecture:
+For any integer n (n >= 4) there exist two prime numbers p1 and p2 such that p1 + p2 = n. In a problem we might need to find the number of essentially different pairs (p1, p2), satisfying the condition in the conjecture for a given even number n (4 <= n <= 2 15). (The word "essentially" means that for each pair (p1, p2) we have p1 <= p2)
+
+For example, for n = 10 we have two such pairs: 10 = 5 + 5 and 10 = 3 + 7.
+
+To solve this, as n <= 215 = 32768, we'll fill an array primes[32768] using function gen_primes. We are interested in primes, not greater than 32768.
+
+The function FindSol(n) finds the number of different pairs (p1, p2), for which n = p1 + p2. As p1 <= p2, we have p1 <= n/2. So to solve the problem we need to find the number of pairs (i, n – i), such that i and n – i are prime numbers and 2 <= i <= n/2.

@@ -1,0 +1,57 @@
+Using Regular Expressions
+troduction
+A regular expression is a special string that describes a search pattern. Many of you have surely seen and used them already when typing expressions like ls(or dir) *.txt , to get a list of all the files with the extension txt. Regular expressions are very useful not only for pattern matching, but also for manipulating text. In SRMs regular expressions can be extremely handy. Many problems that require some coding can be written using regular expressions on a few lines, making your life much easier.
+
+(Not so) Formal Description of Regular Expressions
+A regular expression(regex) is one or more non-empty branches, separated by ‘|’. It matches anything that matches one of the branches. The following regular expression will match any of the three words “the”,”top”,”coder”(quotes for clarity).
+A branch is one or more pieces, concatenated. It matches a match for the first, followed by a match for the second, etc.
+
+A piece is an atom possibly followed by a ‘*’, ‘+’, ‘?’, or bound. An atom followed by ‘*’ matches a sequence of 0 or more matches of the atom. An atom followed by `+’ matches a sequence of 1 or more matches of the atom. An atom followed by `?’ matches a sequence of 0 or 1 matches of the atom.
+
+The following regular expression matches any successive occurrence of the words ‘top’ and ‘coder’.
+A bound is ‘{‘ followed by an unsigned decimal integer, possibly followed by ‘,’ possibly followed by another unsigned decimal integer, always followed by ‘}’.If there are two integers, the first may not exceed the second. An atom followed by a bound containing one integer i and no comma matches a sequence of exactly i matches of the atom. An atom followed by a bound containing one integer i and a comma matches a sequence of i or more matches of the atom. An atom followed by a bound containing two integers i and j matches a sequence of i through j (inclusive) matches of the atom.
+The following regular expression matches any sequence made of ’1′s having length 2,3 or 4 .
+
+One should observe that, greedily, the longest possible sequence is being matched and that different matches do not overlap. An atom is a regular expression enclosed in ‘()’ (matching a match for the regular expression), a bracket expression (see below), ‘.’ (matching any single character), ‘^’ (matching the null string at the beginning of a line), ‘$’ (matching the null string at the end of a line), a `\’ followed by one of the characters `^.[$()|*+?{\' (matching that character taken as an ordinary character) or a single character with no other significance (matching that character). There is one more type of atom, the back reference: `\' followed by a non-zero decimal digit d matches the same sequence of characters matched by the d-th parenthesized subexpression (numbering subexpressions by the positions of their opening parentheses, left to right), so that (e.g.) `([bc])\1′ matches `bb’ or `cc’ but not `bc’.
+
+The following regular expression matches a string composed of two lowercase words separated by any character.
+A bracket expression is a list of characters enclosed in ‘[]‘. It normally matches any single character from the list. If the list begins with ‘^’, it matches any single character not from the rest of the list. If two characters in the list are separated by `-’, this is shorthand for the full range of characters between those two inclusive (e.g. ‘[0-9]‘ matches any decimal digit). With the exception of ‘]’,’^’,’-’ all other special characters, including `\’, lose their special significance within a bracket expression.
+
+The following regular expression matches any 3 character words not starting with ‘b’,’c’,’d’ and ending in ‘at’.
+([a-zA-Z][a-zA-Z0-9]*) will match any word that starts with a letter and continues with an arbitrary number of letters or digits. 
+(()| [^>]*) will match either the empty string or any string which does not contain ‘>’ . 
+\1 will be replaced using backreferencing with the word matched be ([a-zA-Z][a-zA-Z0-9]*)
+
+The above description is a brief one covering the basics of regular expressions. A regex written following the above rules should work in both Java(>=1.4) and C++(POSIX EXTENDED). For a more in depth view of the extensions provided by different languages you can see the links given in the References section.
+
+Using regular expressions
+In java
+In java(1.4 and above) there is a package “java.util.regex” which allows usage of regular expressions.
+
+This package contains three classes : Pattern, Matcher and PatternSyntaxException.
+
+A Pattern object is a compiled representation of a regular expression. The Pattern class provides no public constructors. To create a pattern, you must call one of its public static compile methods, both of which will return a Pattern object.
+A Matcher object is the engine that interprets the pattern and performs match operations against an input string. Like the Pattern class, Matcher defines no public constructors. You obtain a Matcher object by calling the public matcher method on a Pattern object.
+A PatternSyntaxException object is an unchecked exception that indicates a syntax error in a regular expression pattern.
+Java also offers the following methods in the String class:
+boolean matches(String regex) (returns if the current string matches the regular expression regex)
+String replaceAll(String regex, String replacement) (Replaces each substring of this string that matches the given regular expression with the given replacement.)
+String replaceFirst(String regex, String replacement) (Replaces the first substring of this string that matches the given regular expression with the given replacement.)
+String[] split(String regex) (Splits this string around matches of the given regular expression)
+In C++
+Many Topcoders believe that regular expressions are one of Java’s main strengths over C++ in the arena. C++ programmers don’t despair, regular expressions can be used in C++ too.
+
+There are several regular expression parsing libraries available for C++, unfortunately they are not very compatible with each other. Fortunately as a Topcoder in the arena one does not have to cope with all this variety of “not so compatible with one another” libraries. If you plan to use regular expressions in the arena you have to choose between two flavors of regex APIs: POSIX_regex and GNU_regex. To use these APIs the header file “regex.h” must be included. Both of these work in two steps – first there is a function call that compiles the regular expression, and then there is a function call that uses that compiled regular expression to search or match a string.
+
+Here is a short description of both of these APIs, leaving it up to the coder to choose the one that he likes the most.
+
+POSIX_regex
+Includes support for two different regular expression syntaxes, basic and extended. Basic regular expressions are similar to those in ed, while extended regular expressions are more like those in egrep, adding the ‘|’, ‘+’ and ‘?’ operators and not requiring backslashes on parenthesized subexpressions or curly-bracketed bounds. Basic is the default, but extended is prefered.
+
+With POSIX, you can only search for a given regular expression; you can’t match it. To do this, you must first compile it in a pattern buffer, using `regcomp’. Once you have compiled the regular expression into a pattern buffer you can search in a null terminated string using ‘regexec’. If either of the ‘regcomp’ or ‘regexec’ function fail they return an error code. To get an error string corresponding to these codes you must use ‘regerror’. To free the allocated fields of a pattern buffer you must use ‘regfree’.
+
+For an in depth description of how to use these functions please consult [2] or [3] in the References section.
+GNU_regex
+The GNU_regex API has a richer set of functions. With GNU regex functions you can both match a string with a pattern and search a pattern in a string. The usage of these functions is somehow similar with the usage of the POSIX functions: a pattern must first be compiled with ‘re_compile_pattern’, and the pattern buffer obtained is used to search and match. The functions used for searching and matching are ‘re_search’ and ‘re_match’. In case of searching a fastmap can be used in order to optimize search. Without a fastmap the search algorithm tries to match the pattern at consecutive positions in the string. The fastmap tells the algorithm what the characters are from which a match can start. The fastmap is constructed by calling the ‘re_compile_fastmap’. The GNU_regex also provides the functions ‘re_search2′ and ‘re_match2′ for searching and matching with split data. To free the allocated fields of a pattern buffer you must use ‘regfree’.
+
+For an in-depth description of how to use these functions please consult [3].

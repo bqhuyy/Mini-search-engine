@@ -1,0 +1,24 @@
+Monitoring changes in wetland extent can help predict the rate of climate change
+Monitoring changes to the amount of wetlands in regions where permafrost is thawing should be at the forefront of efforts to predict future rates of climate change, new research shows.
+
+Permafrost -- frozen ground -- holds huge amounts of carbon which may be released into the atmosphere as the climate warms and these soils thaw. For this reason it is critically important to know where thaw is taking place and how much carbon is being exposed.
+
+But a new study says that the effects of thaw on the release of the powerful greenhouse gas, methane, may be better predicted by monitoring changes in the area of wetlands rather than by investigating how much carbon is being exposed.
+
+Permafrost thaw is caused by climate change which warms northern high latitudes faster than elsewhere on Earth. The release of permafrost carbon to the atmosphere could accelerate rates of climate change, with some estimates suggesting that potential rates of release could rival those from tropical deforestation. If even a small proportion of the carbon is released in the form of methane, a more powerful greenhouse gas than carbon dioxide, then the feedback becomes even more significant.
+
+There are around 1 million km2 of permafrost peatlands on Earth and they store approximately 20 per cent of the total permafrost carbon stock which is predicted to thaw this century. The rate at which frozen organic soils could potentially decompose is up to five times greater than for frozen mineral soils, and peats are disproportionately likely to be water-logged following thaw, the very conditions that promote methane release.
+
+The new study, published in Nature Climate Change, measured rates of methane production from thawing peatlands in the boreal region of northern Canada. Permafrost thaw in these ecosystems results in the formation of wetlands that can be major sources of methane. However, contrary to expectations, it was demonstrated that very little of the methane released was derived from the decomposition of ancient plant material that was previously stored in permafrost.
+
+In fact the researchers, from the University of Exeter, University of Sussex, University of Sheffield, University of Edinburgh and NERC Radiocarbon Facility in the UK, and from the Northwest Territories Geological Survey, Geological Survey of Canada and University of Ottawa in Canada, observed that the large amounts of methane being produced resulted from the decomposition of new organic matter derived from the vegetation that colonised these wetlands after permafrost thawed.
+
+Dr Iain Hartley, from the University of Exeter's College of Life and Environmental Sciences, said: "We have found the effects of permafrost thaw on methane release from northern peatlands may be driven more by changes in the extent of wetlands, than by methane produced from the decomposition of the previously-frozen organic matter itself.
+
+"To identify the most important factors controlling the effects of permafrost thaw on methane fluxes, it is really important to understand what the main source of the methane being released is. In the peatlands that we studied, the limited contribution of previously frozen carbon to the methane fluxes, tells us that near-surface water-table dynamics and the productivity of the current vegetation is likely to be the key to driving fluxes in these systems."
+
+"For this reason, we need to improve our abilities to monitor and predict future changes in wetland extent."
+
+Professor Mathew Williams, from the University of Edinburgh's School of Geosciences and leader of the overall project, added "There are developing opportunities to use satellites to monitor wetland extent and its changes over time. However, predicting the location and timing of thaw in permafrost regions -- and hence the development of wetlands -- remains a challenge. Thaw is linked to rising temperatures, but, because vegetation and soils insulate permafrost, predictions also have to take account of climate change effects on vegetation. Our research now has to address these complex interactions."
+
+Professor Julian Murton from the University of Sussex said: "The permafrost-soil-vegetation system is complex and sensitive to climate and environmental change. As warming of high-latitude forest and tundra regions is expected to continue in the 21st century, widespread thaw of near-surface, ice-rich permafrost is anticipated. This in turn will trigger ecological and biogeochemical changes that themselves influence climate and environmental change. Some areas of permafrost will get wetter on the surface, others drier. Distinguishing between such areas is important to modelling of greenhouse gas emissions."

@@ -1,0 +1,19 @@
+Bees see your face as a strange flower
+Bees can learn to recognize human faces, or at least face-like patterns, a new study suggests. 
+Rather than specifically recognizing people, these nectar-feeding creatures view us as "strange flowers," the researchers say. And while they might not be able to identify individual humans, they can learn to distinguish features that are arranged to look like faces. 
+The results suggest that, even with their tiny brains, insects can handle image analysis. The researchers say that if humans want to design automatic facial recognition systems, we could learn a lot by using the bees' approach to face recognition. 
+Training bees 
+The study was spurred by work conducted in 2005 by biologist Adrian Dyer from Monash University in Victoria, Australia, which showed that the insects could be trained to associate pictures of human faces with tasty sugar snacks. 
+Martin Giurfa from the Université de Toulouse, France, was intrigued by the research and wondered what strategy the bees used to discriminate between faces. The pair of scientists teamed up to tackle the puzzling question. 
+The team first tested whether the bees could learn to distinguish between simple face-like images — stick drawings like a toddler might make, which consisted of two dots for eyes, a short vertical dash for a nose and a longer horizontal line for a mouth. 
+The bees were trained to distinguish between images in which the features were cramped together, and ones that had features farther apart, and the insects were rewarded with sugar snacks when they chose one particular pattern over another. 
+But when the researchers took away the sugary-prize, the bees still returned to the correct face, indicating they could learn to distinguish between the two patterns that were organized like faces. 
+More complexity 
+Next, the researchers tested whether or not the bees could tell the difference between "face-like" and "non-face-like" images, even if they had never seen the pictures before. 
+Indeed, they could. 
+The bees were able to learn the face images, not because they knew what a face is, but because they had learned the relative arrangement and order of the features, the scientists figured. 
+But how would the bees cope with more complex faces? The team upped the test difficulty by embedding the stick-and-dot faces into face-shaped photographs. While the bees were trained with the photographs as the background, they could still recognize the stick pattern once the background was removed. 
+However, when pictures of real faces were scrambled by moving the relative positions of the eyes, nose and mouth, the bees no longer recognized the images as faces and treated them like unknown patterns. 
+Although the bees seem to be able to recognize face-like patterns, this doesn't mean they can learn to identify individuals, the researchers say. The insects learn the relative arrangements of features that happen to make up a face-like pattern, and they may use this strategy to learn about and recognize different objects in their environment. 
+The results were published in the Jan. 29 issue of the Journal of Experimental Biology.
+

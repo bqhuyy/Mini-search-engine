@@ -1,0 +1,20 @@
+How state-of-the-art camera that behaves like the human eye could benefit robots and smart devices
+Kingston University London experts will explore how an artificial vision system inspired by the human eye could be used by robots of the future -- opening up new possibilities for securing footage from deep forests, war zones and even distant planets.
+
+The three-year research project, in collaboration with King's College London and University College London, will examine how data from these state-of-the-art cameras could be captured, compressed and transmitted between machines at a fraction of the current energy cost.
+
+The £1.3m Engineering and Physical Sciences Research Council-funded project will see academics working with newly-developed dynamic visual sensors, which drastically reduce computing power and data storage requirements by only updating the parts of an image where movement occurs.
+
+These neuromorphic sensors mimic how mammals' eyes process information, quickly and efficiently detecting light changes in their field of vision, explained Professor Maria Martini, who is leading the Kingston University London team looking at innovative ways to process and transmit information secured through the sensors during the project.
+
+"Conventional camera technology captures video in a series of separate frames, or images, which can be a waste of resources if there is more motion in some areas than in others," she said. "Where you have a really dynamic scene, like an explosion, you end up with fast-moving sections not being captured accurately due to frame-rate and processing power restrictions and too much data being used to represent areas that remain static.
+
+"But these sensors -- which have been produced by a company that is collaborating with us on the project -- instead sample different parts of the scene at different rates, acquiring information only when there are changes in the light conditions."
+
+This dramatically reduces the energy and processing needs for the cameras and during the research project the team will look at how high-quality footage could be sourced efficiently from the dynamic visual sensors and then shared between machines or uploaded to a server in the cloud. The research could also have wide-ranging implications for the use of such sensors in the field of medicine, according to Professor Martini, who is based in the University's Faculty of Science, Engineering and Computing.
+
+"This energy saving opens up a world of new possibilities for surveillance and other uses, from robots and drones to the next generation of retinal implants," she said. "They could be implemented in small devices where people can't go and it's not possible to recharge the battery.
+
+"Sometimes sensors are thrown from a plane into a forest and stay for years. The idea is that different devices with these sensors should be able to share high quality data efficiently with each other without the intervention of human beings."
+
+As part of the project, the team will be looking at how these sensors could work together as part of the Internet of Things (IoT) -- devices that can be connected over the internet and then operated remotely. Project partners include global technology firms Samsung, Ericsson and Thales, as well as semiconductor company MediaTek and neuromorphic sensor specialists iniLabs.

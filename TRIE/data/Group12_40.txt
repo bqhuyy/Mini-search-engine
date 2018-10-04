@@ -1,0 +1,43 @@
+Google removes yet more Android apps from the Play Store infected with Ztorg trojans that could take over your phone and send premium rate texts
+
+Ztorg gives hackers 'root' administrator abilities over Android smart devices
+Magic Browser and Noise Detector were both infected with the malware
+They allow criminals takeover to send premium rate texts without you knowing
+Security experts believe the apps are a test for a future attack on a massive scale 
+By Tim Collins For Mailonline
+PUBLISHED: 17:41 BST, 21 June 2017 | UPDATED: 20:13 BST, 21 June 2017
+
+Malware that could be used by hackers to takeover your phone and send premium rate texts without you knowing have been removed by Google.
+This is the second time that this month the firm has taken down infected Android apps from its Play marketplace.
+The apps were uncovered by a security researcher who previously discovered similar software using the Ztorg trojan exploit. 
+This gives hackers 'root' administrator abilities over smart devices that allow them to employ a number of nefarious techniques.
+Malware that could be used by hackers to takeover your phone and send premium rate texts without you knowing have been removed from the Android app Play marketplace by Google (stock image)
+
+Roman Unuchek, a senior research analyst from anti-virus firm Kapersky, raised the alarm yesterday after Google confirmed that the apps had been taken down.
+One app Magic Browser, which appears to be an internet browser, was uploaded on May 15 and was downloaded over 50,000 times before it was removed.
+Another app Noise Detector, which was installed on more than 10,000 devices, claimed to be able to measure the decibel level of sounds.
+Both were infected with the Ztorg trojan horse software, which has been attached to more than 100 apps in the Play marketplace since September 2016.
+Neither attempted to root devices, but instead can be used to steal funds from infected accounts by sending premium rate SMS text messages, as well as accessing malicious websites.
+This suggests that the criminals behind the programmes are working to add this ability to malware gradually to avoid detection, according to Mr Unuchek.
+Writing on Kapersky's blog the mobile threats expert, said: 'By analysing these apps I found that cybercriminals are working on clickjacking WAP billing.
+'It means that these Trojans may not only open ad urls, or send Premium rate SMS, but also open web-pages with WAP billing and steal money from a user's account.
+'To hide these activities the Trojans turn off the device sound and delete all incoming SMS.
+'Most likely, the attackers are publishing Ztorg modules to make some additional money while they are trying to upload the regular rooting Ztorg Trojan.
+'I suggest this because one of the malicious apps had an encrypted Ztorg module but it wasn’t able to decrypt it.'
+Mr Unuchek previously uncovered a similar rooting malware called DVmap in a game 
+One app Noise Detector, which was installed on more than 10,000 devices, claimed to be able to measure the decibel level of sounds (pictured)
+Another app Magic Browser (pictured) was uploaded on May 15 and was downloaded over 50,000 times. Both were infected with the Ztorg trojan horse software
+
+DVmap got around Google's automated malware detection by first uploading an uninfected version of the software.
+They then added the malicious functions in later updates.
+Mr Unuchek has warned that rooting malware can stop smartphones and tablets from working completely, by overwriting system files and folders.
+He believes that the creators of these types of programmes are currently in the testing phase.
+The final version could result in a huge number of infections that could affect millions of users worldwide. 
+He added: 'I think that the authors are still testing this malware, because they use some techniques which can break the infected devices.
+'But they already have a lot of infected users on whom to test their methods. 
+'I hope that by uncovering this malware at such an early stage, we will be able to prevent a massive and dangerous attack when the attackers are ready to actively use their methods.'
+
+
+
+Read more: http://www.dailymail.co.uk/sciencetech/article-4625020/Google-removed-two-trojans-Play-marketplace.html#ixzz4khXl4m5r 
+Follow us: @MailOnline on Twitter | DailyMail on Facebook

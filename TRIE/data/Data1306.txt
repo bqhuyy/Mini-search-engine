@@ -1,0 +1,32 @@
+Super-strong metal made for next tech frontier
+The technological future of everything from cars and jet engines to oil rigs, along with the gadgets, appliances and public utilities comprising the internet of things, will depend on microscopic sensors.
+
+
+The trouble is: These sensors are mostly made of the material silicon, which has its limits. Johns Hopkins University materials scientist and mechanical engineer Kevin J. Hemker has led a team that is now reporting success in developing a new material that promises to help ensure that these sensors, also known as microelectromechanical systems, can continue to meet the demands of the next technological frontier.
+
+"For a number of years, we've been trying to make MEMS out of more complex materials" that are more resistant to damage and better at conducting heat and electricity, said Hemker, the Alonzo G. Decker Chair in Mechanical Engineering at the Whiting School of Engineering. Hemker worked with a group of students, research scientists, post-doctoral fellows and faculty at Whiting. The results of their successful experiments are reported in the current issue of the journal Science Advances.
+
+Most MEMS devices have internal structures smaller than the width of a strand of human hair and shaped out of silicon. These devices work well in average temperatures, but even modest amounts of heat -- a couple of hundred degrees -- causes them to lose their strength and their ability to conduct electronic signals. Silicon is also very brittle and prone to break.
+
+For these reasons, while silicon has been the heart of MEMS technologies for several generations now, the material is not ideal, especially under the high heat and physical stress that future MEMS devices will have to withstand if they are to enable technologies such as the internet of things.
+
+
+"These applications demand the development of advanced materials with greater strength, density, electrical and thermal conductivity" that hold their shape and can be made and shaped at the microscopic scale, the authors of the paper wrote. "MEMS materials with this suite of properties are not currently available."
+
+The pursuit of new materials led the researchers to consider combinations of metal containing nickel, which is commonly used in advanced structural materials. Nickel-base superalloys, for example, are used to make jet engines. Considering the need for dimensional stability, the researchers experimented with adding the metals molybdenum and tungsten in hopes of curbing the degree to which pure nickel expands in heat.
+
+In a piece of equipment about the size of a refrigerator in a laboratory at Johns Hopkins, the team hit targets with ions to vaporize the alloys into atoms, depositing them onto a surface, or substrate. This created a film that can be peeled away, thus creating freestanding films with an average thickness of 29 microns -- less than the thickness of a human hair.
+
+These freestanding alloy films exhibited extraordinary properties. When pulled, they showed a tensile strength -- meaning the ability to maintain shape without deforming or breaking -- three times greater than high-strength steel. While a few materials have similar strengths, they either do not hold up under high temperatures or cannot be easily shaped into MEMS components.
+
+"We thought the alloying would help us with strength as well as thermal stability," said Hemker. "But we didn't know it was going to help us as much as it did."
+
+He said the remarkable strength of the material is due to atomic-scale patterning of the alloy's internal crystal structure. The structure strengthens the material and has the added advantage of not impeding the material's ability to conduct electricity.
+
+The structure "has given our films a terrific combination, [a] balance of properties," Hemker said.
+
+The films can withstand high temperatures and are both thermally and mechanically stable. Team members are busy planning the next step of development, which involves shaping the films into MEMS components. Hemker said the group has filed a provisional patent application for the alloy.
+
+The other researchers on the project were Timothy P. Weihs, professor of materials science and engineering; Jessica A. Krogstad, Gi-Dong Sim, and K. Madhav Reddy, who were post-doctoral fellows during various stages of the project; research scientist Kelvin Y. Xie, and current graduate student Gianna Valentino.
+
+The research was supported by the National Science Foundation under Grant GOALI DMR-1410301.

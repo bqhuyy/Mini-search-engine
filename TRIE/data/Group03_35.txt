@@ -1,0 +1,56 @@
+What It's Like to Use an Original Macintosh in 2017
+The Internet Archive’s new software emulator will take you back to 1984.
+I’m a reporter first, and a writer second, which means I often find myself writing in odd places. Not just geographically unusual, though there’s that, too. I write everywhere, with whatever technology is at hand.
+
+Most of the time, I’m typing away in a plain text editor on my laptop. But I still write first drafts in reporter’s notebooks, and in the Notes section of my iPhone, and on scraps of paper when necessary.
+
+Now here’s a first for me: I’m writing a story for The Atlantic in MacWrite 4.5, the word processing program first released with the Apple Macintosh in 1984 and discontinued a decade later. So here I am, awash in 1980s computing nostalgia, clacking away in an emulated version of the original software, thanks to the Internet Archive.
+
+The only problem is, how am I going to file this story into The Atlantic’s 2017 web based content management system? (Also, the hyphen key isn’t working.) But more on that in a minute.
+First, let me get out of here and switch back to my regular text editor. The Internet Archive’s latest in-browser emulator lets anyone with internet access play and use dozens of games and programs originally released for the first Apple Macintosh computers in all of their black-and-white, low-resolution glory. (Ah, so nice to have that hyphen back.)
+
+Along with MacWrite, the collection includes MacPaint, Dark Castle, The Oregon Trail, Space Invaders, Frogger, Shuffle Puck, Brickles, Prince of Persia, and dozens more. The emulator doesn’t just launch the software itself, but situates users in the old-school Mac operating environment, meaning you often find yourself looking at a 1984-style desktop, and opening the program yourself.
+
+“The presentation represents some shift in philosophies, in terms of what we wanted to do,” says Jason Scott, an archivist at the Internet Archive. Whereas Scott went with a “shock and awe” approach to earlier software emulators—making hundreds of programs available all at once—he decided to go for a more methodical, curated strategy this time. One big reason for this is quality control. He’s still fielding tech-support requests for the MS-DOS emulator the archive released in 2014. (It includes thousands of titles.) But Scott also knew the early Mac programs that people would want to see at the outset.
+
+
+“The main one was Dark Castle,” Scott told me. “Everyone remembers Dark Castle because it was a particularly well-made, good-looking game—but not even a fun one, I want to point out! People playing it on the Mac emulation are not happy. There are reviews.”
+
+Reviews like: “I can't tell if the emulator is laggy, making my controls unresponsive? Or is this just a terrible game? Maybe a bit of both,” as one person commented on the site.
+
+“They are like, ‘This runs too slow for it to be good,’” Scott told me, “when what they really mean is the game was originally so unfair.”
+
+“But it looks beautiful, and the sound is beautiful, so I knew Dark Castle would be a big deal,” he added.  
+
+For what it’s worth, I only vaguely remember Dark Castle from when I had an Apple IIc. When I tried playing it on the emulator this morning I was repeatedly killed by rabid bats, which I can confidently say is a reflection of my own rustiness and has nothing to do with the emulator quality. (It seemed to run pretty smoothly to me.)
+
+But regardless of how well they run, the big question is why it’s worth the drudgery and the painstaking work of presenting ancient programs this way in the first place.
+
+“The existential questions,” Scott said. “What is all this for? What do people need from the original Mac operating systems in the modern era?”
+
+
+
+The Internet Archive focused on the Apple II era for a few reasons: It was a finite period of time, it represents a particularly rich moment in computing history, and people remain especially interested in the era. “Nostalgia, to be honest, is a huge chunk of it,” he added. “You’ve got people who come in, and look at the old thing, and they’re happy about the old thing, and then they move on.”
+
+If all goes a planned, the next two emulators will be for the Commodore 64, which predated the early Macintosh; then Windows 98, which came after it. (“That’s only if it works,” Scott emphasized.)
+
+Emulators can be quite buggy, given their complexity. A browser-based system involves the emulated machine running inside the browser's javascript environment, all within the computer running that browser. So, basically, “you’re running a computer within a simulated computer within another computer," Scott says. “It’s crazy.”
+
+Scott’s also hoping to stretch the very idea of what people can do with emulators.
+
+“The initial burst to emulation on the web was about removing the barrier to old software,” Scott told me. “The next realm will be that you can output the data that’s being generated and export it to your modern machine. That’s basically one developer away from happening right now. That’s the kind of thing people eventually will want and get.”
+
+In the meantime, you can’t copy and paste text from the MacWrite emulator back to a contemporary word processor, for example—which is why I had to retype the opening to this story, letter by letter, just to get it into The Atlantic’s web-publishing program. This is still much easier than my predecessors had it, back when the Macintosh was brand new. It was around that time that my colleague James Fallows wrote a long piece for The Atlantic about his own adventure into computerdom. In 1982, he was using a Processor Technology SOL-20 that had 48KB of random access memory. This was miraculous to him then, as were the floppy disks it took, and the printer he hooked up to the machine—it spit out about one page per minute.
+
+
+It wasn’t all peachy, even for an early adopter like him. There was the time his computer broke in dramatic fashion, sending him back to his old Smith-Corona typewriter for a full month. And also, Fallows wrote: “Computers cause another, more insidious problem, by forever distorting your sense of time.”
+
+What he meant was that computers change people’s expectations about what we should be able to do, and how quickly we should be able to do it. But this observation, made back in 1982 about machines that were quite different from the ones we use today, also got me thinking about how technology collides with people’s perceptions of time as we look back at it years later. Once-miraculous systems seem impossibly slow. They make contemporary software—and the hardware like smartphones running that software—seem newly extraordinary. Watching a 35-year-old program do what it was designed to do is also an implicit reminder that the best tools we have today will, before too long, seem absurd in their limitations.
+
+And we’re able to see all this because so many people, improbably, save objects like old floppy disks and computers.  “I actually still have the SOL-20, walnut case and all,” Fallows recently told me when I asked him what ever happened to it. Scott, from the Internet Archive, says he’s been flooded with requests from people who want to share the programs they’ve held onto all these decades.
+
+“One person, he wasn’t comfortable mailing his floppies to us, so we had to mail him the equipment,” Scott said. “And now he is bringing up one of a kind—or, I should say, extremely rare—software.” His programs, which will be added to the emulator, include original games that are highly sought-after by collectors, and at least one piece of software that was never available commercially.
+
+“This emulation is bringing back into the froth of contemporary culture the existence of all these old programs,” Scott said. “They’re no longer just words on a page.”
+
+Or in my case, they are words on a page. Words rendered in Apple’s familiar old Chicago typeface, materializing on the screen just the way I remember it from so very long ago.

@@ -1,0 +1,42 @@
+Could Apple’s Next Move Finally Kill the Need to Carry Cash?
+
+The new HomePod speaker may have stolen the show at Apple's Worldwide Developers Conference, but there was one announcement that could help ring the death knell for something many of us use every day: cash.
+
+When the iOS 11 update is rolled out to iPhones and iPads this fall, it will come equipped with a new Apple Pay feature that will support peer-to-peer payments in iMessage, further bolstering the functionality of the mobile payments solution Apple introduced in October 2014.
+
+"What this does is it makes you think about Apple Pay a lot more than you did before, particularly if you are in a demographic of people who already use Venmo," Patrick Moorhead, principal analyst at Moor Insights & Strategy, told NBC News. "Based on how easy it is to do this, people are going to start sending money all over the place."
+
+The move directly positions Apple to compete with PayPal's Venmo and the Square Cash app, both popular solutions among a younger demographic looking to split rent payments, dinner bills or to just get a quick loan from a friend.
+
+Venmo reported processing $6.8 billion in payments during the first quarter of this year, more than double the amount it processed during the same period last year.
+
+Offering free peer-to-peer payments can make monetization difficult; however, Venmo charges a 3 percent fee for using your credit card and also makes money off of merchant fees. Square Cash makes money from merchant fees and charges users a 1 percent fee if they choose an expedited deposit to their bank account.
+
+Apple now wants its own piece of the pie — and this could be a way to draw more iPhone users into Apple Pay. However, there's one big downside, said Moorhead.
+
+"While Apple Pay has a really good experience, it does require a lot of things to be in line for it to work," he said. Chief among them: You and the person you want to send money to will both need compatible Apple devices.
+
+For this reason, Apple Pay's new feature may merely "put a dent" in Venmo and Square Cash, said Moorhead. He doesn't see it as being the sole dominating force in the peer-to-peer payments space.
+
+What About Apple Pay?
+Apple executives said that by the end of the year, 50 percent of retailers in the United States will be accepting Apple Pay at checkout. Apple's technology requires merchants to be set up with Near Field Communication readers, unlike Samsung Pay, which is much more widely accepted since it doesn't require retailers to be set up with any additional point of sale equipment.
+
+Mobile payment is continuing to seep into the mainstream. In the United States, 46 percent of consumers — approximately 114 million people — reported making a mobile payment last year, according to Pew Charitable Trusts.
+
+Still, the U.S. Federal Reserve points out that "myths" about a completely cashless future have been circulating ever since the advent of credit cards, yet cash has clearly continued to be an integral part of the day-to-day experience.
+
+Data released last year by the Fed found that demand for U.S. currency is growing domestically and internationally. The research also found that 89 percent of Americans carry cash sometimes or always, with the average person having a little more than $20 in their wallet.
+
+While a completely cashless future may not be entirely in the cards for the United States just yet, cash is rarely used in Sweden. Some places even won't accept bills of the national currency — the Swedish krona, instead posting signs that only cards or mobile payments are welcome.
+
+Much of that is due to Swish, an app owned by six Swedish banks. It's become a popular payment method used by 5.5 million people, more than half of the Swedish population.
+
+The app allows users to do everything from making instant peer-to-peer payments to shopping online or grabbing a snack from a food truck.
+
+As mobile payments and card use continue to increase, the number of Swedish krona in circulation has fallen, with about $53 billion SEK in circulation as of April ($6.1 billion USD), compared to nearly $68.2 billion SEK circulation in 2015, according to data from Sweden's Riksbank.
+
+While we might completely take a page from Sweden, Moorhead said the country — and others, such as South Korea — provide a glimpse at the potential for the future of payments.
+
+"I do believe cash's days are numbered," said Moorhead. "But it is only going to happen if there is a pervasive payment method that 95 percent of all terminals can use, otherwise it is not going to work," he said.
+
+For now, "Cash and credit are still king."

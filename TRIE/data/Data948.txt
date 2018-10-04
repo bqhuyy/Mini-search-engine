@@ -1,0 +1,45 @@
+*Google's New Product Puts Peer Pressure to a Sunny Use
+
+One of the best predictors of whether people install solar panels on their house isn’t their age, their race, their level of income, or their political affiliation.
+
+It’s whether their neighbors did it first.
+
+This finding has been shown repeatedly across space and time, including in California, Connecticut, Germany, Switzerland, and the United Kingdom. “It happens at the street level, it happens within zip codes, it happens within states. It seems to be a common feature of human decision-making that crosses many boundaries,” says Kenneth Gillingham, a professor of economics at Yale University whose study helped establish the finding.
+
+On Monday, Google will put the finding into practice with Project Sunroof, its free online tool that aims to make it easier for people to obtain and use home solar panels. Project Sunroof will now not only inform users how much sun hits their roof, or how much solar panels would save them per month, but also which of their neighbors have taken the plunge first.  
+
+
+
+Project Sunroof was launched in 2015 by Carl Elkin, an engineer at Google who had worked on local solar-installation campaigns in Massachusetts. It now provides data for 60 million homes across the United States that it has already assessed with its algorithms.
+
+For the past two years, Project Sunroof has walked people through all the information-gathering steps of installing solar panels: After you tell it where you live, its algorithms estimate how much solar energy falls on your roof, calculate how much solar panels would reduce your electricity bill, and deliver estimates from local installation firms like Solar City.
+
+It can also walk you through similar steps if you’re interested in leasing or borrowing panels. “It highlights that, for many people, solar is often free. In many cases, including for my house, solar is better than free,” Elkin told me last week.
+
+Now—in a nod to the powerful peer effects of solar power—it will also show you which of your neighbors have already installed panels. In its map view, Project Sunroof will show a red dot over any home or structure that appears to have rooftop solar.
+
+“People want to know: ‘What if there’s some hidden gotcha in the contract?’—and usually there isn’t. ‘Does this work for other people like me? Is solar really viable in my neighborhood?’” Elkin says. “You can zoom around through your town and understand how common solar is in your neighborhood. And many people have found: Wow, there is a lot more solar in my neighborhood than I’d realized.”
+
+“We want people to realize solar is absolutely part of the fabric of American life,” Elkin says.
+Google created the data for this feature in-house, training a machine-learning algorithm on the common appearance of rooftop solar panels and then letting it loose on the cities and towns that Project Sunroof already covers. Right now, the company has analyzed installations on about 60 million buildings in the United States; it hopes to get to the remaining 40 million buildings in the next few years. The methodology doesn’t seem to be perfect yet—I noticed some rooftop solar installations in my own neighborhood that the algorithms missed—but it seems to identify most of them.
+
+
+A neighborhood-level assessment from Project Sunroof, with pre-existing installations highlighted in red (Google)
+“I think the idea is a really great one,” says Gillingham, who has previously talked with Google about his research but did not know they were working on this feature.
+
+
+His current research has found that people are even more likely to install solar panels if they can see their neighbors’ installations from the street—suggesting that day-to-day visibility, and not, say, word-of-mouth or local marketing efforts, is what nudges people to look into solar power. The new Project Sunroof feature “tells you that people nearby have installed solar panels even if you can’t see them from the road,” he says.
+
+Gillingham did share some privacy concerns about the feature. State solar registries often hide address-level data, and they only share it with academic researchers confidentially. “However, if you go on Google Maps or Google Earth, you can pretty easily see the installation in pretty much all cases,” he says.
+
+When I asked about privacy, Elkin also pointed out that most of this is already in satellite imagery. He also said that Google only stores its installation data at the latitude-longitude level—in other words, it does not resolve it into addresses—and it has no plans to share it with the public or other companies.
+
+“We’re not looking at individuals, we’re looking at buildings,” he told me. “And we’re not publishing a list of these buildings.”
+
+The company has also created a larger map that shows the popularity of solar panels by census tract. Like other studies into the social adoption of solar panels, it has not found a strong correlation between income and installation.  
+
+
+Google
+And privacy concerns aside, Gillingham praised the feature for increasing the visibility of renewable energy. “It creates a social norm around solar panels,” he says. “When many people have solar panels around you, it’s a normal thing to do. You’re not going out on a limb by having a company come out and look at your rooftop.”
+
+Elkin hoped for the same goal. Speaking to me, he almost seemed to conjure an image of Americana Solara: a two-story house, a white-picket fence, a tree and tire swing, and rooftop solar panels. “We want people to realize solar is absolutely part of the fabric of American life,” he says. ‘Out of these many houses, each saving money, comes one solution to the environmental problem. Out of many, one. That’s a very American idea.”

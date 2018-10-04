@@ -1,0 +1,72 @@
+Assignment Problem and Hungarian Algorithm
+Introduction
+Are you familiar with the following situation? You open the Div I Medium and don’t know how to approach it, while a lot of people in your room submitted it in less than 10 minutes. Then, after the contest, you find out in the editorial that this problem can be simply reduced to a classical one. If yes, then this tutorial will surely be useful for you.
+
+Problem statement
+In this article we’ll deal with one optimization problem, which can be informally defined as:
+
+Assume that we have N workers and N jobs that should be done. For each pair (worker, job) we know salary that should be paid to worker for him to perform the job. Our goal is to complete all jobs minimizing total inputs, while assigning each worker to exactly one job and vice versa.
+
+Converting this problem to a formal mathematical definition we can form the following equations:
+We can also rephrase this problem in terms of graph theory. Let’s look at the job and workers as if they were a bipartite graph, where each edge between the ith worker and jth job has weight of cij. Then our task is to find minimum-weight matching in the graph (the matching will consists of N edges, because our bipartite graph is complete).
+
+Small example just to make things clearer:
+
+General description of the algorithm
+This problem is known as the assignment problem. The assignment problem is a special case of the transportation problem, which in turn is a special case of the min-cost flow problem, so it can be solved using algorithms that solve the more general cases. Also, our problem is a special case of binary integer linear programming problem (which is NP-hard). But, due to the specifics of the problem, there are more efficient algorithms to solve it. We’ll handle the assignment problem with the Hungarian algorithm (or Kuhn-Munkres algorithm). I’ll illustrate two different implementations of this algorithm, both graph theoretic, one easy and fast to implement with O(n4) complexity, and the other one with O(n3) complexity, but harder to implement.
+
+There are also implementations of Hungarian algorithm that do not use graph theory. Rather, they just operate with cost matrix, making different transformation of it (see [1] for clear explanation). We’ll not touch these approaches, because it’s less practical for TopCoder needs.
+
+O(n4) algorithm explanation
+As mentioned above, we are dealing with a bipartite graph. The main idea of the method is the following: consider we’ve found the perfect matching using only edges of weight 0 (hereinafter called “0-weight edges”). Obviously, these edges will be the solution of the assignment problem. If we can’t find perfect matching on the current step, then the Hungarian algorithm changes weights of the available edges in such a way that the new 0-weight edges appear and these changes do not influence the optimal solution.
+
+To clarify, let’s look at the step-by-step overview:
+
+Step 0)
+
+A. For each vertex from left part (workers) find the minimal outgoing edge and subtract its weight from all weights connected with this vertex. This will introduce 0-weight edges (at least one).
+
+B. Apply the same procedure for the vertices in the right part (jobs).
+
+Actually, this step is not necessary, but it decreases the number of main cycle iterations.
+
+Step 1)
+
+A. Find the maximum matching using only 0-weight edges (for this purpose you can use max-flow algorithm, augmenting path algorithm, etc.).
+
+B. If it is perfect, then the problem is solved. Otherwise find the minimum vertex cover V (for the subgraph with 0-weight edges only), the best way to do this is to use Köning’s graph theorem.
+
+Step 3) Repeat Step 1 until solved.
+
+But there is a nuance here; finding the maximum matching in step 1 on each iteration will cause the algorithm to become O(n5). In order to avoid this, on each step we can just modify the matching from the previous step, which only takes O(n2) operations.
+
+It’s easy to see that no more than n2 iterations will occur, because every time at least one edge becomes 0-weight. Therefore, the overall complexity is O(n4).
+
+O(n3) algorithm explanation
+Warning! In this section we will deal with the maximum-weighted matching problem. It’s obviously easy to transform minimum problem to the maximum one, just by setting:
+
+Now we’re ready for the theorem which provides the connection between equality subgraphs and maximum-weighted matching:
+
+If M* is a perfect matching in the equality subgraph Gl, then M* is a maximum-weighted matching in G.
+
+The proof is rather straightforward, but if you want you can do it for practice. Let’s continue with a few final definitions:
+
+Alternating path and alternating tree
+
+Path P is called alternating if its edges alternate between M and E\M. (For example, (W4, J4, W3, J3, W2, J2) and (W4, J1, W1) are alternating paths)
+
+If the first and last vertices in alternating path are exposed, it is called augmenting (because we can increment the size of the matching by inverting edges along this path, therefore matching unmatched edges and vice versa). ((W4, J4, W3, J3, W2, J2) – augmenting alternating path)
+
+A tree which has a root in some exposed vertex, and a property that every path starting in the root is alternating, is called an alternating tree. (Example on the picture above, with root in W4)
+
+That’s all for the theory, now let’s look at the algorithm:
+
+First let’s have a look on the scheme of the Hungarian algorithm:
+
+Step 0. Find some initial feasible vertex labeling and some initial matching.
+
+Step 1. If M is perfect, then it’s optimal, so problem is solved.
+
+And now let’s illustrate these steps by considering an example and writing some code.
+
+As an example we’ll use the previous one, but first let’s transform it to the maximum-weighted matching problem, using the second method from the two described above.

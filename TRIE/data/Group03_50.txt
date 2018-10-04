@@ -1,0 +1,57 @@
+*The App That Does Nothing
+
+Binky is an app that does everything an app is expected to do. It’s got posts. It’s got likes. It’s got comments. It’s got the infinitely scrolling timeline found in all social apps, from Facebook to Twitter, Instagram to Snapchat.
+
+I open it and start scrolling. Images of people, foods, and objects appear on and then vanish off the screen. Solar cooker. B.F. Skinner. Shoes. Marmalade. Sports Bra. Michael Jackson. Ganesha. Aurora Borealis. These are “binks,” the name for posts on Binky.
+
+I can “like” a bink by tapping a star, which unleashes an affirming explosion. I can “re-bink” binks, too. I can swipe left to judge them unsavory, Tinder-style, and I can swipe right to signal approval. I am a binker, and I am binking.
+
+There’s just one catch: None of it is real. Binky is a ruse, a Potemkin-Village social network with no people, where the content is fake and feedback disappears into the void. And it might be exactly the thing that smartphone users want—and even need.
+
+
+
+* * *
+
+It’s strange to think of content as optional. When Bill Gates declared that “Content is King” in 1996, he meant that digital content creators would make more money online than computer manufacturers. Gates cited television as a precursor: It was an invention that created many industries, but broadcasters—the content creators—were the long-term winners on TV.
+
+Gates was right and wrong. Content, from e-commerce to social media, did drive  huge profits in the two decades since. But equipment also produced enormous wealth—just look at Apple. With the rise of Facebook, Google, Uber, Microsoft, Amazon, and others, content stopped being a name for ideas alone and started signifying a confluence of machines, services, media, and ideas. This is the phenomenon some nickname #content (as a hashtag), implying that the purpose of ideas is to fill every moment with computational engagement. Technology’s effect on ordinary life is always more important than the ideas its content carries.
+
+Marshall McLuhan was the best theorist of media as mechanisms for behavior rather than channels for ideas. His famous quip “the medium is the message” was meant to deemphasize content in favor of the media forms that make it possible. For McLuhan, the meaning of individual books, television programs, newspaper articles, movies, and software programs is just a distraction. More important: how those media change the way people think and behave in aggregate. The book, for example, creates a society for which knowledge is singular, certain, and authoritative thanks to the uniformity of print.
+
+Binky is not just as satisfying as “real” social apps like Twitter or Instagram, but even more satisfying.
+The smartphone’s effects have evolved and changed. When I wrote about the iPhone shortly after its launch, I called it the geek’s Chihuahua: a glass-and-metal companion that people could hold, stroke, and pet—a toy dog for the tech set. Some years later, after games, apps, and social media made smartphone use compulsive, I dubbed the device the cigarette of this century: a source of obsessive attention that, like smoking, brings people together in a shared dependency whose indulgence also produces the calming relief of new data.
+
+
+It doesn’t make sense to talk about the meaning of cigarettes or Chihuahuas. Their meaning is the pattern of their use. That’s the thing about content: Its form and meaning matters less than how it changes people’s behavior. And when it comes to smartphones, seeing and touching them is far more important than processing the meaning they deliver.
+
+* * *
+
+Binky eviscerates meaning by design. Every bink on Binky is a labeled image, chosen randomly and generated endlessly. Liking a bink does nothing. Swiping or re-binking sends binks nowhere. The comments are my favorite: A keyboard appears on which to type them, but each key-tap reveals a whole word in a pre-generated comment. Words, tags, or emoji continue appending until I stop typing. “This looks amazing! #harlemshake #wordsToLiveBy #rofl,” or “I dunno, I like this but it’s problematic .”
+
+Binky is a social network app with no network and no socializing. And yet, Binky is not just as satisfying as “real” social apps like Twitter or Instagram, but even more satisfying than those services. Its posts are innocuous: competent but aesthetically unambitious photos of ordinary things and people. Should binkers feel the urge to express disgust at Linus Paulding or Lederhosen, they can swipe left, and Binky accommodates without consequence. And the app doesn’t court obsession by counting followers or likes or re-binks.
+
+Dan Kurtz, the game developer and improv actor who created Binky, tells me that the idea for the app arose partly from his own feelings after reading through the current updates on Facebook or Twitter while waiting for a train. “I don’t even want that level of cognitive engagement with anything,” he explains, “but I feel like I ought to be looking at my phone, like it’s my default state of being.” Kurtz wondered what it would look like to boil down those services into their purest, most content-free form. This is what people really want from their smartphones. Not content in the sense of quips, photos, and videos, but content as the repetitive action of touching and tapping a glass rectangle with purpose and seeing it nod in response.
+
+Binky offers all the pleasure of tapping, scrolling, liking, and commenting without any of the burden of meaning.
+Binky also offers a new take on the smartphone’s effects, McLuhan-style. Some of the toy-dog aspects of mobile computing remain, along with the compulsive ones, too. But the novelty of touching the smartphone has long since ended, and the angst of its compulsive use is universally acknowledged. Those habits are here to stay, like it or not.
+
+Standard smartphone fare inspires users to create content whose publication accrues value for the tech titans that operate walled-garden services. Those businesses transform that aggregated attention into revenue and stock value in turn. Meanwhile, the pleasure and benefit of those services dwindles by the day, as conflict and exhaustion suffocate delight and utility.
+
+
+Binky offers a way to see and tolerate that new normalcy. What if the problem with smartphones isn’t the compulsion to keep up with the new ideas they deliver, but believing that the meaning of those ideas matters in the first place? Binky offers all the pleasure of tapping, scrolling, liking, and commenting without any of the burden of meaning.
+
+To use a smartphone is more like knitting or doodling than it is like work or play.
+The app frames its intervention with humor and mockery. Its name is a trademark for baby pacifiers, an image that also adorns the app’s icon. Calling it “Binky” implies a global infancy among apps, but also a legitimate comfort thanks to Binky’s succor. And Kurtz initially conceived of the app in a Comedy Hack Day mini-hackathon held by Cultivated Wit, a firm that produces, well, content—videos and events and software and the like. Forged from games and comedy, Binky might look like an ironic joke to some.
+
+“Is a baby pacifier just a parody?” Kurtz retorts when I press him on the matter. It’s a good point; something that replaces another isn’t always a joke. He reminds me of my own ironic app, which, to my delight, he cites as an inspiration: a game called Cow Clicker that boiled down Facebook games to their purest form like Binky does social apps. In both cases, irony offers an in-road for some but burns out fast. Deliberate use always wins.
+
+On that front, Kurtz makes his faith in the app’s earnest utility clear. “Look, all we want from our apps is to see new stuff scroll up from the bottom of the screen,” the Binky website reads. “It doesn’t matter what the stuff is.” That’s no gag; it’s an incisive elucidation of why people want to handle their smartphones so often.  By sparing the mental and emotional effort of taking in content and spitting back approval and commentary, Binky makes it possible to experience the smartphone as such, as a pure medium for its behavior rather than a delivery channel for social-media content.
+
+
+That’s also where apps start, it turns out. Kurtz wanted to learn iOS programming, and he reasoned that the best approach would be to incorporate all the standard interface widgets. Binky was the result. What’s an app without content? Pure, unadulterated tapping and scrolling through the hollowed-out interfaces that all apps now share.
+
+* * *
+
+There’s a use of cigarettes beyond their chemical effects. Smoking gives people something to hold and something to do with their hands. McLuhan called it poise. And smartphones offer something similar. At the bus stop, in the elevator, in front of the television, on the toilet, the smartphone offers purpose to idle fingers. To use one is more like knitting or doodling than it is like work or play. It is an activity whose ends are irrelevant. One that is conducted solely to extract nervous attention and to process it into exhaust.
+
+There have been attempts to cure the ills of smartphone compulsion. Fidget cubes and spinners offer a recent example, doodads that offer mechanical intrigue that might, some users hope, distract them from the draw of the smartphone. But these devices fail to cop to the smartphone’s victory in standardizing the mechanics of idle effort. The tapping, the scrolling, the liking, the #content, even. Those must be preserved. Binky offers an unexpected salve: a way to use a smartphone without using one to do anything in particular. Isn’t that all anyone really wants?

@@ -1,0 +1,20 @@
+Comparing student performance on paper-and-pencil and computer-based-tests
+Based on a study of more than 30,000 elementary, middle, and high school students conducted in winter 2015-16, researchers found that elementary and middle school students scored lower on a computer-based test that did not allow them to return to previous items than on two comparable tests -- paper- or computer-based -- that allowed them to skip, review, and change previous responses.
+
+Elementary school students scored marginally higher on the computer-based exam that allowed them to go back to previous answers than on the paper-based exam, while there was no significant difference for middle school students on those two types of tests.
+
+In contrast, high school students showed no difference in their performance on the three types of tests. Likewise, previous research has found that the option to skip, review, and change previous responses also had no effect on the test results of college students.
+
+For the study, tests were given to students in grades 4-12 that assessed their understanding of energy through three testing systems. Instructors elected to administer either the paper-and-pencil test (PPT) or one of two computer-based tests (CBT) based on the availability of computers in their classrooms.
+
+One CBT (using TAO, an open source online testing system) allowed students to skip items and freely move through the test, while the other CBT (using the AAAS assessment website) did not allow students to return to previous test items. In addition, on the TAO test, answers were selected by directly clicking on the text corresponding to an answer. On the AAAS exam, answers were chosen more indirectly, by clicking on a letter (A, B, C, or D) at the bottom of the screen corresponding with an answer.
+
+Gender was found to have little influence on a student's performance on PPT or CBT; however, students whose primary language was not English had lower performances on both CBTs compared to the PPT. The cause for the difference depending on primary language was unclear, but could have been linguistic challenges that the online environment presented or limits on opportunities to use computers in non-English-speaking environments.
+
+Overall, the study results, along with previous research, indicate that being able to skip, review, and change previous responses could be beneficial for younger children in elementary and middle school but have no influence on older students in high school and college.
+
+Furthermore, results indicated that marking an answer in a different location on a multiple-choice test could be challenging for younger students, students with poor organizational skills, students who have difficulties with concentration, or students who are physically impaired. In addition, having to match an answer to a corresponding letter at the bottom of the screen likely adds an additional level of complexity and cognitive processing.
+
+The researchers note that additional study of CBT answer-choice selection and test navigation features and how they influence elementary and middle school students' test performance is warranted.
+
+The study was supported by a grant from the Institute of Education Sciences.

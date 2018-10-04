@@ -1,0 +1,33 @@
+NHS cyber-attack was 'launched from North Korea'
+British security officials believe that hackers in North Korea were behind the cyber-attack that crippled parts of the NHS and other organisations around the world last month, the BBC has learned.
+Britain's National Cyber Security Centre (NCSC) led the international investigation.
+Security sources have told the BBC that the NCSC believes that a hacking group known as Lazarus launched the attack.
+The US Computer Emergency Response Team has also warned about Lazarus.
+The same group is believed to have targeted Sony Pictures in 2014.
+The Sony hack came as the company planned to release the movie The Interview, a satire about the North Korean leadership starring Seth Rogen. The movie was eventually given a limited release after an initial delay.
+The same group is also thought to have been behind the theft of money from banks.
+NHS hit
+In May, ransomware called WannaCry swept across the world, locking computers and demanding payment for them to be unlocked. The NHS in the UK was particularly badly hit.
+Officials in Britain's National Cyber Security Centre (NCSC) began their own investigation and concluded their assessment in recent weeks.
+The ransomware did not target Britain or the NHS specifically, and may well have been a money-making scheme that got out of control, particularly since the hackers do not appear to have retrieved any of the ransom money as yet.
+Although the group is based in North Korea the exact role of the leadership in Pyongyang in ordering the attack is less clear.
+Detective work
+Private sector cyber-security researchers around the world began picking apart the code to try to understand who was behind the attack soon after.
+Adrian Nish, who leads the cyber threat intelligence team at BAE Systems, saw overlaps with previous code developed by the Lazarus group.
+"It seems to tie back to the same code-base and the same authors," Nish says. "The code-overlaps are significant."
+Private sector cyber security researchers reverse engineered the code but the British assessment by the NCSC - part of the intelligence agency GCHQ - is likely to have been made based on a wider set of sources.
+America's NSA has also more recently made the link to North Korea but its assessment is not thought to have been based on as deep as an investigation as the UK, partly because the US was not hit as hard by the incident.
+Officials say they have not seen any significant evidence supporting other possible culprits.
+Central bank hack
+North Korean hackers have been linked to money-making attacks in the past - such as the theft of $81m from the central bank of Bangladesh in 2016.
+This sophisticated attack involved making transfers through the Swift payment system which, in some cases, were then laundered through casinos in the Philippines.
+"It was one of the biggest bank heists of all time in physical space or in cyberspace," says Nish, who says further activity has been seen in banks in Poland and Mexico.
+The Lazarus group has also been linked to the use of ransomware - including against a South Korean supermarket chain.
+Other analysts say they saw signs of North Korea investigating the bitcoin method of payment in recent months.
+Scattergun
+The May 2017 attack was indiscriminate rather than targeted. Its spread was global and may have only been slowed thanks to the work of a British researcher who was able to find a "kill switch" to slow it down.
+The attacks caused huge disruption in the short term but they may have also been a strategic failure for the group behind it.
+Researchers at Elliptic, a UK-based company which tracks bitcoin payments, say they have seen no withdrawals out of the wallets into which money was paid, although people are still paying in to them.
+Those behind the attack may not have expected it to have spread as fast as it did.
+Once they realised that their behaviour was drawing global attention, the risks of moving the money may have been seen as too high given the relatively small amount involved, leaving them with little to show for their work.
+The revelation of the link to North Korea will raise difficult questions about what can be done to respond or deter such behaviour in the future.

@@ -1,0 +1,33 @@
+How Many iOS 10 Tricks Do You Know?
+
+Apple's jam-packed iOS 10 is full of shiny features, but there are some hidden tricks you might not have heard of that will help you make the most of the operating system.
+
+You may be having plenty of fun with the new iMessage features in iOS 10, but here are eight tips that will lead to optimal iPhone and iPad enjoyment.
+
+1. Speak Screen
+Siri can read to you while you're on the go. Sure, the personal assistant doesn't have the smooth speaking voice of Morgan Freeman, but she gets the job done. You can turn on the feature by going to Settings > General > Accessibility > turn on Speak Screen.
+
+2. Unsubscribe
+Spring cleaning your inbox just got easier. A new unsubscribe feature in Mail lets you quickly get off unwanted mailing lists by tapping a simple "Unsubscribe" button at the top of the email. That's it.
+
+3. Siri For Emergencies
+It's nice to know Siri is there to help you in a pinch. With "Hey Siri" activated on your phone, you can tell the virtual assistant to call 911, or whatever the code is in your country, all without lifting a finger.
+
+If you don't have "Hey Siri" activated, you can still hold down the home button and ask Siri to dial emergency services. Both ways will trigger a five second countdown, giving you enough time to cancel, if needed.
+
+4. Turn Off Read Receipts for Certain People
+Don't want certain people to know when you've read their text messages? You can turn off read receipts for specific people in iOS 10. Just go to the last conversation you had with the person, tap on the "i" in the upper right corner and toggle read receipts off.
+
+5. Hidden Kaomoji Keyboard
+Emoji lovers, get pumped! There's a hidden Kaomoji keyboard you can get by going to Settings > General > Keyboard > Tap Keyboards at the top of the screen > Add a new keyboard. From here, choose Japanese as the language and then Kana. You'll get fun new text-based emoticons to spice up your messages.
+
+6. Never Forget Where You Parked
+No more zig-zagging through the parking lot, trying to remember where you parked your car. If your car has Apple's connected car platform, CarPlay, or a standard Bluetooth system, you should get an alert when you exit your car, plotting in Apple Maps where you parked. You'll also have the option to add specific details or a photo in the notes section.
+
+Go to Settings > Notifications > Maps to toggle notifications on or off.
+
+7. Get the Old Home Button Back
+Apple's iOS 10 is the company's newest operating system, but it's OK to miss the way things used to be. Thankfully, you can get one old habit back. If you liked just resting your finger on the home button instead of having to press it, you can toggle that option on by going to Settings > General > Accessibility > Home Button.
+
+8. Bedtime
+Sure, you probably haven't had anyone giving you a bedtime since you were a child, but your iPhone can help you plan for optimal sleep. Open the clock app and choose the "bedtime" tab. From there, you'll be asked how many hours of sleep you'd like to get and when you need to be up in the morning. Your iPhone will then calculate your ideal bedtime and will set an alarm to wake you up at the right time in the morning, hopefully feeling refreshed and ready to take on the day.

@@ -1,0 +1,24 @@
+Artificial intelligence may help diagnose tuberculosis in remote areas
+Researchers are training artificial intelligence models to identify tuberculosis (TB) on chest X-rays, which may help screening and evaluation efforts in TB-prevalent areas with limited access to radiologists, according to a new study appearing online in the journal Radiology.
+
+According to the World Health Organization, TB is one of the top 10 causes of death worldwide. In 2016, approximately 10.4 million people fell ill from TB, resulting in 1.8 million deaths. TB can be identified on chest imaging, however TB-prevalent areas typically lack the radiology interpretation expertise needed to screen and diagnose the disease.
+
+"There is a tremendous interest in artificial intelligence, both inside and outside the field of medicine," said study co-author Paras Lakhani, M.D., from Thomas Jefferson University Hospital (TJUH) in Philadelphia. "An artificial intelligence solution that could interpret radiographs for presence of TB in a cost-effective way could expand the reach of early identification and treatment in developing nations."
+
+Deep learning is a type of artificial intelligence that allows computers to complete tasks based on existing relationships of data. A deep convolutional neural network (DCNN), modeled after brain structure, employs multiple hidden layers and patterns to classify images.
+
+For the study, Dr. Lakhani and his colleague, Baskaran Sundaram, M.D., obtained 1,007 X-rays of patients with and without active TB. The cases consisted of multiple chest X-ray datasets from the National Institutes of Health, the Belarus Tuberculosis Portal, and TJUH. The datasets were split into training (68.0 percent), validation (17.1 percent), and test (14.9 percent).
+
+The cases were used to train two different DCNN models -- AlexNet and GoogLeNet -- which learned from TB-positive and TB-negative X-rays. The models' accuracy was tested on 150 cases that were excluded from the training and validation datasets.
+
+The best performing artificial intelligence model was a combination of the AlexNet and GoogLeNet, with a net accuracy of 96 percent.
+
+"The relatively high accuracy of the deep learning models is exciting," Dr. Lakhani said. "The applicability for TB is important because it's a condition for which we have treatment options. It's a problem that can be solved."
+
+The two DCNN models had disagreement in 13 of the 150 test cases. For these cases, the researchers evaluated a workflow where an expert radiologist was able to interpret the images, accurately diagnosing 100 percent of the cases. This workflow, which incorporated a human in the loop, had a greater net accuracy of close to 99 percent.
+
+"Application of deep learning to medical imaging is a relatively new field," Dr. Lakhani said. "In the past, other machine learning approaches could only get to a certain accuracy level of around 80 percent. However, with deep learning, there is potential for more accurate solutions, as this research has shown."
+
+Dr. Lakhani said that the team plans to further improve the models with mores training cases and other deep learning methods.
+
+"We hope to prospectively apply this in a real world environment," he said. "An artificial intelligence solution using chest imaging can play a big role in tackling TB."

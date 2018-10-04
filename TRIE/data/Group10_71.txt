@@ -1,0 +1,28 @@
+Can early experiences with computers, robots increase STEM interest among young girls?
+Girls start believing they aren't good at math, science and even computers at a young age -- but providing fun STEM activities at school and home may spark interest and inspire confidence.
+
+A study from the University of Washington's Institute for Learning & Brain Sciences (I-LABS) finds that, when exposed to a computer-programming activity, 6-year-old girls expressed greater interest in technology and more positive attitudes about their own skills and abilities than girls who didn't try the activity.
+
+The results suggest both a need and an opportunity for teaching computer science, in particular, in early elementary school, said Allison Master, a research scientist at I-LABS and the study's lead author. Introducing concepts and skills when girls are young can boost their confidence and prompt interest in a field in which women today are underrepresented.
+
+"As a society, we have these built-in beliefs that are pushing boys toward certain activities more than girls. So our thought was, if you give equal experiences to boys and girls, what happens?" Master said. "We found that if you give them access to same opportunities, then girls and boys have the same response -- equal interest and confidence."
+
+The study, published online in the Journal of Experimental Child Psychology, involved 96 6-year-olds, evenly divided among boys and girls, who were randomly assigned one of three groups. In the first group, each child programmed a robot, then answered survey questions; in the second group, each played a storytelling card game, then answered the same questions, while those in the third group only answered the questions. The survey was designed to collect kids' opinions of technology activities, like the robot, and their beliefs about whether girls or boys are better at computer programming and robotics.
+
+Programming, the researchers explained to the children, is "when you tell a computer or a robot or a phone what to do."
+
+For the robot activity, children chose an animal-like robot. They first followed step-by-step instructions on a smartphone to "tell" it to move forward, backward, right or left, then chose the instructions themselves, effectively programming the phone to control the movements of the robots. The study found that after completing the robot activity, the boys and girls showed equal interest in technology and their own feelings of self-efficacy, or confidence in their own abilities.
+
+But when compared to the "control group" of children who played the card game or only answered the survey without playing a game, the difference was striking: The designed activity with the robot reduced the gender gap in technology interest by 42 percent, and the gap in self-efficacy by 80 percent.
+
+In other words, girls who programmed the robot were much more likely to express interest in programming and confidence in their own abilities to perform technology-related tasks than the girls who didn't work with the robot.
+
+Co-author and I-LABS co-director Andrew Meltzoff said, "Experience in programming the robot movement was something that both boys and girls thought was fun. But the most important finding is that we brought the girls' interest and motivation in STEM up to the level of the boys. This was a big impact for a brief, well-designed intervention. How long will it last? That's an important question for future scientific experiments."
+
+The findings suggest that incorporating more programming activities in the classroom or at home may ignite and sustain girls' interest, Master said. Summer camps, after-school programs and other partner- or group-oriented activities present natural opportunities.
+
+"The important thing is to make activities accessible to all children in a fun way that also helps them build skills," she said.
+
+The study's robot activity did not, however, appear to change the children's stereotypes about whether boys or girls are better at programming and robotics. While the girls who programmed the robot indicated greater confidence in their own abilities, that confidence did not alter their stereotypes, picked up from the culture, about girls and boys in general. The authors pointed to the potential of other experiences, such as meeting or seeing a woman programming a robot or working in a STEM field, for shifting these more deeply-held stereotypes.
+
+"Stereotypes get built up in our heads from many different sources and experiences, but perhaps if we give girls more experience doing these kinds of activities, that will give them more resources to resist those stereotypes," Master said. "They might be able to say, 'I can still be good at this and enjoy it, despite the cultural stereotypes.'" The researchers hope to test this in future studies.

@@ -1,0 +1,53 @@
+AI: 15 key moments in the story of artificial intelligence
+The promise of intelligence
+The quest for artificial intelligence (AI) began over 70 years ago, with the idea that computers would one day be able to think like us. Ambitious predictions attracted generous funding, but after a few decades there was little to show for it.
+But, in the last 25 years, new approaches to AI, coupled with advances in technology, mean that we may now be on the brink of realising those pioneers’ dreams.
+WW2 triggers fresh thinking
+World War Two brought together scientists from many disciplines, including the emerging fields of neuroscience and computing.
+In Britain, mathematician Alan Turing and neurologist Grey Walter were two of the bright minds who tackled the challenges of intelligent machines. They traded ideas in an influential dining society called the Ratio Club. Walter built some of the first ever robots. Turing went on to invent the so-called Turing Test, which set the bar for an intelligent machine: a computer that could fool someone into thinking they were talking to another person.
+Science fiction steers the conversation
+In 1950, I Robot was published – a collection of short stories by science fiction writer Isaac Asimov.
+Asimov was one of several science fiction writers who picked up the idea of machine intelligence, and imagined its future. His work was popular, thought-provoking and visionary, helping to inspire a generation of roboticists and scientists. He is best known for the Three Laws of Robotics, designed to stop our creations turning on us. But he also imagined developments that seem remarkably prescient – such as a computer capable of storing all human knowledge that anyone can ask any question.
+A 'top-down' approach
+The term 'artificial intelligence' was coined for a summer conference at Dartmouth University, organised by a young computer scientist, John McCarthy.
+Top scientists debated how to tackle AI. Some, like influential academic Marvin Minsky, favoured a top-down approach: pre-programming a computer with the rules that govern human behaviour. Others preferred a bottom-up approach, such as neural networks that simulated brain cells and learned new behaviours. Over time Minsky's views dominated, and together with McCarthy he won substantial funding from the US government, who hoped AI might give them the upper hand in the Cold War.
+"Every aspect of learning or other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it"_Mission statement of the Dartmouth Conference, 1956
+2001: A Space Odyssey – imagining where AI could lead
+Minsky influenced science fiction too. He advised Stanley Kubrick on the film 2001: A Space Odyssey, featuring an intelligent computer, HAL 9000.
+During one scene, HAL is interviewed on the BBC talking about the mission and says that he is "fool-proof and incapable of error." When a mission scientist is interviewed he says he believes HAL may well have genuine emotions. The film mirrored some predictions made by AI researchers at the time, including Minsky, that machines were heading towards human level intelligence very soon. It also brilliantly captured some of the public’s fears, that artificial intelligences could turn nasty.
+"In from three to eight years we will have a machine with the general intelligence of an average human being."-Marvin Minsky in Life Magazine, 1970.
+Tough problems to crack
+AI was lagging far behind the lofty predictions made by advocates like Minsky – something made apparent by Shakey the Robot.
+Shakey was the first general-purpose mobile robot able to make decisions about its own actions by reasoning about its surroundings. It built a spatial map of what it saw, before moving. But it was painfully slow, even in an area with few obstacles. Each time it nudged forward, Shakey would have to update its map. A moving object in its field of view could easily bewilder it, sometimes stopping it in its tracks for an hour while it planned its next move.
+The AI winter
+By the early 1970s AI was in trouble. Millions had been spent, with little to show for it.
+There was strong criticism from the US Congress and, in 1973, leading mathematician Professor Sir James Lighthill gave a damning health report on the state of AI in the UK. His view was that machines would only ever be capable of an "experienced amateur" level of chess. Common sense reasoning and supposedly simple tasks like face recognition would always be beyond their capability. Funding for the industry was slashed, ushering in what became known as the AI winter.
+"In no part of the field have discoveries made so far produced the major impact that was promised."_Professor Sir James Lighthill giving a reality check to AI researchers, 1973.
+A solution for big business
+The moment that historians pinpoint as the end of the AI winter was when AI's commercial value started to be realised, attracting new investment.
+The new commercial systems were far less ambitious than early AI. Instead of trying to create a general intelligence, these ‘expert systems’ focused on much narrower tasks. That meant they only needed to be programmed with the rules of a very particular problem. The first successful commercial expert system, known as the RI, began operation at the Digital Equipment Corporation helping configure orders for new computer systems. By 1986 it was saving the company an estimated $40m a year.
+Back to nature for 'bottom-up' inspiration
+Expert systems couldn't crack the problem of imitating biology. Then AI scientist Rodney Brooks published a new paper: Elephants Don’t Play Chess.
+Brooks was inspired by advances in neuroscience, which had started to explain the mysteries of human cognition. Vision, for example, needed different 'modules' in the brain to work together to recognise patterns, with no central control. Brooks argued that the top-down approach of pre-programming a computer with the rules of intelligent behaviour was wrong. He helped drive a revival of the bottom-up approach to AI, including the long unfashionable field of neural networks.
+Man vs machine: Fight of the 20th Century
+Supporters of top-down AI still had their champions: supercomputers like Deep Blue, which in 1997 took on world chess champion Garry Kasparov.
+The IBM-built machine was, on paper, far superior to Kasparov - capable of evaluating up to 200 million positions a second. But could it think strategically? The answer was a resounding yes. The supercomputer won the contest, dubbed 'the brain's last stand', with such flair that Kasparov believed a human being had to be behind the controls. Some hailed this as the moment that AI came of age. But for others, this simply showed brute force at work on a highly specialised problem with clear rules.
+The first robot for the home
+Rodney Brook's spin-off company, iRobot, created the first commercially successful robot for the home – an autonomous vacuum cleaner called Roomba.
+Cleaning the carpet was a far cry from the early AI pioneers' ambitions. But Roomba was a big achievement. Its few layers of behaviour-generating systems were far simpler than Shakey the Robot's algorithms, and were more like Grey Walter’s robots over half a century before. Despite relatively simple sensors and minimal processing power, the device had enough intelligence to reliably and efficiently clean a home. Roomba ushered in a new era of autonomous robots, focused on specific tasks.
+War machines
+Having seen their dreams of AI in the Cold War come to nothing, the US military was now getting back on board with this new approach.
+They began to invest in autonomous robots. BigDog, made by Boston Dynamics, was one of the first. Built to serve as a robotic pack animal in terrain too rough for conventional vehicles, it has never actually seen active service. iRobot also became a big player in this field. Their bomb disposal robot, PackBot, marries user control with intelligent capabilities such as explosives sniffing. Over 2000 PackBots have been deployed in Iraq and Afghanistan.
+Starting to crack the big problems
+In November 2008, a small feature appeared on the new Apple iPhone – a Google app with speech recognition.
+It seemed simple. But this heralded a major breakthrough. Despite speech recognition being one of AI's key goals, decades of investment had never lifted it above 80% accuracy. Google pioneered a new approach: thousands of powerful computers, running parallel neural networks, learning to spot patterns in the vast volumes of data streaming in from Google's many users. At first it was still fairly inaccurate but, after years of learning and improvements, Google now claims it is 92% accurate.
+"Artificial intelligence would be the ultimate version of Google. It would understand exactly what you wanted, and it would give you the right thing"_Google co-founder Larry Page, 2000
+Dance bots
+At the same time as massive mainframes were changing the way AI was done, new technology meant smaller computers could also pack a bigger punch.
+These new computers enabled humanoid robots, like the NAO robot, which could do things predecessors like Shakey had found almost impossible. NAO robots used lots of the technology pioneered over the previous decade, such as learning enabled by neural networks. At Shanghai's 2010 World Expo, some of the extraordinary capabilities of these robots went on display, as 20 of them danced in perfect harmony for eight minutes.
+Man vs machine: Fight of the 21st Century
+In 2011, IBM's Watson took on the human brain on US quiz show Jeopardy.
+This was a far greater challenge for the machine than chess. Watson had to answer riddles and complex questions. Its makers used a myriad of AI techniques, including neural networks, and trained the machine for more than three years to recognise patterns in questions and answers. Watson trounced its opposition – the two best performers of all time on the show. The victory went viral and was hailed as a triumph for AI.
+Are machines intelligent now?
+Sixty-four years after Turing published his idea of a test that would prove machine intelligence, a chatbot called Eugene Goostman finally passed.
+But very few AI experts saw this a watershed moment. Eugene Goostman was seen as 'taught for the test', using tricks to fool the judges. It was other developments in 2014 that really showed how far AI had come in 70 years. From Google's billion dollar investment in driverless cars, to Skype's launch of real-time voice translation, intelligent machines were now becoming an everyday reality that would change all of our lives.

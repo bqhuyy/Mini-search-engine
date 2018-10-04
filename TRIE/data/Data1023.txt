@@ -1,0 +1,64 @@
+The Next Frontier of Fitness Gadgets Is Here, and I Tested All of Them
+Here’s why wearables are finally worth your money.
+
+Two years ago, I met my wife. The time I’ve spent with her has been the most blissful 23 months of my life. It’s also been the most fattening. We got married in January, and by March, I was nine pounds heavier than when I was single and at my leanest.
+
+As a technology journalist, the first thing I turned to was, of course, tech. I had been the proud owner of half a dozen wearables over the years, only to grow bored with them after a few weeks. Yet my optimism persisted. So I bought one of Fitbit’s activity trackers and then requested review copies of others I found interesting. Before I knew it, I had accumulated 17 devices.
+
+Think of the Fitbits of the world as Wearables 1.0. At first, they tracked steps. And then, as better motion sensors in smartphones brought us free step-counting apps, the industry moved on to fancier things such as heart rate monitoring. I even had a watch that measured my sweat. But all they did was record this data and package them into pretty charts. What were you supposed to do with that?
+
+There’s a new generation of wearables just starting to reach consumers, and they take their predecessors’ approach to the natural next step. Based on the data they collect, these devices actually tell you what to do—while you’re exercising or afterward. One of them even calls itself an “AI personal trainer.” Some delivered on this promise far more than others, but one thing's for sure: These wearables are a big step above what has previously been available.
+
+But are they actually as good as a human personal trainer? I asked Jennifer Pattee, founder of fitness company Basic Training, to train me for two months. We featured that comparison in this week’s episode of the Decrypted podcast. (Subscribe here on Apple Podcasts.)
+
+Here, I put the gadgets to the test. I focused mostly on devices that are for running or indoor bodyweight exercises, so they’re applicable to a wide audience of people. Many of these products contained a heart rate sensor, which worked in one of two ways. Chest straps are considered the gold standard because, using electrodes, they detect your pulse at the source -- electrical signals that instruct your heart to contract. An increasingly popular alternative is optical heart rate sensors, which shine a light into your capillaries to observe your blood flow, most commonly at your wrist. These tend to be less accurate than chest straps because things like movement can throw off the readings. I tested all devices with an optical sensor against the Wahoo TICKR X ($80) and Polar H10 ($90) chest straps.
+
+My No. 1 Pick
+Moov HR Burn $60
+
+For months leading up to this story, I had been going on the same boring and slow 30-minute jog. The Moov HR Burn blasted me out of that rut, drawing on an increasingly popular method of exercise called high-intensity interval training, commonly known as HIIT. This device didn’t make these workouts hurt any less. But it did make them more fun.
+
+The Moov HR Burn is a chest strap that pairs wirelessly with a free app that talks to you, guiding you in real time through four different indoor-exercise classes, as well as outdoor runs and indoor cycling workouts. Moov’s coach reads your heart rate to check if you’re working hard enough. When you are, "she" congratulates you (“You’re doing great!”), and when you aren’t, she cheerfully scolds you (“Time to push it!”). It surprised me how much these quips kept me going, even when I thought my thighs were going to fall off.
+
+The outdoor runs and indoor cycling workouts, which alternate between all-out sprints and easy recoveries, start at 18 minutes. To get a better sense of how the product works, watch the video above, or listen to our episode of the Decrypted podcast, in which you’ll hear my boss Brad valiantly trying the Moov HR Burn for the first time.
+
+Also Worth Trying
+Whoop Strap 2.0 $500
+
+At first glance, this wristband looks like a lot of other heart rate-monitoring activity trackers. What separates the Whoop strap is how it uses the data it collects to tell you what do.
+
+Take for example the “recovery” score that Whoop's app shows you every morning. This is determined from, among other things, a gauge called heart rate variability. When this recovery score is low, the app warns you to take it easy. I also liked Whoop’s “sleep coach,” which calculated exactly when I needed to get to bed each night.
+
+That said, most people, like me, would balk at buying a $500 gadget.
+
+Jabra Sport Pulse Special Edition $160
+
+These wireless earbuds monitor your heart rate and, via Bluetooth, connect to an app that coaches you through your runs. But the Jabra didn’t chime that often with instructions, encouragements or admonishments, and thus didn't inspire me to train harder.
+
+You might still want to get this headset, though, even if it’s just to listen to music on your runs without getting tangled up in cords. A slightly older version of this product is discounted to about $100 on Amazon.com, and that’s a competitive price for wireless sport headphones. You’ll get the added bonus of a heart rate monitor in your ear.
+
+Moov HR Sweat $100
+
+Moov also sells a headband that connects to the same app as the Moov HR Burn—except this one uses an optical sensor to detect your heart rate at your temple. I found the heart readings to be pretty accurate. Unless you absolutely can’t stand the feel of a chest strap for even a half-hour of exercise, I would recommend the HR Burn over the HR Sweat. On top of not needing frequent charges, the former sells for almost half the price.
+
+Moov Now $60
+
+Also from Moov is a lightweight band you can wear on your ankle when you go running, or on your wrist when swimming. It can tell you when your foot hits the ground with too much impact, which meant that the app was constantly nagging me to run with softer steps. It's more useful and it's cheaper than many other activity trackers, but I think the Moov HR Burn will be enough for most people.
+
+Muse $249
+This is a headband that tracks your brainwaves to help you meditate, informing you when you've successfully quieted your mind. Sure, that's not an exercise, but it's an interesting application for wearables. When you’re in a zen state, you hear birds chirping through an accompanying app; when you get distracted, a storm brews. It’s kind of cool if you’ve been dying to meditate and nothing else has worked for you.
+
+Polar M430 $230
+This running watch isn’t a real-time coach, but it does package some of the data it collects into useful insights through Polar’s app, giving it a slight leg up against other GPS watches. It gives you a score on your running performance that you can track and compare against your age group. Polar says the device can be used as an all-day activity tracker, too, but I doubt you’ll want to wear this gigantic box on your wrist all day. If you hate carrying your phone on your runs, this would be a fine pick.
+
+Lumo Run $100
+This is a motion-sensing clip that you wear on the back of your shorts, and it coaches you on super-specific aspects of your running form. Then it recommends exercises to correct your deficiencies and reminds you during future runs to work on fixing those flaws. Not as motivating as Moov, but it's potentially helpful if you run with terrible form.
+
+Worth Skipping, for Most People
+Fitbit Charge 2 $150
+This wristband tracks your heart rate, counts your steps, records your sleep, and automatically recognizes which form of exercise you’re doing. That makes it sound like the Charge 2 can do a lot, but it's a device stuck in the past: It tracks your activity for the sake of tracking it, instead of using that data to change your behavior. Like every other activity tracker I've had in the past, I was enamored by the cool charts that my data generated on Fitbit's app. For a few weeks. Then I stopped wearing it because I got bored.
+
+OMbra $169
+This sports bra is unique in that it not only monitors your heart rate, but also your breathing. It uses those two readings to show you which "smart zone" you're training in. This was neither useful nor motivating for me.
+
+Vi $249

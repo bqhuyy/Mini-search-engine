@@ -1,0 +1,68 @@
+Lab Report: Gene Researchers Map Out Dog Family Tree
+
+First came working dogs — breeds that could guard or herd livestock. Later came the hunting dogs. And all those cute little fluffballs like Pomeranians and Papillons? Thank a single import of a pug from China for donating its genes for small size.
+
+Researchers at the National Institutes of Health spent more than 20 years sampling the genes of 161 breeds of dog, sequencing them and comparing them, and have come up with the most complete and definitive canine family tree.
+
+First came working dogs — breeds that could guard or herd livestock. Later came the hunting dogs. And all those cute little fluffballs like Pomeranians and Papillons? Thank a single import of a pug from China for donating its genes for small size.
+
+Researchers at the National Institutes of Health spent more than 20 years sampling the genes of 161 breeds of dog, sequencing them and comparing them, and have come up with the most complete and definitive canine family tree.
+
+
+A toy Xoloitzcuintel, a breed that likely descended from dogs that crossed the Bering land bridge with Native American ancestors. Penny Inan / Cell Press
+It shows how breeds were mixed and matched to make new breeds, and gives a rough timeline and geographic map of what came from where.
+
+Even though the species Canis familiaris includes bassets and Samoyeds, poodles and Weimaraners, they’re all extremely similar genetically, says Elaine Ostrander of the National Human Genome Research Institute, part of the NIH.
+
+“All these breeds are members of the same species. They all have their chromosomes organized the same way — same genes, same order,” Ostrander said.
+
+“It’s very subtle variation in small numbers of genes that account for that very large difference in morphology that we see across breeds.”
+
+So while it might take hundreds of mutations to mark the difference between a human who’s 5’6” and one who’s 6’6” tall, Ostrander said, it only takes a “couple of dozen” genetic mutations to make a Chihuahua different from a Great Dane.
+
+The goal is to track disease-causing genetic mutations, which often translate to human disease genes, Ostrander says.
+
+“We have a yellow brick road for figuring out how mutations move around the dog world,” Ostrander told NBC News.
+
+“We recognize that everything humans get, dogs get — epilepsy, cancer, diabetes, heart disease,” she added. But in dogs, these disease traits often pop up more commonly in specific breeds.
+
+“We can actually trace diseases as they move around the dog breed population,” Ostrander said.
+
+“For instance, collie eye anomaly is a disease that affects … several herding breeds, including the collie, Border collie, Shetland sheepdog, and Australian shepherd,” the research team wrote in their study, published in Cell Reports. These breeds all originate in Britain.
+
+“We have a yellow brick road for figuring out how mutations move around the dog world.”
+
+“We were unable to explain, however, the presence of the disease in the Nova Scotia duck tolling retriever, a sporting dog developed in Canada from an unknown mixture of local breeds,” they added.
+
+But the genetic analysis shows Nova Scotia duck tolling retrievers have a lot of collie and Shetland sheepdog forebears.
+
+Ostrander works in a lab filled with dog lovers and they’ve been collecting samples from verified dog breeds. She doesn’t mind using descriptions such as “cute” or “adorable” for some of the breeds she works with.
+
+“Cute is a big one,” Ostrander said. “Every morning someone comes in who’s been to a dog show or a Frisbee contest or a specialty event — we go to all of these because that’s where we get our dog DNA samples. Everyone comes in Monday with a picture and they’ve seen the cutest dot dot dot,” she said.
+
+And dog owners and breeders clamor to help her collect samples.
+
+"If we see a breed that we haven't had a good sample of to sequence, we definitely make a beeline for that owner and say, 'Gosh, we don't have the sequence of the Otterhound yet and your dog is a beautiful Otterhound. Wouldn't you like it to represent your breed in the dog genome sequence database?'" Ostrander said.
+
+“And of course, people are always very flattered to say, ‘Yes. I want my dog to represent Otterhound-ness’.”
+
+Otterhounds, it seems, are close relatives of fox hounds and blood hounds, according to the new family tree.
+
+The new gene map links German shepherds to Australian shepherds, which had not been a known ancestor of German shepherds.
+
+And it finds that unique American genes linger in two breeds of dog — the Mexican hairless, also called a Xoloitzcuintlel, and the Peruvian Hairless Dog.
+
+“We’re not cat people.”
+
+"What we noticed is that there are groups of American dogs that separated somewhat from the European breeds," said Heidi Parker, who helped lead the work. "We've been looking for some kind of signature of the New World Dog, and these dogs have New World Dogs hidden in their genome."
+
+The ancestors of these dogs came over with the original settlers of the Americans 13,000 years ago — or perhaps even longer before that. But European and Asian imports mostly bred out the original American dogs and the two American hairless breeds now carry a healthy dose of German shepherd genes, the analysis showed.
+
+Other findings:
+
+Terriers and mastiffs were crossed to create fighting dogs and map back to Irish terrier breeds from the 1860s and 1870s.
+"Gun dogs," such as Golden Retrievers and Irish Setters originated in Victorian England, when hunting with guns became a popular gentlemen's sport.
+Herding dogs seem to be have been bred several different times and in several different places. "When we were looking at herding breeds, we saw much more diversity, where there was a particular group of herding breeds that seemed to come out of the United Kingdom, a particular group that came out of northern Europe, and a different group that came out of southern Europe," Parker said.
+Parker herself has a basset hound and two rescue mutts. “I am not really clear on the breeds,” she said. Ostrander’s pet border collie recently died.
+
+“We’re not cat people,” Ostander said. “I have got to be up front about it. I’m allergic. But I do admit I do have a postdoc who I know is secretly collecting cat samples behind my back.”

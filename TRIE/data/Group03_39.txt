@@ -1,0 +1,40 @@
+*When Does Amazon Become a Monopoly?
+
+On Friday morning, Amazon announced it was buying Whole Foods Market for more than $13 billion. About an hour later, Amazon’s stock had risen by about 3 percent, adding $14 billion to its value.
+
+Amazon basically bought the country’s sixth-largest grocery store for free.
+
+As the financial reporter Ben Walsh pointed out on Twitter, this is the opposite of what’s supposed to happen—normally, the acquiring company’s share price falls after a major purchase—and it suggests that investors now believe something odd is going on with Amazon. What could it be?
+
+From a straightforward standpoint, the Whole Foods acquisition means that Amazon will now participate in the $700 billion grocery-store business. Jeff Bezos, the company’s president and CEO, has made grabs at that market for several years—launching Amazon Fresh, a food home-delivery service, and opening several Amazon-branded bodegas in Seattle. Now he owns one of the industry’s best-known brand names.
+
+But Amazon paid a premium to buy Whole Foods, so its new full entry into another industry doesn’t quite explain the rise. Instead, the boost in share price suggests something more ominous: An incredible amount of economic power is now concentrated in Amazon, Inc., and investors now believe it is stifling competition in the retail sector and the broader American economy.
+
+When does Amazon become a a monopoly?
+
+As the country’s biggest online retailer of cleaning supplies and home goods, Amazon competes with Walmart, Target, and Bed, Bath & Beyond. As a clothing and shoe retailer, it competes with DSW, Foot Locker, and Gap. As a distributor of music, books, and television, it competes with Apple, Netflix, and HBO. In the past decade, Amazon has also purchased the web’s biggest independent online shoe store, its biggest independent online diaper store, and its biggest independent online comics store.
+
+And it is successful on nearly all of those fronts. Last year, Amazon sold six times as much online as Walmart, Target, Best Buy, Nordstrom, Home Depot, Macy’s, Kohl’s, and Costco did combined. Amazon also generated 30 percent of all U.S. retail sales growth, online or offline.
+
+Yet Amazon’s dominance extends far beyond retail. It also lends credit, publishes books, designs clothing, and manufactures hardware. Three years ago, it bought Twitch.com, a central player in the $1-billion business of e-sports. And on top of all this, it operates Amazon Web Services, a $12-billion business that rents servers, bandwidth, and computing power to other companies. Slack, Netflix, Dropbox, Tumblr, Pinterest, and the federal government all use Amazon Web Services.
+
+
+It is, in short, an Everything Store: not only selling goods but also producing them, not only distributing media from its servers but also renting them out to others. And it’s left many experts and analysts wondering: When does Amazon become a a monopoly?
+
+“I think of Amazon as serving almost as the essential infrastructure for the American economy at this point, when it comes to commerce. And that affords Amazon a lot of power and control,” says Lina Khan, a fellow on the Open Markets team at New America, a center-left think tank.
+
+In January, Khan called for Amazon to receive more antitrust scrutiny in an article in The Yale Law Journal.
+
+Historically, many of Amazon’s critics have focused on their Marketplace feature, which allows small businesses to sell their goods through Amazon’s website. Some merchants have accused Amazon of secretly using Marketplace as a laboratory: After collecting data on which products do best, it introduces low-price competitors available through its flagship service.
+
+The Institute for Local Self-Reliance, a nonpartisan advocacy group, has also criticized Amazon for this alleged anticompetitive behavior. “By controlling this critical infrastructure, Amazon both competes with other companies and sets the terms by which these same rivals can reach the market. Locally owned retailers and independent manufacturers have been among the hardest hit,” said a recent report from the group.
+
+But as Amazon has grown across the economy, concern has grown about its strength and power more broadly. “Amazon introduced itself to consumers as a middle man for books,” Khan told me. “But it expanded into becoming a middle man for all sorts of other things—and, for some time now, it has expanded well beyond that middle-man role. As it distributes more content and produces more goods, it’s running into more and more conflicts of interest.”
+
+In short, people have begun to wonder if Amazon is just too big: a company that already controls too much of online retail and that has started to exert its dominance downward into the rest of the supply chain.
+
+Amazon has historically declined to comment about antitrust issues. It recently began searching for a professional economist to consult on competition law concerns. Before November, one of the loudest critics of its market dominance was Donald Trump, who implied on the campaign trail that Jeff Bezos faces “antitrust problems.”
+
+Trump has not yet appointed someone to chair the Federal Trade Commission. The commission must review the acquisition before its completion.
+
+When the United States began to enforce for fairer competition between businesses in the early 20th century, it focused on two kinds of monopolistic organization: horizontal monopolies and vertical monopolies. In the steel business, for instance, a horizontal monopoly buys up a lot of steel mills, such that other competitors would be boxed out. A vertical monopoly buys up and down the supply chain—acquiring barges and trains and coal mines—essentially barring other companies from competing with it.

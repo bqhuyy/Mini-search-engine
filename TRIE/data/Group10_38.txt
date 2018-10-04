@@ -1,0 +1,39 @@
+How long will it take for your job to be automated
+We’re often told that machines one day will be able to do our jobs – but when, exactly, is that likely to happen?
+The world is widely considered to be on the cusp of a fourth industrial revolution – one where machines will be able to do many of the jobs currently performed by humans, and perhaps even do them better. It is a future that promises greater efficiency and cheaper services, but one that also could herald widespread job losses.
+It raises a troubling question for all of us – when will a machine be able to do my job?
+There are no certain answers, but some of the world’s top artificial intelligence researchers are trying to find out.
+Katja Grace, a research associate at the University of Oxford’s Future of Humanity Institute, and her colleagues from the AI Impacts project and the Machine Intelligence Research Institute, have surveyed 352 scientists and compiled their answers into predictions about how long it may take for machines to outperform humans on various tasks.
+Many of the world’s leading experts on machine learning were among those they contacted, including Yann LeCun, director of AI research at Facebook, Mustafa Suleyman from Google’s DeepMind and Zoubin Ghahramani, director of Uber’s AI labs.
+"One of the biggest surprises was the overall lateness of the predictions" – Katja Grace
+The good news is that many of us will probably be safe in our jobs for some time to come. The researchers predict there is a 50% chance that machines will be capable of taking over all human jobs in 120 years.
+“One of the biggest surprises was the overall lateness of the predictions”, says Grace. “I expected the amazing progress in machine learning in recent years, plus the fact that we were only talking to machine learning researchers, to make the estimates earlier.”
+So what does this mean for the coming years and decades?
+In-creasing unemployment?
+The survey suggest machines could also be folding laundry by 2021. So, if you work at a laundromat, is it time to throw in the towel? Perhaps not.
+Machines that can fold clothes do already exist: roboticists at the University of California, Berkeley, have already developed a robot that can neatly fold towels, jeans and t-shirts.
+Admittedly, it took the robot nearly 19 minutes to pick up, inspect and fold a single towel in 2010, but by 2012, it could fold a pair of jeans in five minutes and a t-shirt in a little over six minutes. Perhaps most excitingly, though, the robot can even take on the tedious task of pairing socks.
+But despite this progress, it could be some time before robots like this are able to replace humans.
+"It is one thing doing it in the lab, and quite another having a robot that can do a job reliably in the real world better than a human"
+“I am a bit sceptical of some of the timelines given for tasks that involve physical manipulation, says Jeremy Wyatt, professor of robotics and artificial intelligence at the University of Birmingham.
+“It is one thing doing it in the lab, and quite another having a robot that can do a job reliably in the real world better than a human.”
+Manipulating physical objects in the real world – figuring out what to manipulate, and how, in a random, changing environment – is an incredibly complex job for a machine. Tasks that don’t involve physical manipulation are easier to teach.
+Robot mobility – things like self-driving cars and autonomous deliveries – are probably at the stage the internet was in the early 1990s, Wyatt says. “Moving things around in the world is probably 10 years further behind that.”
+Your friendly robot assistant
+While towel folders are safe for now, perhaps there is reason for truck drivers and retailers to consider their roles over the coming two decades. The researchers predict that AI could be driving trucks by 2027 and doing retail jobs by 2031.
+The stereotypical retail assistant job – a friendly human to help you find a pair of jeans in a shop, and tell you how they look – is a role that requires complex physical and communication skills, and is probably safe for the moment.
+But as more people shop online, AI in the form of bots and algorithms may be replacing other roles in retail far earlier than we might think, says Wyatt. “Look at how many transactions we now do online that are largely automated – it is a significant proportion. And they are already using a reasonable amount of AI.”
+Fear not, fellow humans
+Perhaps the hardest jobs for machines to perform are those that take years of training for humans to excel at. These often involve intuitive decision making, complex physical environments or abstract thinking – all things computers struggle with.
+"Computers struggle with jobs involved with intuitive decision making, complex physical environments or abstract thinking"
+The experts predict robots will not be taking over as surgeons until around 2053, while it could take 43 years before machines are competing with mathematicians for space in top academic journals.
+They also predict AI computers could be churning out New York Times bestselling novels by 2049.
+In reality, machines are already dipping their digital fingers into this field too.
+Google has been training its AI on romantic novels and news articles in an attempt to help it write more creatively, and an AI bot called Benjamin can write short sci-fi film scripts – even if they don’t entirely make sense. Then there is the work of Automated Insights, which has created algorithms that churn out millions of personalised news, finance and sports articles for companies like Reuters and the Associated Press.
+Adam Smith, chief operating officer at Automated Insights, says this technology is intended to complement, rather than replace, human expertise. “Automated journalism is creating content that would not have existed before, but humans still need to add context to those stories.”
+"Producing bestselling fiction – rich in word play and with compelling twists in narrative – is still probably three decades away"
+These stories, however, are produced according to a formula, where information is pulled out of large data sets and plugged in to templates. Producing bestselling fiction – rich in word play and with compelling twists in narrative – is still probably three decades away. Attempts by to use machines to play with language in creative ways usually result in nonsense.
+The challenge will be getting AI to produce material that is acceptable to our human tastes, says Wyatt. says “We find anything that is even slightly below human-level performance to be unacceptable. Take chatbots – they are not that far from human level performance… but we are so sensitive to any imperfections that they often seem laughably bad.”
+Grace believes the survey should serve as a reminder that the world is on the cusp of radical change: “I don’t think there are any tasks humans can do that AI will be technically unable to carry out.”
+But she believes some roles may never be replaced by machines. A minister in a church, for example, might never be replaced by a robot if the churchgoers want a person to be in the role.
+“There will still be tasks that can only be conducted by a human because we will care that they are,” she says.

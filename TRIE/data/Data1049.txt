@@ -1,0 +1,44 @@
+Google Gets Record $2.7 Billion EU Fine for Skewing Searches
+
+Google’s record-breaking 2.4 billion-euro ($2.7 billion) European Union fine could end up being just a fraction of the costs from the EU’s demand that it stop skewing search results to favor its own shopping site.
+
+While the penalty will barely make a dent in its $90 billion cash hoard, Google faces the prospect of less ad revenue and a regulatory backlash targeting other services from maps to restaurant reviews as well as the threat of even more penalties.
+
+The search-engine giant will have "the sword of Damocles hanging over its head,” said Jay Modrall, a lawyer for Norton Rose Fulbright in Brussels. That’s because it’s no longer Google’s choice on how it makes changes to allay EU concerns. Instead, it’s "under a legal requirement to do so and under notice that if its commitments are not sufficient, it’ll be fined even more."
+
+EU antitrust chief Margrethe Vestager’s decision marks the end of a seven-year probe fueled by complaints from small shopping websites as well as bigger names, including News Corp., Axel Springer SE and Microsoft Corp. European politicians have called on the EU to sanction Google or even break it up while U.S. critics claim regulators are targeting successful American firms.
+
+Alphabet Inc.’s Google must "stop its illegal conduct" and give equal treatment to rival price-comparison services, according to a binding order from the European Commission. It’s up to Google to choose how it does this and inform the EU of its plans within 60 days.
+
+Vestager gave Google a 90-day ultimatum to find ways to give equal treatment to smaller price-comparison services that compete with the Google Shopping ads that appear when people search for products. The EU will also monitor Google for five years and can force the company to pay additional fines of up to 5 percent of its daily revenue if it doesn’t comply.
+
+Read more: Google’s Seven Years of Antitrust Tribulation in Europe
+
+Regulators are trying to avoid a repeat of a messy battle they had with Microsoft which was slow to implement strict changes ordered by the EU. Regulators have deliberately left “very abstract” guidelines on how to shape the equal treatment Google has been ordered to offer small shopping rivals, said Nicolas Petit, a law professor at the University of Liege.
+
+Google’s lawyer Kent Walker said the company respectfully disagrees with the EU’s conclusions and will consider a court appeal, according to a blog post.
+
+When you shop online, you want to find the products you’re looking for quickly and easily,” Walker said. “And advertisers want to promote those same products. That’s why Google shows shopping ads, connecting our users with thousands of advertisers, large and small, in ways that are useful for both. We think our current shopping results are useful and are a much-improved version of the text-only ads we showed a decade ago."
+
+Prominent Placement
+
+Google has been pushing its own comparison-shopping service since 2008, systematically giving it prominent placement when people search for an item, the EU said. Rival comparison sites usually only appear on page four of search results, effectively denying them a massive audience as the first page attracts 95 percent of all clicks.
+
+"As a result of Google’s illegal practices, traffic to Google’s comparison-shopping service increased significantly, whilst rivals have suffered very substantial losses of traffic on a lasting basis," the EU said, citing figures of a 45 percent increase in traffic for Google’s service.
+
+"The bias at the moment is absolutely brazen," said Shivaun Raff of Foundem, a British price-comparison site that helped kicked off the EU case with a complaint on how the site appeared in Google search results. "Put in almost any travel query and you will almost always see Google surge to the top of search services."
+
+Why the EU Will Slap Google Over Product Searches: QuickTake Q&A
+
+Vestager said the EU might also need to take a closer look at Google’s behavior concerning maps, travel and restaurant reviews where regulators have also received complaints.
+
+Proposed EU fine leaves Google with plenty of cash
+Tuesday’s fines could just be the first in a series of EU antitrust penalties for Google, which is fighting on at least two other fronts, including its Android mobile-phone software and the AdSense online advertising service. The decision follows Russia’s $7.8 million antitrust fine and penalties from Italian, German and French privacy authorities. Europe has proved a tough jurisdiction for Google, which fell foul of the region’s top court, losing a high-profile right-to-be-forgotten case three years ago.
+
+While the penalty is a record, it will do little to faze a company whose parent has more than $90 billion in cash. Of graver concern is the way regulators called on Google to change the way it handles online shopping searches, one of its biggest sources of sales growth and strongest weapons against rivals Facebook Inc. and Amazon.com Inc.
+
+Read more: Follow our TOPLive blog on the EU Google fine
+
+The EU’s allegations strike at the heart of a type of online advertising known as product listing ads, or PLAs, that is growing at almost three times the rate of traditional text-based search ads, according to digital marketing firm Merkle Inc. The format lets a marketer place an ad for an item with large images and price information in the prime digital real estate at the top of search results.
+
+Vestager’s move against Google risks attracting further criticism that she’s unfairly singled out U.S. companies. While she’s said American firms are "under no specific fire because of their nationality," transatlantic tensions are already on the rise after President Donald Trump’s decision to pull out of the Paris climate accord, adding to concerns over global trade.

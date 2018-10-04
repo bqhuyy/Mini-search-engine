@@ -1,0 +1,38 @@
+Microbe mystery solved: What happened to the Deepwater Horizon oil plume?
+The Deepwater Horizon oil spill in the Gulf of Mexico in 2010 is one of the most studied spills in history, yet scientists haven't agreed on the role of microbes in eating up the oil. Now a research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has identified all of the principal oil-degrading bacteria as well as their mechanisms for chewing up the many different components that make up the released crude oil.
+
+The team, led by Berkeley Lab microbial ecologist Gary Andersen, is the first to simulate the conditions that occurred in the aftermath of the spill. Their study, "Simulation of Deepwater Horizon oil plume reveals substrate specialization within a complex community of hydrocarbon-degraders," was just published in the Proceedings of the National Academy of Sciences.
+
+"This provides the most complete account yet of what was happening in the hydrocarbon plumes in the deep ocean during the event," said Andersen. Berkeley Lab's Ping Hu, the lead author of the study, added: "We simulated the conditions of the Gulf of Mexico oil spill in the lab and were able to understand the mechanisms for oil degradation from all of the principal oil-degrading bacteria that were observed in the original oil spill."
+
+This oil spill was the largest in history, with the release of 4.1 million barrels of crude oil as well as large amounts of natural gas from a mile below the surface of the ocean. After the initial explosion and uncontained release of oil, researchers observed a phenomenon that had not been seen before: More than 40 percent of the oil, combined with an introduced chemical dispersant, was retained in a plume nearly 100 miles long at this great depth.
+
+Yet because of the difficulty in collecting samples from so far below the ocean surface, and because of the large area that was impacted by the spill, a number of gaps in understanding the fate of the oil over time remained.
+
+Discovery of a new bacterium
+
+Andersen and his team returned to the spill location four years later to collect water at depth. With the assistance of co-authors Piero Gardinali of Florida International University and Ron Atlas of the University of Louisville, a suspension of small, insoluble oil droplets was evenly distributed in bottles, along with the more soluble oil fractions and chemical dispersant to mimic the conditions of the oil plume. Over the next 64 days the composition of the microbes and the crude oil were intensively studied.
+
+The researchers witnessed an initial rapid growth of a microbe that had been previously observed to be the dominant bacterium in the early stages of the oil release but which had eluded subsequent attempts by others to recreate the conditions of the Gulf of Mexico oil plume.
+
+Through DNA sequencing of its genome they were able to identify its mechanism for degrading oil. They gave this newly discovered bacterium the tentative name of Bermanella macondoprimitus based on its relatedness to other deep-sea microbes and the location where it was discovered.
+
+"Our study demonstrated the importance of using dispersants in producing neutrally buoyant, tiny oil droplets, which kept much of the oil from reaching the ocean surface," Andersen said. "Naturally occurring microbes at this depth are highly specialized in growing by using specific components of the oil for their food source. So the oil droplets provided a large surface area for the microbes to chew up the oil."
+
+Working with Berkeley Lab scientist Jill Banfield, a study co-author and also a professor in UC Berkeley's Department of Earth and Planetary Sciences, the team used newly developed DNA-based methods to identify all of the genomes of the microbes that used the introduced oil for growth along with their specific genes that were responsible for oil degradation. Many of the bacteria that were identified were similar to oil-degrading bacteria found on the ocean surface but had considerably streamlined sets of genes for oil degradation.
+
+Filling in the gaps
+
+Early work on microbial activity after the oil spill was led by Berkeley Lab's Terry Hazen (now primarily associated with the University of Tennessee), which provided the first data ever on microbial activity from a deepwater dispersed oil plume.
+
+While Hazen's work revealed a variety of hydrocarbon degraders, this latest study identified the mechanisms the bacteria used to degrade oil and the relationship of these organisms involved in the spill to previously characterized hydrocarbon-degrading organisms.
+
+"We now have the capability to identify the specific organisms that would naturally degrade the oil if spills occurred in other regions and to calculate the rates of the oil degradation to figure out how long it would take to consume the spilled oil at depth," Andersen said.
+
+Implications for future spills
+
+Andersen noted that it is not clear if the degradation of oil at these depths would have occurred in other offshore oil-producing regions. "The Gulf of Mexico is home to one of the largest concentrations of underwater hydrocarbon seeps, and it has been speculated that this helped in the selection of oil-degrading microbes that were observed in the underwater plumes," he said.
+
+Although the well drilled by the Deepwater Horizon rig was one of the deepest of its time, new oil exploration offshore of Brazil, Uruguay, and India has now exceeded 2 miles below the ocean surface. By capturing water from these areas and subjecting them to the same test, it may be possible in the future to understand the consequences of an uncontrolled release of oil in these areas in greater detail.
+
+"Our greatest hope would be that there were no oil spills in the future," Andersen said. "But having the ability to manipulate conditions in the laboratory could potentially allow us develop new insights for mitigating their impact."

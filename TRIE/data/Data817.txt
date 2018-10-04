@@ -1,0 +1,14 @@
+Trump wants companies to hire American, but CIOs don't seem to be paying attention
+
+Donald Trump has made a habit of blasting companies that build factories and hire workers overseas instead of in America.
+But when it comes to information technology jobs and resources, the heated rhetoric doesn't seem to be having much of an effect.
+A recent survey of Chief Information Officers by AlphaWise/Morgan Stanley found that most CIOs have not changed their user of offshore services, and some even plan to increase it.
+The survey asked 100 CIOs in the US and Europe how the "current political environment" has impacted the degree to which they allocate resources inhouse versus offshore.
+The survey did not specifically define "political environment," a term that could include anything from hyper partisanship to debates about taxes. But it comes at a time of growing nationalism in worldwide politics. Campaigns for both the UK "Brexit" and the Trump presidency centered around the retention of domestic jobs, with Trump even using his personal Twitter to call out companies that plan to outsource jobs. 
+The survey included 75 respondents from the US and 25 from Europe.
+According to the survey, conducted in June,  67% of the respondents said the political climate will not lead to any change. None of the respondents indicated that they will decrease outsourcing.
+In fact, 20% said they will increase their use of offshore services up to 10% as a consequence of the political environment; 13% said they will increased their use by more than 10%.
+Silicon Valley has been a particularly vocal opponent of anti-free trade sentiment in the US, arguing that restrictions on trade will raise the cost of labor, which will impact consumers directly and make US tech companies less competitive in the global playing field. 
+In April, President Trump signed the "Buy American, Hire American" executive order, which aimed to make changes to H-1B visas, the high skill labor visa favored by tech companies. 
+The White House said that the visa program undercuts American workers and drives down wages, while those in favor argue that it makes up for staffing shortages in the tech industry, according to AP. 
+

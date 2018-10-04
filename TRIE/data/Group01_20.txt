@@ -1,0 +1,23 @@
+An Oxford University artificial intelligence startup has raised £17 million to check code for errors
+
+DiffBlue, an artificial intelligence startup spun out of Oxford University, has raised $22 million (£17.3 million) in Series A funding for technology which checks and corrects code.
+The round was led by Goldman Sachs Principal Strategic Investments, alongside Oxford Sciences Innovations and the Oxford Technology and Innovations Fund.
+The company was cofounded by an Oxford computer science professor, Daniel Kroening, and Sussex computer science professor Peter Schrammel. The startup claims to "understand" code, meaning it can carry out coding tasks considered too repetitive and boring for human developers.
+One example is testing developers' code for bugs.
+Currently, human developers have to write their own test code to find any bugs in their software. It is, according to DiffBlue cofounder Daniel Kroening, something programmers tend to dislike because it's labour-intensive and less satisfying than coding itself. He explained that it's a little like asking a schoolchild to stand up and read their essay in front of the class, then to explain everything that's wrong with it. Or at least, that's how developers feel.
+"None of this is objectively true," he added. "Tests have enormous value because users don’t want to use buggy software. Nevertheless, this sort of thing gets a developer really very grumpy."
+Business Insider asked how this might be different from a kind of spellcheck for code, something which surely seems easy enough.
+"Tests aren't about spellchecking, they're about meaning," Kroening said. "It's like entrusting articles you write to spellcheck. If you say the president of the USA is Donald Duck, it's factually wrong, but spellchecker won’t flag it up.
+"Tests aren’t meant to find typos, they’re meant to identify misbehaviour. That’s the same as a sentence not making sense, syntactically."
+This is where AI comes in, because it requires intelligence to generalise from patterns.
+ Kroening told Business Insider the eventual goal was to allow illiterate people to program.
+"The way I like to get [people] interested is by saying you have a computer that improves itself, or thinks about its own programming," he said.
+"In our long-term vision, we would enable people who can't read or write to do programming. What we are hoping to achieve over time is that a computer will be able to deduct what it is you wanted to do by being given an example, then generalising from it. That's the high-level starting point."
+An example he gives is programming your toaster and kettle to make toast and tea for you in the morning. You probably couldn't pay a developer to do that for you, but it would still be useful.
+This would require considerable leaps in DiffBlue's AI capabilities and is still the long-term vision.
+The startup says its technology is used by all the major banks in the UK, though Kroening couldn't go into detail due to the confidential nature of the company's agreements. Currently it works with two programming languages, Java and C, though the company has plans to expand this.
+Is there a chance that professional developers could find themselves being replaced by AI?
+"This a concern that has never been raised by anyone actually doing the job," Kroening said. "[Testing is] such an unloved job. If you go to a company and relieve them of the testing, they will give you a hug."
+The company is based out of Oxford, with the bulk of its staff coming from the university. It will use its funding to open a new office in London and hire sales and marketing staff. The company also wants to expand to San Francisco within the next year.
+Kroening also told Business Insider that the company has ambitions to go public rather than sell. DiffBlue is part of Oxford University's spin-out incubator, Oxford Sciences Innovation, which recently hired a City broker to help its portfolio companies find funding or become listed.
+"That is something which is a viable route," Kroening said of going public. "At the moment, our investors are minded to grow the company substantially, and that is quite feasible. Many companies in the UK are sold too early and that is something we want to avoid."

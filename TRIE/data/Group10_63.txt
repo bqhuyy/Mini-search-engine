@@ -1,0 +1,26 @@
+Biomechanical acoustics study sheds light on running injuries
+French scientists share preliminary findings about how the human body adapts to vibrations experienced while running
+Running is one of the most popular sports in the world. More than 110 million people in the EU and the U.S. reported running recreationally in recent surveys; billions of dollars are spent globally each year to purchase running apparel and participate in races.
+
+However, the sport's devotees suffer from a surprisingly high rate of injury. According to one peer-reviewed medical study, nearly half of all recreational runners who train regularly will suffer from running-related injuries in a given year. One of the reasons for these injuries is that runners endure many shocks from the impact of running, and these cause vibrations that travel from the foot throughout the entire body.
+
+Delphine Chadefaux, a post-doctoral researcher who focuses on acoustics and biomechanics, studies these repetitive shocks and investigates how runners adapt their running patterns according to running conditions. Chadefaux will share some of the insights from her research during Acoustics '17 Boston, the third joint meeting of the Acoustical Society of America and the European Acoustics Association being held June 25-29, in Boston, Massachusetts.
+
+"The way runners manage the three-dimensional components of the vibrations, especially in terms of frequency, is not well understood. It's very difficult to measure the vibrations accurately," Chadefaux explained. "The study looked at which biomechanical parameters runners adapt to tune the shock-induced vibrations according to different running conditions."
+
+Chadefaux measured the kinematics of the runners with a motion capture system. The vibrations were measured with small accelerometers placed on the skin at various points of interest, such as at the foot, knee, shank and hip.
+
+"We wanted to understand how the vibrations were propagating and how the human body was adapting to them," Chadefaux said. "While taking these measurements, runners were running on an indoor surface under controlled conditions. In the future, we would like to experiment with more realistic conditions by carrying out the experiment outdoors."
+
+"Preliminary results revealed that at various speeds the human body is changing to adapt to these vibrations and stabilize the energetics that are propagating to the upper part of the body. Whether you run slowly or quickly, the same processes are still at work to protect the upper area of the body," Chadefaux said. "With that said, these are still early findings and more research is required to confirm them."
+
+The study can help fill an important gap in the research literature, according to Chadefaux. "Many of the studies involved in running or shoe development do not focus enough on shock propagation," Chadefaux said. "We would eventually like to use the insights that we garner to advance the collective understanding of how to prevent running injuries and design better running shoes."
+
+Conducting the study was not without its challenges. There are many different techniques that had to be integrated so that researchers could gather kinematic, vibrational, electromyographic and dynamics data.
+
+"The other challenge is the diversity of the runners' bodies. Each one is fundamentally unique. Certainly, this makes the work a lot more interesting. When you try, however, to understand the significance that these differences might play in injury, it becomes apparent that the human body is like an experimental black box. You just can't open it up and take it apart," Chadefaux said.
+
+Chadefaux's work is not limited to running. She and her colleagues are also studying tennis, investigating how vibration induced by the tennis ball's contact with the racket propagates through the human body.
+
+"While we are in the initial stages of this work, we would like to understand more about the control of the human neuro-musculoskeletal system when exposed to vibration. It would be valuable to distinguish the relevant features of the vibration content which may provide a noteworthy feedback on performance, from the noisy part which can lead to injuries."
+

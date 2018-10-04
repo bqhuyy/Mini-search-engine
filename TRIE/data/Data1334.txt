@@ -1,0 +1,31 @@
+One billion suns: World's brightest laser sparks new behavior in light
+Physicists from the University of Nebraska-Lincoln are seeing an everyday phenomenon in a new light.
+
+By focusing laser light to a brightness one billion times greater than the surface of the sun -- the brightest light ever produced on Earth -- the physicists have observed changes in a vision-enabling interaction between light and matter.
+
+Those changes yielded unique X-ray pulses with the potential to generate extremely high-resolution imagery useful for medical, engineering, scientific and security purposes. The team's findings, detailed June 26 in the journal Nature Photonics, should also help inform future experiments involving high-intensity lasers.
+
+Donald Umstadter and colleagues at the university's Extreme Light Laboratory fired their Diocles Laser at helium-suspended electrons to measure how the laser's photons -- considered both particles and waves of light -- scattered from a single electron after striking it.
+
+Under typical conditions, as when light from a bulb or the sun strikes a surface, that scattering phenomenon makes vision possible. But an electron -- the negatively charged particle present in matter-forming atoms -- normally scatters just one photon of light at a time. And the average electron rarely enjoys even that privilege, Umstadter said, getting struck only once every four months or so.
+
+Though previous laser-based experiments had scattered a few photons from the same electron, Umstadter's team managed to scatter nearly 1,000 photons at a time. At the ultra-high intensities produced by the laser, both the photons and electron behaved much differently than usual.
+
+"When we have this unimaginably bright light, it turns out that the scattering -- this fundamental thing that makes everything visible -- fundamentally changes in nature," said Umstadter, the Leland and Dorothy Olson Professor of physics and astronomy.
+
+A photon from standard light will typically scatter at the same angle and energy it featured before striking the electron, regardless of how bright its light might be. Yet Umstadter's team found that, above a certain threshold, the laser's brightness altered the angle, shape and wavelength of that scattered light.
+
+"So it's as if things appear differently as you turn up the brightness of the light, which is not something you normally would experience," Umstadter said. "(An object) normally becomes brighter, but otherwise, it looks just like it did with a lower light level. But here, the light is changing (the object's) appearance. The light's coming off at different angles, with different colors, depending on how bright it is."
+
+That phenomenon stemmed partly from a change in the electron, which abandoned its usual up-and-down motion in favor of a figure-8 flight pattern. As it would under normal conditions, the electron also ejected its own photon, which was jarred loose by the energy of the incoming photons. But the researchers found that the ejected photon absorbed the collective energy of all the scattered photons, granting it the energy and wavelength of an X-ray.
+
+The unique properties of that X-ray might be applied in multiple ways, Umstadter said. Its extreme but narrow range of energy, combined with its extraordinarily short duration, could help generate three-dimensional images on the nanoscopic scale while reducing the dose necessary to produce them.
+
+Those qualities might qualify it to hunt for tumors or microfractures that elude conventional X-rays, map the molecular landscapes of nanoscopic materials now finding their way into semiconductor technology, or detect increasingly sophisticated threats at security checkpoints. Atomic and molecular physicists could also employ the X-ray as a form of ultrafast camera to capture snapshots of electron motion or chemical reactions.
+
+As physicists themselves, Umstadter and his colleagues also expressed excitement for the scientific implications of their experiment. By establishing a relationship between the laser's brightness and the properties of its scattered light, the team confirmed a recently proposed method for measuring a laser's peak intensity. The study also supported several longstanding hypotheses that technological limitations had kept physicists from directly testing.
+
+"There were many theories, for many years, that had never been tested in the lab, because we never had a bright-enough light source to actually do the experiment," Umstadter said. "There were various predictions for what would happen, and we have confirmed some of those predictions.
+
+"It's all part of what we call electrodynamics. There are textbooks on classical electrodynamics that all physicists learn. So this, in a sense, was really a textbook experiment."
+

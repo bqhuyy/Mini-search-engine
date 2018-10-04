@@ -1,0 +1,34 @@
+Exclusive: Ericsson scraps push for new clients beyond telecoms
+By Sophie Sassard and Olof Swahnberg 
+LONDON/STOCKHOLM (Reuters) - Ericsson has ditched its goal of winning more clients beyond the telecoms industry to refocus on selling networks to mobile phone companies in a move to cut costs and halt a dramatic fall in its share price. 
+The Swedish firm's clients in its core business include Vodafone and Verizon but profits have plunged due to competition from Nokia and China's Huawei [HWT.UL] and as telecoms companies make savings. Its shares have fallen 30 percent in two years. 
+Ericsson said in 2014 it would diversify so that by 2020 up to 25 percent of revenue would come from industries beyond telecoms, such as media, utilities and transport, from an estimated 10 percent in 2013. 
+But the plan has not worked and the company will drop the target as new chief executive Borje Ekholm repositions to focus on the core business of mobile networks. 
+
+"We will focus on telco clients and networks exclusively for now," Ericsson's new head of Digital Services Ulf Ewaldsson told Reuters in a recent interview. 
+The U-turn comes at a challenging time for Ekholm, who after only five months in the top job is being pressed by activist investor Cevian Capital, which has a $1 billion stake in the company, to make faster changes. 
+Ekholm unveiled a cost-cutting plan in March and announced up to $1.7 billion in provisions, writedowns and restructuring costs. He said this would include exploring options for its loss-making media arm and turning its managed services business around. 
+Investors welcomed the greater focus after years of disappointing investments from Ericsson, but they worry the new plan will not generate growth. Moody's cut the company's credit rating to junk in May, partly due to worries that the cost-cutting could hamper innovation. 
+Increasing dependence on telecoms operators could be risky as they are struggling to grow revenue due to fierce competition and so are unwilling to spend more on networks even as they prepare for 5G fifth-generation wireless broadband technology. 
+Ericsson has to prove it can remain relevant in an industry that has gone from over 10 major players to three in 20 years. Investors question whether it can do this under Ekholm who has been on the board for a decade while Ericsson lost ground. 
+RIVALS PUSH AHEAD 
+Gear makers have long seen an opportunity to sell network equipment directly to corporate clients but have struggled because they lack the adequate sales network, telecom consultant Roman Friedrich of AlixPartners said. 
+Instead of spending money trying to build its own sales channels, Ewaldsson told Reuters it will sell communication networks and IT services like cloud storage through the telecoms companies. 
+While Ericsson pulls back, arch-rivals Huawei and Nokia are forging ahead with corporate clients in the automotive, transport and energy sector. They are increasingly building in-house private communication networks, for example to strengthen security. 
+The Chinese and Finnish companies generate about 8 and 4 percent of their revenue, respectively, from corporate clients. 
+Ericsson had been betting on media clients but is now exploring a sale of the unit. 
+LOSING GROUND 
+Ericsson sees opportunities to sell products to telecom clients which will need to upgrade their networks to address a greater flow of data enabled by 5G. It will also build additional capacity to connect objects around the world when the Internet of Things becomes reality. 
+But Bengt Nordstrom, head of consultancy firm Northstream which advises telecom operators and vendors, said 5G will only help sustain existing revenues and won't bring additional ones in the foreseeable future. 
+Ericsson is also betting investments in automation and artificial intelligence will make its networks more efficient and boost profits for it and its clients, Ewaldsson said while declining to give more details on the plan. 
+Stock pickers and analysts were hoping for more details of Ekholm's cost-cutting plan to help explain how the company will reach its target of doubling 2016 margins after 2018. 
+An obvious way is to shed loss-making businesses such as media operations, said analyst Richard Kramer of Arete Research. 
+But doing so will cut 10-15 percent of revenue, meaning absolute profits will shrink, he said. 
+Ericsson has already lost its position as market leader to Huawei in mobile infrastructure and SocGen analysts expect Nokia, which has expanded by merging with French rival Alcatel, will overtake it in services in two to three years. 
+Ewaldsson said Ericsson was hoping to become the market leader again in radio base stations that send signals to connect devices to networks. 
+Helping customers store and process data externally - cloud services - is another priority for Ericsson. 
+But Kramer said its products lack an edge: "Ericsson simply lacks the products to sell to the likes of Google, Facebook, or Amazon, which are the biggest incremental spenders on infrastructure." 
+IT executives at four European telecoms companies told Reuters they increasingly look at cheaper Asian rivals, especially Huawei, while new software players are gaining market share through tailor-made solutions that undercut Ericsson's "one-fits-all" approach. 
+Ericsson is relying on its partner Cisco to plug a product gap in routers, but some clients say they find it easier dealing with a single supplier and therefore tend to favor Nokia or Huawei. 
+(Additional reporting by Helena Soderpalm; editing by Anna Willard) 
+Read the original article on Reuters. Copyright 2017. Follow Reuters on Twitter.

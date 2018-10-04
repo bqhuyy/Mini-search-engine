@@ -1,0 +1,29 @@
+ViaSat-2: Satellite goliath goes into orbit
+The most powerful commercial broadband satellite ever built has just gone into orbit on an Ariane rocket.
+ViaSat-2, which is to be stationed above the Americas, has a total throughput capacity of about 300 gigabits per second.
+The spacecraft was part of a dual payload on the Ariane flight. It was joined by Eutelsat 172B, a UK/French-built platform to go over the Pacific.
+Both satellites will be chasing the rampant market for wi-fi on aeroplanes.
+Airlines are currently in a headlong rush to equip their fleets with connections that will allow passengers to use their mobile devices in mid-air.
+More than 6,000 commercial aircraft worldwide were offering an onboard wi-fi service in 2016; it is expected more than 17,000 will be doing so by 2021.
+In-flight internet has traditionally had a terrible reputation, but there is a feeling now that the latest technology really can give passengers a meaningful slice of bandwidth and at a competitive price
+The Ariane left the Kourou spaceport in French Guiana at 20:45 local time, Thursday (23:45 GMT), ejecting the satellites into their transfer orbits about half an hour later.
+Both must now get themselves into their final positions. Noteworthy is the fact that ViaSat-2 and 172B will be using electric engines to do this.
+These work by accelerating and expelling ions at high speed. The process provides less thrust than a standard chemical engine, but saves substantially on propellant mass.
+That saving can be traded to get either a lower-priced launch ticket, or to pack even greater capacity into the satellite's communications payload for no additional weight.
+The US, Boeing-built ViaSat-2 uses a mix of chemical and electric propulsion, but Eutelsat's platform is all-electric - the first such design to come from Europe's biggest space manufacturer, Airbus.
+ViaSat-2 will be providing broadband services to fixed customers across North America, Central America, the Caribbean, and a portion of northern South America.
+But the satellite is also configured to service planes and ships, and in particular it is looking to grab a significant share of business out over the Atlantic.
+The aviation sector currently is a key battleground for satellite operators; it is where they are seeing double-digit growth.
+In the US, working with airlines such as JetBlue, ViaSat has already found success through its existing high-throughput ViaSat-1 spacecraft.
+With the extra capacity on ViaSat-2, it aims to do better still.
+"We think people want to use their devices in the air the way they do on the ground; that's the bet we've made," said ViaSat Chief Operating Officer Rick Baldridge.
+"JetBlue delayed their in-flight wi-fi offering, waiting for us, and now they're giving it away for free and we're providing 12 megabits per second to every seat, including streaming video," he told BBC News.
+ViaSat-2's "footprint" touches the western coast of Europe, but aeroplanes travelling further east will be handed seamlessly to a better-positioned Eutelsat spacecraft, which should enable passengers to stay connected all the way across to Turkey if needs be.
+This is one of the benefits of the strategic alliance that the two satellite companies have formed. And in time this will see the pair operate a ViaSat-3 platform together over Europe. This spacecraft is being built to have a total throughput capacity of one terabit per second.
+From its position very close to the International Date Line, Eutelsat's 172B spacecraft is going to target - amongst other business - the flight corridors of the Asia-Pacific region. And it has some very smart British technology to do this in the form of a multi port amplifier.
+This can flexibly switch power between the satellite's 11 spot beams to make sure the available bandwidth is always focused where it is needed most - whether that be on the planes moving east-west from Japan to California, say, or when they go in the other direction as a cluster at a different time of day.
+"To oversimplify, in-flight connectivity has mostly been restricted to the US. But now it is expanding into the Asia-Pacific region and it's also coming to Europe," said Rodolphe Belmer, Eutelsat's chief executive officer.
+"We see spontaneous demand from airlines and it's booming. It's true the technology hasn't always delivered, but you will see with the introduction of very high throughput satellites in the next few years that we will be able to… bring a massive quantity of bandwidth onboard the plane, meaning you can stream Netflix in HD. That's a game-changer."
+Euroconsult is one of the world's leading analyst groups following the satellite industry. Its research confirms the rapid growth now taking place, and says this will only accelerate.
+Euroconsult's recent report on in-flight-connectivity (IFC) predicted nearly half of all commercial planes would be enabled by 2021, pushing revenues for the suppliers of onboard services from $1bn to $6.5bn inside 10 years. But Euroconsult's CEO, Pacôme Revillon, said there will be winners and losers in this IFC race and this would likely be decided in the very near future.
+"Going to 2020, approximately 50% of aircraft could have opted for their chosen connectivity solutions, and certainly all of the major airlines will have made that choice. By that stage the market share could decide who are the winners and losers, and we anticipate seeing some consolidation in this sector, with two to three companies coming to dominate the market," he told BBC News.

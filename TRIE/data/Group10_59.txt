@@ -1,0 +1,24 @@
+Dual-arm construction robot with remote-control function
+A group of Japanese researchers developed a new concept construction robot for disaster relief situations. This robot has a double swing dual arm mechanism and has drastically improved operability and mobility compared to conventional construction machines.
+
+In disaster areas, operating heavy construction equipment remotely and autonomously is necessary, but conventional remote-controlled heavy equipment has problems such as insufficient operability, inability to perform heavy-duty work, limited mobility on slopes and stairs, and low work efficiency because of difficult remote control. Thus, fundamental solutions to such problems have been sought after.
+
+As part of the Impulsing Paradigm Challenge through Disruptive Technologies Program (ImPACT)'s Tough Robotics Challenge Program, researchers from Osaka University, Kobe University, Tohoku University, Tohoku University, The University of Tokyo, and Tokyo Institute of Technology, tackle these challenges.
+
+This group of researchers attempts to solve these challenges by developing a prototype robot with a double swing dual arm mechanism and hydraulic-powered robotic hands. Using this robot, this group aims for discontinuous innovation; they try to drastically increase the efficiency of work and movement through the dual arm robot capable of handling heavy objects and by excavating and gripping with its high-powered hands. Specifically, this robot has the following functions.
+
+1. A double swing dual arm mechanism capable of performing heavy work with high operability and terrain adaptability (smooth mobility on slopes and stairs).
+
+In the double swing dual arm mechanism of this robot, its right and left arms and the rotating portion of its shoulders are on the same axis. Because of this, the robot can use bearings with far bigger diameter on its rotation portion as compared to humans and animals, whose shoulder joints are arranged on different axes.
+
+Also, these arms are supported close to the robot's center of gravity, providing the robot with a high degree of stability. This structure allows the robot to withstand high loads and perform heavy-duty work. Additionally, since each coaxially-arranged arm rotates at 360 degrees, there is no distinction between right and left hands, which allows the user to freely change the layout of the robot's hands.
+
+2. Multi-fingered hand for construction robots
+
+This group has developed a 4-fingered hand for use with construction robots and has equipped it to one of the robot's arms. The operating modes -- excavation and grip -- can be selected by changing the hand's shape. It is also possible to change the hand according to the shape of objects and control a wide range of grip strength.
+
+3. Basic technology for enhancement of remote controls
+
+This robot has the capability to allow a remote operator to precisely control the robot with the senses of force and touch as if he/she is actually touching the target object. This robot is equipped with a multi-rotor unmanned aircraft vehicle UAV ("drone") with power supply through electric lines, which allows the operator to view objects and terrain from different viewpoints without a robot-mounted camera. This robot also has a bird's-eye view image composition system. These functions make the robot's precise tasks and movement over intricate terrain easy.
+
+Researchers in this group think that these functions will dramatically increase construction equipment's capacity to deal with large-scale disasters and accidents and believe it is possible that the replacement of conventional construction equipment with this robot will drastically change civil engineering and construction methods. The researchers aim at achieving practical use of this robot to disaster relief situations within a few years through future improvement, integration with basic technology, and performance limit tests.

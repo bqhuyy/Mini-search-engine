@@ -1,0 +1,17 @@
+Latest WikiLeaks Shows How CIA May Have Hacked WiFi Routers For Years
+Leaked documents from the CIA's elite Engineering Development Group suggest the agency has been helping itself to wireless internet routers as part of Company operations going back years.
+
+On Friday, ZDNet reported that documents released by WikiLeaks show how the CIA has been remotely tapping into routers in private homes and businesses with a variety of tools so as to gain access to those computer networks. Included in the "dozens of files" released by WikiLeaks are installation guides, manuals, and maps that indicate the CIA's use of various tools for monitoring and analyzing their targets' online activities, among other things.
+
+According to ZDNet, which reviewed but could not authenticate the documents, the CIA had successfully created software 'implants' capable of gaining control in "roughly 25 different devices" from 10 manufacturers, including the popular router brands Netgear, Linksys, Belkin, D-Link, and Asus. As the tech news site pointed out, routers have been a frequent and desirable target for freelance or intelligence community hackers because they offer access to an entire network, and have historically come equipped with various security flaws.
+Wired reported that the leaked documents illustrate a range of methods used by the CIA, from rewriting the firmware in devices for remote monitoring of network activity, to hacking network passwords. One such tool, identified in the leaks docs as CherryBlossom, allows the agency to monitor a target's internet activity, scan for contact information, redirect their browser, and otherwise rummage around.
+
+The documents also suggest that the CIA's hacking methods would have been all but impossible for network owners to detect. Security researcher and Hacker House founder Matthew Hickey told Wired, "There’s no sign to tell you whether your router is hacked or not—you’re just on the internet as normal." Hickey, who analyzed the documents, continued, "The only thing is that everything you’re doing on the internet is going through the CIA."
+
+According to Wired, the leaked docs seem to establish that the CIA's method for hacking routers relies on a tool known as Claymore, which can apparently launch the agency's router-hacking software exploits after it's scanned networks to identify the target (and vulnerable) devices. Two exploits mentioned in the documents are Tomato and Surfside, and while the tools' details are unclear, Wired noted that Tomato "may abuse a protocol called UPNP that security researchers have long warned represents a security liability."
+
+Of course, these kinds of tools wouldn't only be of use to such erstwhile defenders of freedom as are found in government; they also offer an easy way for hackers of any motive to gain access and control in private networks via wireless.
+
+"Almost every home has a wireless router, and we don't have many tools to check what’s going on on those devices," Hickey told Wired. "So it's quite a stealthy way to get malware into someone’s home."
+
+For a technical breakdown of the tools depicted in the leaked documentation, check out Wired's explanation here.

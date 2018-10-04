@@ -1,0 +1,25 @@
+NASA Is Going To Run Its First Ever Competition In Space In 2019 With $5 Million Up For Grabs
+
+Flying somewhat under the radar, NASA has told IFLScience it will hold its first ever competition in space in two years, with prizes totaling $5 million up for grabs.
+The competition is called the Cube Quest Challenge. Teams will launch small CubeSat satellites, about the size of a loaf of bread, as secondary payloads on the inaugural launch of the Space Launch System (SLS) rocket in 2019.
+There are two parts of the competition. One will see teams race to 4 million kilometers (2.5 million miles) above Earth; the other will involve a literal race around the Moon.
+“This is the very first time NASA has conducted a competition in space!” Jim Cockrell, the Cube Quest Challenge administrator at NASA’s Ames Research Center in California, told IFLScience.
+The first competition is called the Deep Space Derby. Two teams are currently signed up, CU-E3 from the University of Colorado, Boulder, and Miles, a group of citizen scientists and engineers. After launching on the SLS, they will have to send their CubeSats to an altitude of at least 4 million kilometers, proving their location by emitting radio signals picked up by antennae on Earth.
+CU-E3 putting their CubeSat together. Team CU-E3/NASA
+Once here, there will be a number of prizes on offer for each team. The ultimate goal is to test out technologies for communicating at this distance, making this more a technical competition than a scientific one.
+The biggest prize in this derby is $750,000, awarded to the team that sends the most data back to Earth over a 28-day period. The team that operates the longest will be awarded $225,000, while the biggest burst of data in a 30-minute period has an award of up to $250,000.
+The team that sends data back from the greatest distance, beyond 4 million kilometers, stands to win up to $250,000. CU-E3, for example, says their CubeSat can reach a distance of up to 27 million kilometers (17 million miles).
+The data, sent in 1024-bit “data blocks”, has to be in a specific format in order to win. The data must also be free of errors in order for a panel of judges to deem it successful.
+“Competitors CubeSats use software code on board their spacecraft to generate sequences of data based on prescribed algorithms and protocols,” said Cockrell. “Judges can reconstruct the correct sequence of the data, using the same algorithm, to verify authenticity of the generated data.”
+The teams can use their own ground stations to retrieve the data, although NASA will listen in on the transmission stop and start times to verify it was successful.
+Two CubeSats will go to deep space, and one to lunar orbit. Dima Zel/Shutterstock
+As for the Lunar Derby, things are a bit different. At a distance of 384,000 kilometers (239,000 miles), this will be 10 times closer than the Deep Space Derby, but no less impressive.
+Teams will be asked to complete an orbit of the Moon, and the first to do so will win up to $1 million. They’ll need to complete one full orbit to win. Only one team, Cislunar Explorers from Cornell University in New York, is currently signed up for this contest. More teams can enter, though, even if they launch on other rockets.
+“A lunar orbit is defined as at least one complete orbit of minimum distance always above the lunar surface of 300 kilometers [190 miles],” said Cockrell, noting that the maximum distance cannot exceed 10,000 kilometers (6,200 miles). As with the Deep Space Derby, they’ll need to provide proof via radio signals that they are in lunar orbit.
+Due to the pesky inverse square law, it will be 100 times more difficult to communicate from 4 million kilometers than from lunar orbit. However, both will be pretty mean feats; no private spacecraft has ever orbited the Moon.
+A rendering of Cislunar Explorers' spacecraft. Cornell University/Cislunar Explorers Team
+That might change later this year of course, with the Google Lunar XPRIZE set to take place. This NASA challenge is actually very reminiscent of an XPRIZE, using cash prizes to incentivize teams to make technological breakthroughs.
+While this challenge is all about demonstrating technology, the results may prove useful for future exploration. NASA is considering using CubeSats for future missions, so it’s keen to learn how best to employ these miniature spacecraft, which are far, far cheaper and smaller than more conventional spacecraft.
+“NASA expects that future missions to the moon, Mars, near-Earth objects and other destinations can be accomplished using CubeSats in novel and more affordable ways than is currently done with conventional large space probes,” said Cockrell.
+And if that’s achieved by having spacecraft race millions of kilometers into space, then sign us up. Space Race 2019 is well and truly on.
+

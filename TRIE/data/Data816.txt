@@ -1,0 +1,19 @@
+Apple CEO Tim Cook got a big laugh during his surprise appearance at Cisco's conference
+
+Cisco's massive customer conference kicked off this week in Las Vegas, and CEO Chuck Robbins had a surprise special guest for his opening keynote:Apple CEO Tim Cook.
+The two CEOs gave an update on their two-year old partnership to make Apple devices work better on networks built with Cisco's gear.
+Robbins began the discussion by asking Cook what he hoped to gain from the Apple/Cisco partnership.
+"We thought, looking at the enterprise, people were spending tons of money. But when you looked at the user experience, it wasn't very good. So we thought we could bring Apple's legendary ease-of-use and simplicity to the enterprise and really change the way people work," Cook said, with all the modesty you'd expect from Steve Jobs' successor.
+Cook then gave, as an example, a nod to one of his favorite new features in Apple's upcoming iPhone and iPad operating system, iOS 11: ARKit.
+ARKit will allows developers to build so-called "augmented reality" apps, which lets you see digital images or digital data floating on top of the real world.
+"This is one of the things I'm so excited about from a consumer and enterprise [point of view]," Cook said.
+His best moment came when explaining all the ways Apple and Cisco were making Apple devices, especially via iOS 11, safer from hackers. "The hacking community aren't hackers anymore, they are sophisticated enterprises," he said.
+In response, Cisco and Apple have done things like blocking "these phishing emails that all of us are getting everyday."
+Cook was referring to emails that come from hackers but look like they are from your boss, or others that you know. 
+And then, Cook not-so-subtly slammed Android, to the delight of the crowd. He was explaining that hacking incidents have led to a new cyber security insurance markets.
+One day, when he was visiting Cisco's campus talking to Robbins about new ways to work together, they had a thought, Cook explained (emphasis ours):
+"If your company is using Cisco and Apple, then the combination of these should make that insurance cost significantly less for you than it would if you were using some other personal network side and the other operating system in the mobile area," Cook said.
+The audience laughed, immediately getting recognizing the slam on Android, which has a reputation for being less secure than iOS. Cook offered a small grin and told the audience, "Just sayin!'"
+But he insisted he wasn't joking. "This is something we're going to spend some energy on," he promised.
+
+

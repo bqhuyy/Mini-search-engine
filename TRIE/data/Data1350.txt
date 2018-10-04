@@ -1,0 +1,38 @@
+Satellite data to map endangered monkey populations on Earth
+A team of scientists led by the Universities of Leicester and East Anglia are leading research to protect wildlife by using satellite data to identify monkey populations that have declined through hunting.
+
+In a new article in the journal Nature Ecology and Evolution, a working group chaired by Professor Heiko Balzter, from the National Centre for Earth Observation at the University of Leicester, has looked at ways in which an array of technologies could be used to identify how many species are alive in an area and the risks they may be exposed to.
+
+Using a combination of satellite and ground data, the team can map multiple indicators of monkey distribution, including human activity zones as inferred from roads and settlements, direct detections from mosquito-derived iDNA, animal sound recordings, plus detections of other species that are usually found when monkeys are present, such as other large vertebrates.
+
+This data could be used to identify areas in which monkey populations are particularly vulnerable.
+
+Professor Balzter explained: "There are ten times as many satellites in operation now as there were in the 1970s. Most people now use maps from Earth Observation on their mobile, such as Google Earth. The European Copernicus satellites now provide free global data every 5 days at 10m resolution. And think of small cube satellites that fit into a tote bag and weigh only 2kg. Satellite technology has undergone a massive change and has never been so accessible.
+
+"However, satellites cannot observe small animals directly. Most biodiversity is invisible to a satellite.
+
+"Scientists have developed indicators for biodiversity, such as land cover type, and modern ecological models that can digest satellite data and information on species occurrence are now offering near-real time monitoring of the land management impacts on biodiversity. We propose using a mix of new technology rather than a single remedy."
+
+Among the technologies which can be used to map monkey distribution are automated recording devices that can automatically record animal sounds in a landscape.
+
+Modern genetic fingerprinting on a massive scale, called 'high-throughput DNA sequencing', can also tell which species live in a landscape based on the environmental DNA that they leave behind in the form of saliva, urine, faeces or blood.
+
+Mass-collected bulk samples of organisms can be collected in the field with relative ease.
+
+For example, mosquitoes can be caught in a trap and blended into a 'biodiversity soup' to analyse the DNA in the blood of the animals they have been feeding on.
+
+Professor Douglas W. Yu from the School of Biological Sciences, University of East Anglia, who co-led the research, said: "DNA-based methods are a powerful way to relieve the taxonomic bottleneck in biodiversity assessment, but they are only partially able to relieve the sampling bottleneck. In the end, the only way to cover whole landscapes is to combine satellites, sequencers, and statistics."
+
+Together, the data on the animal sounds and photos, the DNA they leave behind, and satellite observations provide a wealth of biodiversity information.
+
+Professor Balzter added: "It may sound like a strange idea -- satellites that can see the genetic make-up of the blood sucked by mosquitoes. Of course they cannot directly see that. But big data from genetic fingerprinting of animal DNA in a landscape combined with fine-resolution satellite data and sophisticated ecological models can. We need to work across subjects to make this happen. These are very exciting times. If our research can help to save a species that gives me a very strong sense of purpose to my job as a university professor."
+
+Many animal species are threatened with extinction. As a result of this, the UK has signed up to the United Nations Convention on Biological Diversity to try and stop this loss of species.
+
+In 2010, the Convention met in Aichi, Japan, and agreed a set of targets, called the Aichi Biodiversity Targets. These targets aim to address the underlying causes of biodiversity, reduce the pressures on biodiversity, safeguard ecosystems and species, enhance the benefits from biodiversity and ecosystem services, and enable participatory planning, knowledge management and capacity building.
+
+The paper is led by Alex Bush of the Kunming Institute of Zoology and Canadian Rivers Institute.
+
+Alex said: "For years ecologists have struggled to test or extend models of ecosystem-level change because the data were too expensive to collect at the required scales. Instead decisions have typically relied on surrogates with unknown consequences. With the parallel developments in remote sensing, genomics and more automated field recording, we now have the tools needed to collect data at large scales. Methods to model these 'big data' sources are already available and could improve how we conserve and manage ecosystems, and the essential services they provide, in a period of intense global change."
+
+ons on Earth

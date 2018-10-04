@@ -1,0 +1,25 @@
+Five Ways Virtual Reality Is Improving Healthcare.
+Virtual reality is much more than just a new form of entertainment, it is increasingly being used in a wide range of medical applications, from treatments to training. Here are a few of them.
+1. Pain management
+There is good scientific evidence that virtual reality (VR) can help relieve pain. The parts of the brain that are linked to pain – the somatosensory cortex and the insula – are less active when a patient is immersed in virtual reality. In some instances, it can even help people tolerate medical procedures that are usually very painful.
+Other studies have shown that amputees can benefit from VR therapy. Amputees often feel severe pain in their missing limb, which can be hard to treat with conventional methods, and often doesn’t respond well to strong painkillers like codeine and morphine. However, a technique called “virtual mirror therapy”, which involves putting on a VR headset and controlling a virtual version of the absent limb seems to help some patients cope better with this “phantom pain”.
+2. Physical therapy
+VR can be used to track body movements, allowing patients to use the movements of their therapy exercises as interactions in a VR game. For example, they may need to lift an arm above their head in order to catch a virtual ball.
+It’s more fun doing exercises in virtual reality than it is in a gym, so people are more motivated to exercise. It can help in other ways too. For example, we found that for patients who are anxious about walking, we can control their virtual environment so that it looks as though they are moving much slower than they actually are. When we do this, they naturally speed up their walking, but they don’t realise they are doing it and so it isn’t associated with pain or anxiety.
+Studying how people perceive and interact with VR systems helps us design better rehabilitation applications.
+
+Virtual reality can be used in physical therapy. Wendy Powell, Author provided
+3. Fears and phobias
+If you have an irrational fear of something, you might think the last thing you need is to see it in virtual reality, however, this is one of most established forms of medical VR treatment. Phobias are often treated with something called graded-exposure therapy, where patients are slowly introduced to their fear by a therapist. Virtual reality is perfect for this as it can be adjusted precisely for the needs of each patient, and can be done in the doctor’s office or even at home. This is being used to treat phobias such as fear of heights and fear of spiders, but also to help people recover from post-traumatic stress disorder (PTSD).
+4. Cognitive rehabilitation
+Patients with brain injury from trauma or illness, such as stroke, often struggle with the everyday tasks that we take for granted, such as shopping or making plans for the weekend. Recreating these tasks within virtual environments and allowing patients to practise them at increasing levels of complexity can speed up recovery and help patients regain a higher level of cognitive function.
+Doctors can also use these same virtual environments as an assessment tool, observing patients carrying out a variety of real-world complex tasks and identifying areas of memory loss, reduced attention or difficulty with decision-making.
+
+In the future your doctor may prescribe one of these. Anton Gvozdikov/Shutterstock
+5. Training doctors and nurses
+Virtual reality is, of course, not just for patients. It also offers benefits to healthcare professionals. Training doctors and nurses to carry out routine procedures is time consuming, and training generally needs to be delivered by a busy – and expensive – professional. But virtual reality is increasingly being used to learn anatomy, practise operations and teach infection control.
+ Being immersed in a realistic simulation of a procedure and practising the steps and techniques is far better training than watching a video, or even standing in a crowded room watching an expert. With low-cost VR equipment, controllable, repeatable scenarios and instant feedback, we have a powerful new teaching tool that reaches well beyond the classroom.
+ 
+Wendy Powell, Reader in Virtual Reality, University of Portsmouth
+This article was originally published on The Conversation. Read the original article.
+

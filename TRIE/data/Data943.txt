@@ -1,0 +1,36 @@
+*Why Amazon Would Want to Buy Slack
+
+Amazon is rumored to be mulling a purchase of Slack, the fast-growing corporate chat platform. A deal could give Slack a valuation of $9 billion, according to a report from Bloomberg.
+
+It’s no surprise that tech giants have taken interest in Slack, with its elegant, user-friendly interface that keeps employees ever-connected to work via their smartphones. The startup has enjoyed extraordinary growth since its 2013 debut. It now has about 5 million daily users, including more than 1 million paying users. As of last year, Slack claimed 77 Fortune 100 companies among its clients. It’s quite popular in American newsrooms—including at The Washington Post, which the Amazon CEO Jeff Bezos owns. (The Atlantic has used the platform since 2014.) Last year, Microsoft was considering scooping up Slack for itself. Instead, it launched a competing collaborative group-chat service called Teams in November. Even for Silicon Valley’s most formidable companies, a multibillion-dollar acquisition isn’t taken lightly.
+
+
+
+So in the broader sense, the idea that Amazon is flirting with a Slack takeover is just another chapter in the Office Wars of Silicon Valley. Remember, Amazon is not just an online retailer; Amazon Web Services is already a major force in the corporate world. But Amazon’s possible interest also signals some clear ways of thinking about how the company wants to position itself in the future. (Neither Amazon nor Slack returned requests for comment early Thursday morning).
+
+For one thing, it’s easy to see why Amazon would want to add a popular corporate communications tool to its suite of offerings to Amazon Web Services customers, Amazon’s widely used cloud-computing platform. “Widely used” may be an understatement. AWS, with its global server farms, is the backbone of the commercial web. It reported an eye-popping $12.2 billion in sales last year, and more than $3 billion in profit.
+
+RELATED STORIES
+
+ 
+The Triumph of Email
+Slack Doesn't Want People Using It for Romance
+The Bounty Hunters Protecting Your Slack Account
+But the more intriguing explanation of Amazon’s interest has to do with one of the company’s even bolder visions of the future. Amazon is one of the major players in the fight for dominance in the realm of voice-activated artificial intelligence. And it seems to be doing pretty well so far. As of January, Amazon had sold more than 11 million of its Echo home device, according to a report by the investment banker Morgan Stanley. (You may know the Echo as “Alexa,” which is the word users must say to get the device’s attention.)
+
+
+Silicon Valley is, at the moment, obsessed with this technology. The consensus is that voice—the commonly used shorthand for voice-activated devices and other conversational machines—promises to be the most transformative technology since the smartphone.  
+
+Lex, the conversation interface that powers the Echo, already has a Slack integration. But many of Google’s apps integrate with Slack, too, and Google is one of Amazon’s major competitors—in voice and in general. So at a pivotal point in the fight to rule potentially world-changing technology, why wouldn’t Amazon leap to acquire a communications platform that its top competitors could be eyeing for themselves? Besides, where Amazon’s peers—Microsoft, Google, and Facebook—all already have robust communications platforms among their key offerings, Amazon has none. Acquiring Slack could change that—and could position Amazon for shaping the way workers use voice-activated technology at a time when Slack is already considered a possible email slayer.
+
+Just think of what bringing all that work data to the Echo’s capabilities would mean for the worker—and the further blurring of any remaining line between work and home. A person could be driving to work, or cooking dinner, and dip back into work through a conversation with the Echo:
+
+“Alexa, read me the conversation in The Atlantic’s technology Slack channel since I last checked it.”
+
+“Alexa, dial-in to the 10 o’clock conference call for me.”
+
+“Alexa, download and play that podcast that my colleague recommended the other day.”
+
+“Alexa, let me know if my boss Slacks me.”
+
+We’re only in the very earliest stages of imagining how voice will transform the workplace, but it makes sense that Amazon—which aims to lead the way—would look to Slack as it vies for superiority.

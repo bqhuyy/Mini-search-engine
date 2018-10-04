@@ -1,0 +1,9 @@
+You can now use Amazon Echo as an intercom system for your home — here's how
+
+Amazon's Echo devices have a new trick: They can be used like an intercom system inside your house.
+For example, you can now call the Echo Dot in your bedroom from the standard Echo in your living room. Or, you can stream video from an Echo Show in your baby's room to another Echo Show in your kitchen.
+All you have to do in either case is ask Alexa, Amazon's intelligent assistant, which is built into its Echo gadgets. 
+You'll be able to access the intercom feature via the Alexa smartphone and tablet app also. So, if your kids have Echos in their rooms, you use your phone to talk to them through their smart speakers, instead of yelling up the stairs at them. And, via the smartphone app, you can call them directly on their Echo speakers even when you're away from home.  
+Amazon is adding the feature to its Echo devices via a free software update it's rolling out on Monday. It will be adding the feature to its Alexa smartphone and tablet app via a similar update in the coming days.
+Amazon built the new intercom capability on top of its recently-launched Alexa voice-calling feature. The difference is that instead of telling Alexa to call a friend or a family member, you instruct it to call the kitchen or whichever room you have an Echo situated in.
+To set up an Echo as an intercom, you have to go into the Alexa app or settings page and name it based on the room it's in. Also, within Alexa settings, you have to enable the new "drop-in" feature within your household group. The drop-in feature is what allows users of other Echo devices to automatically start chatting with you or viewing the video stream from an Echo Show device without you having to answer their call.

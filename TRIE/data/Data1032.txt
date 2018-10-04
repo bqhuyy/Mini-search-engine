@@ -1,0 +1,47 @@
+Auto-Safety Monitors Urge Congress to Go Slow on Driverless Cars
+
+Basic rules of the road are needed before lawmakers allow companies from Apple Inc. to Ford Motor Co. to dramatically expand testing of self-driving cars, safety and consumer advocates will tell lawmakers Tuesday.
+
+Automakers should be required to certify the safety of driverless vehicles before they can be tested on roads, and Congress should allow fewer vehicles to be tested on the roads than proposed under legislation a panel of the House Energy and Commerce committee is considering, according to Advocates for Highway and Auto Safety.
+
+"We think that before automated vehicles are put on the roads, they should be required to go through a functional safety evaluation," Cathy Chase, vice president of governmental affairs for the Washington-based advocacy group, said in an interview. "We think that’s a very basic precursor."
+
+Chase said her group plans to submit written comments for the hearing Tuesday of the Digital Commerce and Consumer Protection subcommittee.
+
+House lawmakers are debating the first federal legislation related to autonomous vehicles while counterparts in the Senate are working on their own measures to guide approval of those vehicles. Companies are racing to develop the technology that proponents say would make a major dent in the more than 30,000 annual U.S. highway fatalities.
+
+The proposals under consideration by lawmakers have been largely praised by trade groups for automakers, which have called for the federal government to take the lead and regulate with a light touch.
+
+Large-Scale Pilots
+
+The bills under consideration in Congress would allow for expansion in on-road testing of autonomous vehicles, which companies want so they can prove the safety of the vehicles and foster popular acceptance. At the same time, the federal measures would prohibit states from enacting a patchwork of different regulations governing the safety and performance of self-driving cars and trucks.
+
+Automakers have pleaded for those two steps as they race alongside -- and sometimes against -- technology companies to commercialize these new car systems. Ford Motor Co. has said it plans to put self-driving cars on the road by 2021, pouring $1 billion into artificial intelligence startup Argo AI to bolster the effort. General Motors Co. has invested $500 million in Lyft Inc. and recently expanded its fleet of self-driving Bolt electric cars to 180 vehicles from 50 cars testing in metro Detroit, San Francisco and Scottsdale, Arizona.
+
+On Monday, Apple announced it’s leasing a small fleet of cars from Hertz Global Holdings Inc. to test self-driving technology, while Waymo, the self-driving car unit of Alphabet Inc., the parent company of Google, reached an agreement for Avis Budget Group Inc. to manage its fleet.
+
+Read More: Automakers Want to Test More Self-Driving Cars on U.S. Roads
+
+The National Highway Traffic Safety Administration can currently allow automakers to field vehicles that don’t comply with the letter of federal auto-safety standards under certain limited circumstances. One exemption allows carmakers to field test new safety features while another allows for vehicles that don’t meet specific safety requirements but exceed the overall safety of conventional vehicles.
+
+But both exemptions are capped at 2,500 vehicles a year, and the latter requires companies provide the agency with detailed analysis showing how a vehicle is more safe. The draft legislation would expand that cap to 100,000 vehicles.
+
+The Obama administration released voluntary guidelines for safe autonomous vehicle deployment last September, which automakers have said gives NHTSA oversight of the technology while being flexible enough for development to continue.
+
+‘Safety in Mind’
+
+"Such a process can assure the regulator and the public that automakers are designing their systems with safety in mind," John Bozzella, CEO of the Association of Global Automakers, said in prepared remarks for the hearing. "It’s important that this assurance process be nimble and account for the rapid pace of innovation."
+
+While the first driving automation systems are already on the market with driverless braking and crash-avoidance technologies, fully automated driverless cars navigating highway traffic are still years away, automakers say.
+
+“America is the true innovation leader in this field -- at least for now,” Mitch Bainwol, chief executive officer of the manufacturers’ alliance, whose members include Ford, GM and Toyota Motor Corp., said in written testimony. "It is in the national interest to protect that
+advantage.”
+
+Alan Morrison, a law professor at George Washington University, said in prepared testimony that Congress can’t prohibit states from regulating areas where the federal government has not yet established rules, as is the case with many autonomous vehicle features. 
+
+He said in prepared remarks that federal standards, even ones for vehicle testing, are "far preferable to having fifty states and the District of Columbia all deciding how safe is safe enough" to allow self-driving cars on the road. Morrison co-founded the consumer advocacy organization Public Citizen alongside Ralph Nader in the 1970s.
+
+After hosting a conference on self-driving cars at the university earlier this month, Morrison said everyone agreed on one thing. 
+
+"If there is to be a future for driverless cars in the United States, Congress and the NHTSA cannot sit on the sidelines opposing all new federal rules" Morrison said, "nor should NHTSA simply issue voluntary guidance."
+

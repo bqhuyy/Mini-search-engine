@@ -1,0 +1,44 @@
+Surprising insights into properties of butterfly wings
+A collaboration between biologists and materials scientists at the University of Pennsylvania is yielding new insights into the wings of the "skipper butterfly" in the Costa Rican rainforest. What they learn could lead to technological advancements in systems ranging from power-efficient computer displays to sensors to energy efficient buildings, windows and vehicles.
+
+Shu Yang, a professor of materials science and engineering in the School of Engineering and Applied Science, has been conducting research to mimic the color, reflectance and texture of butterfly wings. Daniel Janzen, a professor of biodiversity biology in the Department of Biology in Penn's Schools of Arts & Sciences, who studies tropical butterfly biodiversity for its many uses, reached out to strike up a collaboration following Yang's curiosity about Janzen's work with Swedish researchers on the causes of colors of wasp wings.
+
+The new research, published in the Proceedings of the National Academy of Sciences, was conducted by Yang, Janzen, postdoc Dengteng Ge, alumnus Gaoxiang Wu, graduate student Hye-Na Kim and Penn biologist Winnie Hallwachs. John Burns, a butterfly taxonomist and curator of lepidoptera at the Smithsonian Museum of Natural History in Washington, D.C., provided names for the tropical butterflies and storing them so that they could generate this kind of study.
+
+While sorting through boxes of thousands of butterflies, Burns and Janzen noticed that the white on these butterflies' wings looked very different, depending on the angle at which they were observed. Janzen took them to Yang to ask the simple question of why and to find out what researchers know about white colors in nature.
+
+When Yang took up the challenge, Janzen noted that the bright reflecting white light would be very noticeable in the evening and dark understory of the rain forest where they live.
+
+"Whiteness," said Yang, "although frequently apparent on the wings, legs or bodies of many species of moths and butterflies, along with other colors and shades, has received relatively little attention and is easily ignored. While 'white' may often be simply one color among many within a larger complex pattern, there are times when the whiteness itself appears to be a key signal."
+
+She said whiteness is technologically important in many commercial systems. Researchers want to know what microstructures and nanostructures contribute to the appearance of the whiteness, which they found varies between males and females, and could be bright or dull, and angle-dependent or independent.
+
+By examining the coloring of the wings with optical microscopy and different optical probes, the researchers characterized the optical properties, such as angle dependence of the viewer and whether the wing scales were held flat or flexibly upright. Using these methods, they saw a mixing of colors in certain white scales.
+
+Contrary to the illusion, there is no pigment for white; the whiteness is purely structural. On the other side of the wing, there is a brownish color, similar to a tree trunk or mud, which does have pigments for other colors. This is what allows the resting butterflies to blend in with their surroundings.
+
+The whiteness on the wings of the male butterflies, which was much more noticeable than on females, changed depending on the angle.
+
+Janzen had deposited the butterfly in the Smithsonian Natural History Museum for their very long term preservation. Holding a drawer of them, when viewed at shallow angles, some of the white spots were bright and sharp, like the white reflector on the back of a bicycle, but, when viewed at right angles, the whiteness faded.
+
+When they further investigated this with scanning electron microscopy, which bounces electrons off surfaces to create a two-dimensional image of the structures, they found that these scales are not flat; they stand up and curve and can bend or are held bent at a steep angle to the wing surface.
+
+The whiteness on the butterflies wing would probably be important for signaling or mating purposes, Yang said, while sharp contrast is necessary under low lighting condition offers, which explains why there is this angle dependence.
+
+The researchers hope to further perform comparative studies of other types of butterflies that have similar white patterns or other color patterns. Janzen said the question becomes how many ways has evolution independently made bright white or other bright colors in other quite unrelated species. They then hope to mimic the microstructures and nanostructures in these butterflies for their coloration effects in devices.
+
+"Whiteness is actually very important in technology," Yang said. "You see it in teeth, paper and your display window. For example, you want to have very white backgrounds on your computer screen so you have sharp contrast in displays."
+
+Having a color that appears and disappears depending on its angle may be useful in designing smart windows that can block sunlight.
+
+"In tropical areas there is a lot of sunlight," Yang said, "so people actually put on white roofing, so that it reflects the light and it's not so hot inside."
+
+This kind of research with the textures and microstructures that create colors may also be useful for camouflage and signaling in all sorts of outdoor applications.
+
+Yang said that, if they can understand the biological purpose of the structures, they may be able to design materials that, while not as design-sophisticated as are the structures on butterfly wings, are both simple and scalable while still mimicking least the part of the function of biological systems of interest to different sectors of society.
+
+The work outlined here, Yang said, illustrates the beginning of the collaboration between evolutionary biologists and materials scientists, aimed at understanding how and why the evolution of structural colors on insects evolve within insect habits, ecology and behavior.
+
+"I think the important thing is we need to have a dialogue," Yang said. "Once we have a dialogue, we can branch out." Janzen adds that the development of use-driven biomimicry needs, among other things, "exposure to the millions of solutions that nature has evolutionarily invented for its selective challenges."
+
+"That cannot be done from an armchair in our comfortable offices and laboratories," he said, "but rather requires studying living nature with the same detail as merits our human-created inventions. I and my Costa Rican field colleagues can slog through the mud to get up close. Yang, Burns and their more urban colleagues can get up close too, but super close and directed to all sectors of society: biodevelopment."

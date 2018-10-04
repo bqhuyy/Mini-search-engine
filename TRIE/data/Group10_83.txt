@@ -1,0 +1,25 @@
+Astronomers detect orbital motion in pair of supermassive black holes
+Using the supersharp radio "vision" of the National Science Foundation's Very Long Baseline Array (VLBA), astronomers have made the first detection of orbital motion in a pair of supermassive black holes in a galaxy some 750 million light-years from Earth.
+
+The two black holes, with a combined mass 15 billion times that of the Sun, are likely separated by only about 24 light-years, extremely close for such a system.
+
+"This is the first pair of black holes to be seen as separate objects that are moving with respect to each other, and thus makes this the first black-hole 'visual binary,'" said Greg Taylor, of the University of New Mexico (UNM).
+
+Supermassive black holes, with millions or billions of times the mass of the Sun, reside at the cores of most galaxies. The presence of two such monsters at the center of a single galaxy means that the galaxy merged with another some time in the past. In such cases, the two black holes themselves may eventually merge in an event that would produce gravitational waves that ripple across the universe.
+
+"We believe that the two supermassive black holes in this galaxy will merge," said Karishma Bansal, a graduate student at UNM, adding that the merger will come at least millions of years in the future.
+
+The galaxy, an elliptical galaxy called 0402+379, after its location in the sky, was first observed in 1995. It was studied in 2003 and 2005 with the VLBA. Based on finding two cores in the galaxy, instead of one, Taylor and his collaborators concluded in 2006 that it contained a pair of supermassive black holes.
+
+The latest research, which Taylor and his colleagues are reporting in the Astrophysical Journal, incorporates new VLBA observations from 2009 and 2015, along with re-analysis of the earlier VLBA data. This work revealed motion of the two cores, confirming that the two black holes are orbiting each other. The scientists' initial calculations indicate that they complete a single orbit in about 30,000 years.
+
+"We need to continue observing this galaxy to improve our understanding of the orbit, and of the masses of the black holes," Taylor said. "This pair of black holes offers us our first chance to study how such systems interact," he added.
+
+The astronomers also hope to discover other such systems. The galaxy mergers that bring two supermassive black holes close together are considered to be a common process in the universe, so astronomers expect that such binary pairs should be common.
+
+"Now that we've been able to measure orbital motion in one such pair, we're encouraged to seek other, similar pairs. We may find others that are easier to study," Bansal said.
+
+The VLBA, part of the Long Baseline Observatory, is a continent-wide radio telescope system using ten, 240-ton dish antennas distributed from Hawaii to St. Croix in the Caribbean. All ten antennas work together as a single telescope with the greatest resolving power available to astronomy. That extraordinary resolving power allows scientists to make extremely fine measurements of objects and motions in the sky, such as those done for the research on 0402+379.
+
+The Long Baseline Observatory is a facility of the National Science Foundation, operated under cooperative agreement by Associated Universities, Inc.
+

@@ -1,0 +1,42 @@
+What's on your skin? Archaea, that's what
+Study on human skin microbiome finds archaea abundance associated with age
+It turns out your skin is crawling with single-celled microorganisms -- and they're not just bacteria. A study by the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) and the Medical University of Graz has found that the skin microbiome also contains archaea, a type of extreme-loving microbe, and that the amount of it varies with age.
+
+The researchers conducted both genetic and chemical analyses of samples collected from human volunteers ranging in age from 1 to 75. They found that archaea (pronounced ar-KEY-uh) were most abundant in subjects younger than 12 and older than 60. Their study has been published in Scientific Reports (a Nature journal) in an article titled, "Human age and skin physiology shape diversity and abundance of Archaea on skin."
+
+"The skin microbiome is usually dominated by bacteria," said Hoi-Ying Holman, director of the Berkeley Synchrotron Infrared Structural Biology (BSISB) Program and a senior author on the paper. "Most of the scientific attention has been on bacteria, because it's easier to detect. Based on the literature, six years ago we didn't even know that archaea existed on human skin. Now we've found they're part of the core microbiome and are an important player on human skin."
+
+The study was a joint effort of Holman, Berkeley Lab postdoctoral fellow Giovanni Birarda (now a scientist at Elettra Sincrotrone Trieste in Italy), UC Berkeley postdoctoral fellow Alexander Probst (now associate professor at the University of Duisburg-Essen in Germany), and Christine Moissl-Eichinger, the corresponding author of the study. Moissl-Eichinger and her team at the Medical University of Graz in Austria and at the University of Regensburg in Germany analyzed the genetic features of the skin microbiomes.
+
+In addition to the influence of age, they found that gender was not a factor but that people with dry skin have more archaea. "Archaea might be important for the cleanup process under dry skin conditions," said Moissl-Eichinger. "The results of our genetic analysis (DNA-based quantitative PCR and next-generation sequencing), together with results obtained from infrared spectroscopy imaging, allowed us to link lower levels of sebum [the oily secretion of sebaceous glands] and thus reduced skin moisture with an increase of archaeal signatures."
+
+More than skin deep
+
+It was not until the 1970s that scientists realized how different archaea were from bacteria, and they became a separate branch on the tree of life -- the three branches being Bacteria, Archaea, and Eukarya (which includes all plants and animals). Archaea are commonly found in extreme environments, such as hot springs and Antarctic ice. Nowadays it is known that archaea exist in sediments and in Earth's subsurface as well, but they have only recently been found in the human gut and linked with the human microbiome.
+
+Holman's focus is on developing synchrotron infrared spectroscopy techniques to look at biological or ecological systems. Using Berkeley Lab's Advanced Light Source (ALS), one of the world's brightest sources of infrared beams, the Holman Group developed a rapid and label-free method to screen cells and immediately tell if they're bacteria or archaea.
+
+"The challenges in microbial profiling are speed, throughput, and sample integrity," she said. "We spent years developing this technique and could not have done it without the unique resources of the ALS."
+
+But the dearth of studies on skin archaea is not just because of technical limitations. The researchers assert that the lack of age diversity in the sampling in previous studies was also a factor. "Sampling criteria and methods matter," Holman said. "We found middle-aged human subjects have less archaea; therefore, the archaeal signatures have been overlooked in other skin microbiome studies."
+
+From astronauts to archaea
+
+This study stemmed from a planetary protection project for NASA and the European Space Agency. "We were checking spacecraft and their clean rooms for the presence of archaea, as they are suspected to be possible critical contaminants during space exploration -- certain methane-producing archaea, the so-called methanogens, could possibly survive on Mars," Moissl-Eichinger said. "We did not find many signatures from methanogens, but we found loads of Thaumarchaeota, a very different type of archaea that survives with oxygen."
+
+At first it was thought the Thaumarchaeota were from the outside, but after finding them in hospitals and other clean rooms, the researchers suspected they were from human skin. So they conducted a pilot study of 13 volunteers and found they all had these archaea on their skin.
+
+As a follow-up, which is the current study, they tested 51 volunteers and decided to get a large range in ages to test the age-dependency of the archaeal signatures. Samples were taken from the chest area. The variations in archaeal abundance among the age groups were statistically significant and unexpected. "It was surprising," Holman said. "There's a five- to eightfold difference between middle-aged people and the elderly -- that's a lot."
+
+Role in human health still a question
+
+Their study focused on Thaumarchaeota, one of the many phyla of archaea, as little evidence of the others was found in the pilot study. "We know that Thaumarchaeota are supposed to be an ammonia-oxidizing microorganism, and ammonia is a major component of sweat, which means they might play a role in nitrogen turnover and skin health," Holman said.
+
+In collaboration with Peter Wolf of the Medical University of Graz, the team also correlated archaeal abundance with skin dryness, as middle-aged persons have higher sebum levels and thus moister skin than the elderly.
+
+So far, most archaea are known to be beneficial rather than harmful to human health. They may be important for reducing skin pH or keeping it at low levels, and lower pH is associated with lower susceptibility to infections.
+
+"The detected archaea are probably involved in nitrogen turnover on skin, and are capable of lowering the skin pH, supporting the suppression of pathogens," said Moissl-Eichinger. "Bacteria with the same capacities are already used as skin probiotics, potentially improving skin moisture and reducing body odors. Nevertheless, the clinical relevance of Thaumarchaeota remains unclear and awaits further studies."
+
+Holman listed several avenues of inquiry for future studies with Moissl-Eichinger. "We would like to investigate the physiological role of human skin archaea and how they differ from environmental archaea," she said. "We would like to find out which niches they prefer on or in the human body. We also want to know whether they might be involved in pathogenic processes, such as neurodermatitis or psoriasis. So far, there is little evidence of the pathogenicity of archaea."
+

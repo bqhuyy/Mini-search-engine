@@ -1,0 +1,34 @@
+Biofuel from waste: Zeolite catalysts pave the road to decentralized chemical processes
+Fuel from waste? It is possible. But hitherto, converting organic waste to fuel has not been economically viable. Excessively high temperatures and too much energy are required. Using a novel catalyst concept, researchers at the Technical University of Munich (TUM) have now managed to significantly reduce the temperature and energy requirements of a key step in the chemical process. The trick: The reaction takes place in very confined spaces inside zeolite crystals.
+
+
+Ever more electricity is produced decentrally using wind, hydro and solar power plants. "It thus makes sense to decentralize chemical production, as well," thinks Prof. Johannes Lercher, who heads the Chair of Technical Chemistry II at TU Munich. "Theoretically, any municipality could produce its own fuel or fertilizer."
+
+To date, this has not been possible because chemical processes require a great deal of energy -- more than local renewable energy sources can provide. "We thus aimed at finding new processes to lay the foundations for the distributed production of chemicals, which can be powered using renewable energy sources," explains the chemist, who is also Director of the American Institute for Integrated Catalysis at Pacific Northwest National Laboratory.
+
+His team has now fulfilled one prerequisite for a turnaround in chemical production: In the laboratory, the scientists demonstrated that the temperature required for splitting carbon-oxygen bonds in acidic aqueous solution can be drastically reduced using zeolite crystals. The process also ran much faster than without the zeolite catalysts.
+
+Nature as a model
+
+Nature provided the reference for the development of the new process. In biological systems, enzymes with small pockets in their surface accelerate chemical processes.
+
+"We thought about how we could apply theses biological functions to organic chemistry," explains Lercher. "While searching for suitable catalysts that accelerate the reaction, we stumbled upon zeolites -- crystals with small cavities in which the reactions take place under cramped conditions comparable to those in enzyme pockets."
+
+
+Cornered hydronium ions
+
+But, do cramped quarters really increase the reactivity? To answer this question, Lercher's team compared the reactions of carbon compounds with acids in a beaker to the same reactions in zeolites. The result: In the crystal cavities, where the reacting molecules, for example alcohols, meet upon the hydronium ions of the acids, reactions run up to 100 times faster and at temperatures just over 100 °C.
+
+"Our experiments demonstrate that zeolites as catalysts are similarly effective as enzymes: Both significantly reduce the energy levels required by the reactions," reports Lercher. "The smaller the cavity, the larger the catalytic effect. We achieved the best results with diameters far below one nanometer."
+
+Geckos, wax and zeolites
+
+But why do tight spaces foster the reactivity of molecules? "The force that improves the reaction path is the same as the one that causes wax to stick to a tabletop and that allows geckos to walk on ceilings," replies Lercher. "The more contact points there are between two surfaces, the larger the adhesion. In our experiments, the organic molecules, which are in an aqueous solution, are literally attracted to the pores in the zeolites."
+
+Thus, the hydronium ions within the cavities have a significantly greater likelihood of bumping into a reaction partner than those outside. The result is an acid catalyzed chemical reaction that takes place faster and with lower energy input.
+
+From garbage to fuel
+
+When they come into contact with hydronium ions, organic molecules such as alcohols lose oxygen. This makes the process suitable to converting bio-oil obtained from organic waste into fuel.
+
+It will take some time, of course, before the new process can be deployed in the field. "We are still working on the fundamentals," emphasizes Lercher. "We hope to use these to create the conditions required for new, decentral chemical production processes that no longer require large-scale facilities."

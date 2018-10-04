@@ -1,0 +1,22 @@
+Personal details of nearly 200 million US citizens exposed
+Sensitive personal details relating to almost 200 million US citizens have been accidentally exposed by a marketing firm contracted by the Republican National Committee.
+The 1.1 terabytes of data includes birthdates, home addresses, telephone numbers and political views of nearly 62% of the entire US population.
+The data was available on a publicly accessible Amazon cloud server.
+Anyone could access the data as long as they had a link to it.
+Political biases exposed
+The huge cache of data was discovered last week by Chris Vickery, a cyber-risk analyst with security firm UpGuard. The information seems to have been collected from a wide range of sources - from posts on controversial banned threads on the social network Reddit, to committees that raised funds for the Republican Party.
+The information was stored in spreadsheets uploaded to a server owned by Deep Root Analytics. It had last been updated in January when President Donald Trump was inaugurated and had been online for an unknown period of time.
+"We take full responsibility for this situation. Based on the information we have gathered thus far, we do not believe that our systems have been hacked," Deep Root Analytics' founder Alex Lundry told technology website Gizmodo.
+"Since this event has come to our attention, we have updated the access settings and put protocols in place to prevent further access."
+Apart from personal details, the data also contained citizens' suspected religious affiliations, ethnicities and political biases, such as where they stood on controversial topics like gun control, the right to abortion and stem cell research.
+The file names and directories indicated that the data was meant to be used by influential Republican political organisations. The idea was to try to create a profile on as many voters as possible using all available data, so some of the fields in the spreadsheets were left left empty if an answer could not be found.
+"That such an enormous national database could be created and hosted online, missing even the simplest of protections against the data being publicly accessible, is troubling," Dan O'Sullivan wrote in a blog post on Upguard's website.
+"The ability to collect such information and store it insecurely further calls into question the responsibilities owed by private corporations and political campaigns to those citizens targeted by increasingly high-powered data analytics operations."
+Privacy concerns
+Although it is known that political parties routinely gather data on voters, this is the largest breach of electoral data in the US to date and privacy experts are concerned about the sheer scale of the data gathered.
+"This is deeply troubling. This is not just sensitive, it's intimate information, predictions about people's behaviour, opinions and beliefs that people have never decided to disclose to anyone," Privacy International's policy officer Frederike Kaltheuner told the BBC News website.
+However, the issue of data collection and using computer models to predict voter behaviour is not just limited to marketing firms - Privacy International says that the entire online advertising ecosystem operates in the same way.
+"It is a threat to the way democracy works. The GOP [Republican Party] relied on publicly-collected, commercially-provided information. Nobody would have realised that the data they entrusted to one organisation would end up in a database used to target them politically.
+"You should be in charge of what is happening to your data, who can use it and for what purposes," Ms Kaltheuner added.
+There are fears that leaked data can easily be used for nefarious purposes, from identity fraud to harassment of people under protection orders, or to intimidate people who hold an opposing political view.
+"The potential for this type of data being made available publicly and on the dark web is extremely high," Paul Fletcher, a cyber-security evangelist at security firm Alert Logic told the BBC.

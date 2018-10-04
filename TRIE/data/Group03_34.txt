@@ -1,0 +1,88 @@
+If Google Teaches an AI to Draw, Will That Help It Think?
+Humans made a huge cognitive leap when they first sketched figures onto rocks—now, computers are learning to do the same.
+Imagine someone told you to draw a pig and a truck. Maybe you’d sketch this:
+​Click and drag to move
+Easy enough. But then, imagine you were asked to draw a pig truck. You, a human, would intuitively understand how to mix the salient features of the two objects, and maybe you’d come up with something like this:
+Note the little squiggly pig tail, the slight rounding of the window in the cab, which recalls an eye. The wheels have turned hoof-like, or alternatively, the pig legs have turned wheel-like. If you’d drawn it, I, a fellow human, would subjectively rate this a creative interpretation of the prompt “pig truck.”
+Until recently, only human beings could have pulled off this sort of conceptual twist, but no more.  This pig truck is actually the output of a fascinating artificial intelligence system called SketchRNN, a part of a new effort at Google to see if AI can make art. It’s called Project Magenta, and it’s led by Doug Eck.
+Last week, I visited Eck at Google Brain team’s offices in Mountain View, where Magenta is housed. Eck is clever, casual, and self-effacing. He received his Ph.D. in computer science from the University of Indiana in 2000, and has spent the intervening years working on music and machine learning, first as a professor at the University of Montreal (a hotbed for artificial intelligence) and then at Google, where he worked at Google Music before heading to Google Brain to work on Magenta.
+Eck’s drive to create AI tools for making art began as a rant, “but after a few cycles of thinking,” he said, “it became, ‘Of course we need to do this, this is really important.’”
+The point of SketchRNN, as he and Google collaborator David Ha have written, is not only to learn how to draw pictures, but to “generalize abstract concepts in a manner similar to humans.” They don’t want to create a machine that can sketch pigs. They want to create a machine that can recognize and output “pigness,” even if it is fed prompts, like a truck, which don’t belong in the barnyard.
+The implicit argument is that when humans draw, they make abstractions of the world. They sketch the generalized concept of “pig,” not any particular animal. That is to say, there is a connection between how our brains store “pigness” and how we draw pigs. Learn how to draw pigs and maybe you learn something about the human ability to synthesize pigness.
+Here’s how the software works. Google built a game called, “Quick, Draw!” which, as people played, generated a large database of human drawings of all kinds of stuff: pigs and rain, firetrucks and yoga poses, gardens and owls.
+When we sketch, we compress the rich, colorful, noisy world into just a few movements of a (digital) pen. It is these simple strokes that are the underlying dataset for SketchRNN. Each class of drawing—cat, yoga, rain—can be used to train a particular kind of neural network using Google’s open-source TensorFlow software library. This is distinct from the kind of photograph-based work that’s inspired so many news stories, like when a machine can render a photograph in the style of Van Gogh or the original DeepDream, or drawing any shape and having it fill in with “catness.”
+These projects all feel, subjectively, to humans, uncanny. They are interesting because they make images that are sort of like, but not exactly like, human perception of the real world.
+The outputs of SketchRNN, however, don’t feel uncanny at all. “They feel so right,” Eck told me. “I don’t want to say ‘so human,’ but they feel so right in a way that these pixel-generation things don’t.”
+This is a core insight of the Magenta team. “Humans … do not understand the world as a grid of pixels, but rather develop abstract concepts to represent what we see,” Eck and Ha argue in their paper describing the work. “From a young age, we develop the ability to communicate what we see by drawing on paper with a pencil or crayon.”
+And if humans can do it, Google would like machines to be able to do it. Last year, Google CEO Sundar Pichai declared the company “artificial intelligence-first.” AI, for Google, is a natural extension of its original mission “to organize the world's information and make it universally accessible and useful.” What’s changed is that now the information is being organized for artificial intelligences, which then make it accessible and useful for people. Magenta is one of Google’s wilder attempts to organize and understand a particular human domain.
+Machine learning is the broadest term for the tools Google has adopted. ML, as it is often abbreviated, is a way of programming computers to teach themselves how to do various tasks, usually by feeding them labeled data to “train” on. One popular way of doing machine learning is with neural networks that are very loosely modeled on the brain’s system of connections. Various nodes (artificial neurons) are connected to each other with different weightings that respond to some inputs, but not others.
+In recent years, neural networks with multiple layers have proven very successful in solving tough problems, especially in translation and image recognition/manipulation. Google has rebuilt many of its core services on these new architectures. Mimicking the known functioning of our own brains, these networks have interconnected layers that recognize different patterns in an input (say, an image). A low-level layer might contain neurons that respond to simple pixel level patterns of light and dark. A high-level layer might respond to dog faces or cars or butterflies.
+Building networks with these kinds of architectures and mechanics can be unreasonably effective. Computing problems that were remarkably difficult become a matter of tuning the training of a model and then leaving some graphics-processing units to compute for a while. As Gideon Lewis-Kraus described in The New York Times, Google Translate had been a complex system built over 10 years. Then the company rebuilt it with a deep-learning system in 9 months. “The A.I. system had demonstrated overnight improvements roughly equal to the total gains the old one had accrued over its entire lifetime,” Lewis-Kraus wrote.
+Because of this, there have been an explosion of uses and types of neural networks. For SketchRNN, they used a recurrent neural network, which deals with sequences of inputs. They trained the network on the progression of pen strokes people made to draw different things.
+The easiest way to describe training is as a type of encoding. Data (sketches) are fed in, and the network tries to come up with the general rules for what it is processing. Those generalizations are a model of the data, which is stored in the mathematics describing the propensities of the neurons in the network.
+That configuration is evocatively called the latent space or Z (zed) and it is where the pigness or truckness or yoganess is held. Sample it, as the AI people say, by asking the system to draw what it has been trained on, and SketchRNN spits out a pig or a truck or a yoga pose. What it draws is what it has learned.
+What can SketchRNN learn? Below is a network trained on firetrucks generating new fire trucks. Inside the model, there is a variable called “temperature,” which allows the researchers to crank the randomness of the output up or down. In the following images, bluer images have the temperature turned down, redder ones are “hotter.”
+Or maybe you’d prefer to see owls:
+And the best example of all, yoga poses:
+Now, these are like human drawings, but they are not themselves drawn by any human. They are reconstructions of how a human might sketch such a thing. Some of them are quite good and others are less so, but they would all pretty much make sense if you were playing Pictionary with an AI.
+SketchRNN is also built to accept input in the form of human drawings. You send something in and it tries to make sense of that. Working with a model trained on cat data, what would happen if you lobbed in a three-eyed cat drawing?
+​Click and drag to move
+You see that? In the various outputs from the model to the right (again showing different “temperatures”), it strips out the third eye! Why? Because the model has learned that cats have triangular ears, two whiskers, a roundish face, and only two eyes.
+Of course, the model does not have any idea what an ear actually is or if cats’ whiskers move or even what a face is or that our eyes can transmit images to our brains because photons change the shape of the protein rhodopsin in specialized cells in the retina. It knows nothing of the world to which these sketches refer.
+But it does know something about how humans represent cats or pigs or yoga or sailboats.
+“When we start generating a drawing of a sailboat, the model will fill in with hundreds of other models of sailboats that could come from that drawing,” Google’s Eck told me. “And they all kind of make sense to us because the model has pulled out from all this training data the platonic sailboat—you’ll kill me for saying this—but the ur sailboat. It’s not a question of specific sailboats, but sailboatness.”
+As soon as he said it, he seemed to regret his momentary loftiness. “I’m gonna have the philosophers come crush me for that,” he said. “But as a handwavey thing, it makes sense.” (The Atlantic’s resident philosopher Ian Bogost told me, “Philosophically speaking, this is pure immanent materialism.”)
+The excitement of being a part of the artificial intelligence movement, the most exciting technological project ever conceived, at least to those within it, and to a lot of other people, too—well, it can get the better of even a Doug Eck.
+I mean, train a network on drawings of rain. Then input a sketch of a fluffy cloud, and, well, it does this:
+​Click and drag to move
+Rain falls out of the cloud you’ve sent into the model. That’s because many people draw rain by first drawing a cloud and then drops coming out of it. So if the neural network sees a cloud, it makes rain fall out of the bottom of that shape. (Interestingly, the data is a succession of strokes, though, so if you start with the rain, the model will not produce a cloud.)
+
+It’s delightful work, but in the long project to reverse engineer how humans think, is this a clever side project or a major piece of the puzzle?  
+
+What Eck finds fascinating about sketches is that they contain so much with so little information. “You draw a smiley face and it’s just a few strokes,” he said, strokes that look nothing like the pixel-by-pixel photographic representation of  a face. And yet any 3-year-old could tell you a face was a face, and if it was happy or sad. Eck sees it as a kind of compression, an encoding that SketchRNN decodes and then can re-encode at will.
+
+It’s not unlike Scott McCloud’s famous (among a certain kind of nerd) case for the power of cartooning.  
+
+
+understanding-comics-amplification-through-simplification.jpg
+“I’m very supportive of the SketchRNN work and it's really cool,” said Andrej Karpathy, a researcher at OpenAI, who has become a central node in AI research dissemination. But he also noted that they have made some very strong assumptions about the importance of strokes into their model, which means they are less useful to the overall enterprise of developing artificial intelligence.
+
+
+“The generative models we develop usually try to be as agnostic as possible to the details of the dataset, and should work no matter what data you throw at them: images, audio, text, or whatever else,” he said. “Except for images, none of these are made up of strokes.”
+
+“I'm also perfectly okay with people making strong assumptions, encoding them in the models, and getting more impressive results in the respective specific domains,” he added.
+
+Eck and Ha are building something closer to a chess-playing AI than an AI that could figure out and play the rules any game. To Karpathy, the scope of their current work seems limited.
+
+But there are some reasons to think that line drawings are fundamental to the way humans think. The Googlers are not the only researchers who have become intrigued by the power of sketches. In 2012, Georgia Tech’s James Hays teamed up with Technische Universität Berlin’s Mathias Eitz and Marc Alexa to create a dataset of sketches as well as a machine learning system for identifying them.
+
+For them, sketches represent a form of “universal communication,” something all humans with standard cognitive functioning can do and have done. “Since prehistoric times, people have rendered the visual world in sketch-like petroglyphs or cave paintings,” they write. “Such pictographs predate the appearance of language by tens of thousands of years and today the ability to draw and recognize sketched objects is ubiquitous.”
+
+
+They point to a paper in the Proceedings of the National Academy of Sciences by neuroscientist Dirk Walther at the University of Toronto that “suggests that simple, abstracted sketches activate our brain in similar ways to real stimuli.” Walther and his co-authors hypothesize that line drawings “capture the essence of our natural world,” even if on a pixel-by-pixel basis, a line-drawing of a cat looks nothing like a picture of a cat.
+
+If the neurons in our brains work within the layered hierarchies that neural networks mimic (slash caricature), sketches may be one way to grasp at the layer that stores our stripped-down concepts of objects—“the essence” as Walther put it. That is to say: they may tell us something important about the fresh way that humans began to think when our ancestors rounded into modern form some time in the last 100,000 years. Sketches, on cave walls or on the backs of napkins, may be the literal depiction of the jump from horse to horseness, from everyday experience to abstract, symbolic thought, and with it, the modern human.
+
+Most of modern life flows from that transition: language, money, mathematics, and eventually computing itself. So, it would be fitting if sketches ended up playing an important role in the creation of a significant artificial intelligence.
+
+
+The Lascaux Drawings (Wikimedia Commons)
+But of course, for humans, a sketch is a depiction of a real thing. We can easily understand the relationship between the abstract four-line representation and the thing itself. The concept means something to us.  For SketchRNN, a sketch is a sequence of pen strokes, a shape being formed through time. The task for the machine is to take the essences of things depicted in our drawings and try to use them to understand the world as it is.  
+
+
+The SketchRNN team is exploring in many different directions. They might build a system that tries to get better at drawing through human feedback. They could train models on more than one kind of sketch. Maybe they'll find a way to see if their model, trained to recognize pigness in sketches, say, can generalize to photorealistic images. I'd love to see their model plugged into others that, for example, have been trained on traditional photographs of cats. This would let them skin cat drawings, coloring in the sketches with what a UC Berkeley-created neural network knows about the texture of cats.  
+
+
+Note: This is a cat drawing I made and put through the process they are describing.
+But they themselves admit that SketchRNN is a “first step” and that there is so much to learn. The arc of human life that these sketch-decoding machines find themselves a part of is long. The human history of art has occurred on roughly the opposite of technological time.
+
+In covering cave paintings in Europe for The New Yorker, Judith Thurman wrote that Paleolithic art remained mostly unchanged for “for 25 millennia with almost no innovation or revolt.” She notes that’s “four times as long as recorded history.”
+
+The art must have been deeply satisfying and its broader culture stable, a scholar tells Thurman.  
+
+Computers, and especially the new artificial intelligence techniques, are destabilizing long-held notions of what humans are good at. Humans fell to machines in checkers in the ’90s. Then chess. Most recently Go.  
+
+But the power of recent work in AI is not due to the speed at which the state of the art is advancing (though it is moving very fast). For Eck, it’s more that they are striving after the very bedrock of how humans think, and by extension, who we are. “A really core part of art is its basic humanity, that we’re communicating with each other,” Eck told me.  
+
+Taking in the whole enterprise of deep learning, all the different people working on the underlying mechanisms of human life—how we see, how we move, how we talk, how we recognize faces, how we structure words into stories, how we play music— and it looks a little like an outline not of any particular human, but humanness.
+Right now, it’s low-resolution, a caricature, a stick figure of real thought, but it is not hard to recognize the gathering intelligence from the sketch.

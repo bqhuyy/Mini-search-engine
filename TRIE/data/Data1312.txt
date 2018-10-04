@@ -1,0 +1,19 @@
+Exciting new material uses solar energy to remove human-made dye pollutants from water
+Exciting new material developed by Swansea scientists uses solar energy to remove man-made dye pollutants from water
+A novel composite material has been developed by scientists in the Energy Safety Research Institute (ESRI) at Swansea University which shows promise as a catalyst for the degradation of environmentally-harmful synthetic dye pollutants, which are released at a rate of nearly 300,000 tonnes a year into the world's water.
+
+This novel, non-hazardous photocatalytic material effectively removes dye pollutants from water, adsorbing more than 90 % of the dye and enhancing the rate of dye breakdown by almost ten times using visible light.
+
+The researchers, led by Dr. Charles W. Dunnill and Dr. Daniel Jones at the Energy Safety Research Institute in Swansea University, reported their discovery in the Nature open access journal Scientific Reports.
+
+By heating the reaction mixture at high pressures inside a sealed container, the composite is synthesized by growing ultra-thin "nanowires" of tungsten oxide on the surface of tiny particles of tantalum nitride. As a result of the incredibly small size of the two material components -- both the tantalum nitride and tungsten oxide are typically less than 40 billionths of a metre in diameter -- the composite provides a huge surface area for dye capture.
+
+The material then proceeds to break the dye down into smaller, harmless molecules using the energy provided by sunlight, in a process known as "photocatalytic degradation." Having removed the harmful dyes, the catalyst may simply be filtered from the cleaned water and reused.
+
+While the photocatalytic degradation of dyes has been investigated for several decades, it is only relatively recently that researchers have developed materials capable of absorbing the visible part of the solar spectrum -- other materials, such as titanium dioxide, are also able to break down dyes using solar energy, but their efficiency is limited as they only absorb higher energy, ultra-violet light. By making use of a much greater range of the spectrum, materials such as those used by the ESRI team at Swansea University team are able to remove pollutants at a far superior rate.
+
+Both of the materials used in the study have attracted significant interest in recent years. Tungsten oxide, in particular, is considered one of the most promising materials for a range of photocatalytic applications, owing to its high electrical conductivity, chemical stability and surface activity, in addition to its strong light absorbance. As a low band-gap semiconductor, tantalum nitride is red in colour due to its ability to absorb almost the entire spectrum of visible light, and therefore extracts a high amount of energy from sunlight to power the degradation processes.
+
+However, the true potential of the two materials was only realised once they were combined into a single composite. Due to the exchange of electrons between the two materials, the test dye used within the study was broken down by the composite at around double the rate achieved by tantalum nitride on its own, while tungsten oxide alone was shown to be incapable of dye degradation. In contrast to other leading photocatalytic materials, many of which are toxic to both humans and aquatic life, both parts of the composite are classed as non-hazardous materials.
+
+The scientists responsible for the study believe that their research provides just a taster of the material's potential. "Now that we've demonstrated the capabilities of our composite, we aim to not just improve on the material further, but to also begin work on scaling up the synthesis for real-world application." said Dr. Jones. "We're also exploring its viability in other areas, such as the photocatalysed splitting of water to generate hydrogen."
